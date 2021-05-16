@@ -15,6 +15,4 @@ Through a dashboard, we visualize China’s growth in outward-oriented foreign i
 
 ## Dashboard
 
-Please click on this link to view the dashboard -- 
-
-https://rpubs.com/kagen/datavizchinafdi
+Please click on this link to view the dashboard: https://rpubs.com/kagen/chineseinvestdb
