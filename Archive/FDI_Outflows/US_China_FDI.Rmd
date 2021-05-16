@@ -1,0 +1,74 @@
+---
+title: "US-China Comparison"
+author: "Kagen"
+date: "4/15/2021"
+output: html_document:
+  keep_md: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Loading Data In
+
+```{r cars}
+library(dplyr)
+library(tibble)
+library(ggplot2)
+library(readr)
+
+df <- read_csv('/Users/kagenlim/Documents/GitHub/data_viz/Group_B_ChinaWatchers/FDI_Outflows/API_BM.KLT.DINV.WD.GD.ZS_DS2_en_csv_v2_2183932.csv')
+```
+
+```{r}
+glimpse(df)
+
+head(df)
+
+colnames(df)
+
+transposed <- as.data.frame(t(as.matrix(df))) #Transpose
+ 
+#get the variables we want#
+colnames(transposed) <- transposed[1,]
+transposed$year <- rownames(transposed)
+
+transposed <- transposed %>% #moving year to the first
+  select(year, everything())
+
+tranposed_new <- transposed[!(rownames(transposed) %in% c('Country Name', 'Country Code')), ]
+```
+
+```{r}
+head(tranposed_new)
+```
+
+```{r}
+tranposed_new$`China` <- as.numeric(tranposed_new$`China`)
+
+tranposed_new$`United States` <- as.numeric(tranposed_new$`United States`)
+
+tranposed_new$`year` <- as.numeric(tranposed_new$`year`)
+
+#write.csv(tranposed_new, 'countriesfdi_new.csv')
+
+colors <- c("China" = "red", "United States" = "blue")
+
+china_us_fdi <- ggplot(tranposed_new) + 
+  geom_point(aes(x = `year`, y = `China`, color = "China")) +
+  geom_smooth(aes(x = `year`, y = `China`, color = "China"), method='lm', se = F) +
+  geom_point(aes(x = `year`, y = `United States`, color = "United States")) + 
+  stat_smooth(aes(x = `year`, y = `United States`, color = "United States"), method='lm', se = F) + 
+  ggthemes::theme_tufte() + 
+  labs(
+    x = 'Year',
+    y = 'FDI Net Outflows (%GDP)',
+    title = 'US vs China FDI Outflows (as %GDP)', 
+    color = "Legend"
+  ) + 
+  scale_color_manual(values = colors)
+
+#ggsave('china_us_fdi.png', device = 'png')
+```
+

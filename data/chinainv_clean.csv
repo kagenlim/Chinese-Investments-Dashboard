@@ -1,0 +1,1739 @@
+"Year","Month","Investor","Quantity","ShareSize","TransactionParty","Sector","Subsector","Country","Region","BRI","Greenfield"
+2005,"July","Jiangsu Yuejin",100,"1","MG","Transport","Autos","Britain","Europe",NA,NA
+2006,"July","CITIC",100,"0.51","Kuwait Petroleum","Energy","Oil","Indonesia","East Asia",NA,NA
+2006,"December","Sichuan Changhong",100,"0.75","Sterope investments","Finance","Investment","Netherlands","Europe",NA,NA
+2007,"February","Sinopec",100,NA,"Syntroleum","Energy",NA,"USA","USA",NA,NA
+2007,"July","CITIC",100,"0.08","Macarthur Coal","Energy","Coal","Australia","Australia",NA,NA
+2007,"July","Golden Dragon",100,"1",NA,"Metals","Copper","Mexico","North America",NA,"G"
+2007,"December","Sinosteel",100,"0.67","Zimasco","Metals","Steel","Zimbabwe","Sub-Saharan Africa",NA,NA
+2008,"March","CIC",100,NA,"Visa","Finance",NA,"USA","USA",NA,NA
+2009,"May","Nanjinzhao",100,"1","Cardero","Metals","Steel","Peru","South America",NA,NA
+2009,"August","CNOOC",100,NA,"Qatar Petroleum","Energy","Gas","Qatar","Arab Middle East and North Africa",NA,"G"
+2009,"September","State Construction Engineering",100,"2.75E-2","Baha Mar Resort","Tourism",NA,"Bahamas","North America",NA,"G"
+2009,"November","CNOOC",100,NA,"Statoil","Energy","Oil","USA","USA",NA,NA
+2009,"November","Shougang",100,NA,"Delphi","Transport","Autos","USA","USA",NA,NA
+2010,"January","Jinsheng Trading",100,"1",NA,"Other","Industry","Uzbekistan","West Asia",NA,"G"
+2010,"March","First Auto Works, China Development Bank",100,NA,NA,"Transport","Autos","South Africa","Sub-Saharan Africa",NA,NA
+2010,"May","Hopu Investment",100,"0.01","Chesapeake Energy","Energy","Gas","USA","USA",NA,NA
+2010,"June","Yunnan Metallurgical",100,"0.5","Selwyn Resources","Metals",NA,"Canada","North America",NA,"G"
+2010,"September","Shanda Interactive",100,"1","Eyedentity Games","Entertainment",NA,"South Korea","East Asia",NA,NA
+2010,"December","Xinjiang Hualing, Shanghai Boda",100,"1",NA,"Other","Industry","Georgia","West Asia",NA,"G"
+2010,"December","Sinomach-led consortium",100,"0.68",NA,"Logistics",NA,"Belarus","Europe",NA,"G"
+2011,"February","CIC",100,NA,"VTB Group","Finance","Banking","Russian Federation","West Asia",NA,NA
+2011,"April","ICBC",100,"1",NA,"Finance","Banking","Brazil","South America",NA,"G"
+2011,"April","Ningbo Joyson",100,"0.75","Preh","Transport","Autos","Germany","Europe",NA,NA
+2011,"May","Zijin Mining",100,NA,"Glencore","Metals",NA,"Switzerland","Europe",NA,NA
+2011,"August","JAC Motors",100,"0.2","SHC","Transport","Autos","Brazil","South America",NA,"G"
+2011,"September","Qingdao Tianzhong",100,"1",NA,"Transport","Autos","Vietnam","East Asia",NA,"G"
+2011,"October","Tsingtao Beer",100,"1","Namyong","Agriculture",NA,"Thailand","East Asia",NA,"G"
+2011,"November","ICBC",100,"0.05","Standard Bank","Finance","Banking","Argentina","South America",NA,NA
+2012,"January","Jilin Nonferrous",100,"1","Goldbrook Ventures","Metals",NA,"Canada","North America",NA,NA
+2012,"February","Golden Dragon",100,"1",NA,"Metals","Copper","USA","USA",NA,"G"
+2012,"February","Guangxi Liugong Machinery",100,NA,"Huta Stalowa Wola","Transport","Autos","Poland","Europe",NA,NA
+2012,"March","Bosai Minerals",100,NA,NA,"Metals","Aluminum","Guyana","South America",NA,NA
+2012,"March","Zijin Mining",100,NA,NA,"Metals",NA,"Russian Federation","West Asia",NA,"G"
+2012,"June","Xinjiang Hualing",100,"0.9","Basisbank","Finance","Banking","Georgia","West Asia",NA,NA
+2012,"July","China Copper Mines",100,NA,NA,"Metals","Copper","Zambia","Sub-Saharan Africa",NA,"G"
+2012,"September","Sinomach",100,"1",NA,"Metals","Steel","Uganda","Sub-Saharan Africa",NA,"G"
+2012,"October","Beijing Jingmei",100,"0.24","Coal of Africa","Energy","Coal","South Africa","Sub-Saharan Africa",NA,NA
+2012,"October","Sailun Tire",100,"1",NA,"Transport","Autos","Vietnam","East Asia",NA,"G"
+2013,"February","CIC",100,"0.2","Moscow Stock Exchange","Finance","Investment","Russian Federation","West Asia",NA,NA
+2013,"March","Beijing Enterprises",100,"1","Compagnie Generale de Eaux","Utilities",NA,"Portugal","Europe",NA,NA
+2013,"April","Hongye Investment",100,NA,"Singpoli","Finance","Investment","USA","USA",NA,NA
+2013,"April","CIC",100,"0.21","Russia Forest Products","Other","Timber","Russian Federation","West Asia",NA,NA
+2013,"May","China Construction Bank",100,"0.02","VTB Bank","Finance","Banking","Russian Federation","West Asia",NA,NA
+2013,"May","Fosun",100,NA,"Gunung Gahapi","Metals","Steel","Indonesia","East Asia",NA,NA
+2013,"October","Zongshen Industrial",100,"1",NA,"Metals","Steel","Myanmar","East Asia",1,"G"
+2013,"October","Fosun",100,NA,NA,"Real estate","Property","Britain","Europe",0,NA
+2013,"October","Henan Meijing",100,"1","Mooney Aviation","Transport","Aviation","USA","USA",0,NA
+2013,"December","Shenzhen Hazens",100,NA,NA,"Tourism",NA,"USA","USA",0,NA
+2013,"December","China South Industries",100,"1",NA,"Transport","Autos","Britain","Europe",0,"G"
+2014,"January","Goodbaby",100,"1","Columbus Holding","Other","Consumer","Germany","Europe",0,NA
+2014,"February","Beijing Capital",100,NA,"Silverstone","Real estate","Property","USA","USA",0,NA
+2014,"June","Tebian Electric Apparatus",100,NA,NA,"Energy",NA,"India","West Asia",0,NA
+2014,"July","ZTE",100,NA,NA,"Technology","Telecom","Brazil","South America",0,NA
+2014,"October","Baidu, Ping An, Qihoo",100,NA,"Viola Group","Finance",NA,"Israel","Europe",1,NA
+2014,"December","SAFE",100,"0.02","Saipem","Energy","Oil","Italy","Europe",1,NA
+2015,"January","Tencent, Renren",100,NA,"Singulariteam","Technology",NA,"Israel","Europe",1,NA
+2015,"February","China Communications Construction",100,NA,"PT. Suluh Cemerlang","Real estate","Property","Indonesia","East Asia",1,"G"
+2015,"March","Jinko Solar",100,"1",NA,"Energy","Alternative","Malaysia","East Asia",1,"G"
+2015,"April","Cybernaut",100,NA,"Skolkovo Foundation","Technology",NA,"Russian Federation","West Asia",1,"G"
+2015,"May","BYD",100,NA,NA,"Energy","Alternative","Brazil","South America",0,"G"
+2015,"May","CEFC",100,"0.05","J&T Finance","Finance","Investment","Czech Republic","Europe",1,NA
+2015,"June","Wanxiang",100,NA,NA,"Energy","Alternative","USA","USA",0,"G"
+2015,"August","Phicomm",100,"1",NA,"Technology","Telecom","India","West Asia",0,"G"
+2015,"September","Didi Kuadi",100,NA,"Lyft","Transport","Autos","USA","USA",0,NA
+2015,"September","Fujian Thai Hot",100,"0.52","Alliance HealthCare","Health",NA,"USA","USA",0,NA
+2015,"September","CEFC",100,"0.05","J&T Finance","Finance","Investment","Czech Republic","Europe",1,NA
+2015,"October","CIC, Didi Kuaidi",100,NA,"Grab Taxi","Transport","Autos","Singapore","East Asia",1,NA
+2015,"November","China Railway Rolling Stock",100,"1",NA,"Transport","Rail","USA","USA",0,"G"
+2015,"December","Highland Fund",100,"0.13","Norilsk Nickel","Metals",NA,"Russian Federation","West Asia",1,"G"
+2015,"December","Yunnan Construction Engineering",100,"0.75","Saysettha Development Zone","Real estate","Construction","Laos","East Asia",1,"G"
+2015,"December","Three Gorges",100,"0.49","EDP","Energy","Alternative","Italy","Europe",1,NA
+2015,"December","China Communications Construction",100,"1",NA,"Real estate","Property","Singapore","East Asia",1,"G"
+2016,"January","Inspur Group",100,"1",NA,"Entertainment",NA,"India","West Asia",0,"G"
+2016,"January","China Lilongwe Grand",100,"1",NA,"Real estate","Property","Malawi","Sub-Saharan Africa",0,"G"
+2016,"February","Sany Heavy",100,"1",NA,"Real estate","Construction","India","West Asia",0,"G"
+2016,"February","Visual China",100,NA,"Caryle Group","Entertainment",NA,"USA","USA",0,NA
+2016,"March","China General Nuclear",100,NA,NA,"Energy","Alternative","Malaysia","East Asia",1,"G"
+2016,"April","Jangho",100,"0.06","Primary Health","Health",NA,"Australia","Australia",0,NA
+2016,"May","Recon Group",100,"1","Aston Villa","Entertainment",NA,"Britain","Europe",0,NA
+2016,"May","Envision Energy",100,"0.5","Vive Energia","Energy","Alternative","Mexico","North America",0,"G"
+2016,"July","Xuzhou Construction Machinery",100,NA,NA,"Real estate","Construction","Brazil","South America",0,NA
+2016,"August","Fujian Construction Engineering",100,"1",NA,"Real estate","Construction","Kenya","Sub-Saharan Africa",1,"G"
+2016,"August","China Energy Engineering",100,"1",NA,"Energy","Hydro","Mongolia","East Asia",1,"G"
+2016,"August","Tencent, Legend",100,NA,"STX Entertainment","Entertainment",NA,"USA","USA",0,NA
+2016,"September","Bank of China",100,NA,NA,"Finance","Banking","Australia","Australia",0,"G"
+2016,"September","Sequoia Resources",100,NA,"Perpetual","Energy","Gas","Canada","North America",0,NA
+2016,"October","China Vanke",100,"0.33","Kidman","Agriculture",NA,"Australia","Australia",0,NA
+2016,"December","ZTE",100,"0.48","Netas","Technology","Telecom","Turkey","West Asia",1,NA
+2016,"December","Power Construction Corp",100,NA,"Lennar","Real estate","Property","USA","USA",0,"G"
+2016,"December","Didi Chuxing",100,NA,"99Taxis","Transport","Autos","Brazil","South America",0,NA
+2017,"January","China Communications Construction",100,"0.8","Concremat","Real estate","Construction","Brazil","South America",0,NA
+2017,"January","Trina Solar",100,"1",NA,"Energy","Alternative","Vietnam","East Asia",1,"G"
+2017,"March","CIC",100,NA,"Airbnb","Tourism",NA,"USA","USA",0,NA
+2017,"March","China Railway Rolling Stock",100,"1",NA,"Transport","Rail","USA","USA",0,"G"
+2017,"May","BYD",100,"1",NA,"Transport","Autos","Argentina","South America",0,"G"
+2017,"May","Shanghai United Real Estate",100,NA,"InterContinental","Tourism",NA,"Australia","Australia",0,NA
+2017,"May","Pagoda Investments",100,NA,"Icon Group","Health",NA,"Australia","Australia",0,NA
+2017,"August","JD.com",100,NA,"Go-Jek","Transport","Autos","Indonesia","East Asia",1,NA
+2017,"August","Hongbo Group",100,"1",NA,"Other","Consumer","Poland","Europe",1,"G"
+2017,"September","CIC, China Life",100,NA,"Interpark","Other",NA,"USA","USA",0,NA
+2017,"October","Alibaba",100,NA,"Magic Leap","Entertainment",NA,"USA","USA",0,NA
+2017,"November","CIC",100,"0.06","Eurasia Drilling","Energy","Oil","Russian Federation","West Asia",1,NA
+2018,"January","Risen Energy",100,"1",NA,"Energy","Alternative","Australia","Australia",0,NA
+2018,"February","China Poly",100,NA,NA,"Real estate","Property","Britain","Europe",0,"G"
+2018,"March","Sinopec",100,NA,"Chevron","Energy","Oil","Botswana","Sub-Saharan Africa",0,NA
+2018,"May","Shanghai Lingang",100,NA,NA,"Logistics",NA,"Belgium","Europe",0,"G"
+2018,"June","NetEase",100,NA,"Bungie","Entertainment",NA,"USA","USA",0,NA
+2018,"July","BYD",100,"0.5","Generate Capital","Transport","Autos","USA","USA",0,"G"
+2018,"July","Primavera Capital",100,NA,"Zoox","Transport","Autos","USA","USA",0,NA
+2018,"September","Venus Medtech",100,"1","Keystone Heart","Health",NA,"Israel","Europe",1,NA
+2018,"October","Alibaba",100,NA,"StoneCo IPO","Finance",NA,"Brazil","South America",0,NA
+2018,"November","CITIC",100,NA,"Wendel","Energy","Oil","Japan","East Asia",0,NA
+2019,"January","Alibaba",100,"1","Artisans","Technology",NA,"Germany","Europe",0,NA
+2019,"January","Huawei",100,NA,NA,"Technology","Telecom","India","West Asia",0,"G"
+2019,"March","CIC",100,NA,NA,"Metals","Steel","Russian Federation","West Asia",1,NA
+2019,"May","Alibaba",100,NA,"VMate","Entertainment",NA,"India","West Asia",0,NA
+2019,"May","Jiangsu Lianfa",100,"0.5","PT Ungaran Sari Garments","Other","Textiles","Indonesia","East Asia",1,"G"
+2019,"May","Huajian",100,NA,NA,"Other","Industry","Ethiopia","Sub-Saharan Africa",1,"G"
+2019,"June","Lingsheng Investment",100,"1","Salcomp","Other","Consumer","Finland","Europe",0,NA
+2019,"July","Hebei Rujiang",100,NA,NA,"Tourism",NA,"Australia","Australia",0,NA
+2019,"July","State Grid",100,NA,NA,"Energy","Gas","Australia","Australia",0,"G"
+2019,"August","Konfoong Materials",100,NA,"Soleras Advance Coatings","Technology",NA,"USA","USA",0,NA
+2019,"August","Huawei",100,NA,NA,"Technology","Telecom","Chile","South America",1,"G"
+2019,"September","Yifan Pharmaceuticals",100,"0.32","Bioton","Health",NA,"Poland","Europe",1,NA
+2019,"October","Redco",100,NA,"Infradev","Transport","Rail","Philippines","East Asia",1,NA
+2019,"November","Meituan Dianping-led consortium",100,NA,"Opera","Other","Consumer","Nigeria","Sub-Saharan Africa",1,NA
+2019,"November","China Merchants",100,"0.8","Warburg Pincus","Real estate","Property","Australia","Australia",0,NA
+2019,"December","Skyworth",100,NA,NA,"Other","Consumer","India","West Asia",0,"G"
+2020,"January","West China Cement",100,NA,"Ohorongo Cement","Real estate","Construction","Namibia","Sub-Saharan Africa",1,NA
+2020,"March","SAFE",100,NA,"HDFC","Finance","Banking","India","West Asia",0,NA
+2020,"August","Ansteel",100,"0.5","Sheffield Resources","Metals","Steel","Australia","Australia",0,"G"
+2006,"August","Wuxi Suntech",110,"0.67","MSK","Energy","Alternative","Japan","East Asia",NA,NA
+2006,"October","Jiangxi Copper",110,"0.75","bcMetals","Metals","Copper","Canada","North America",NA,"G"
+2008,"May","CIC",110,NA,"OGX","Energy","Oil","Brazil","South America",NA,NA
+2008,"December","Wuhan Iron and Steel, China Development Bank",110,NA,NA,"Metals","Steel","Liberia","Sub-Saharan Africa",NA,"G"
+2011,"June","Suning Appliance",110,"0.31","Laox","Other","Consumer","Japan","East Asia",NA,NA
+2012,"September","HNA",110,NA,NA,"Real estate","Property","Australia","Australia",NA,NA
+2012,"November","CIC",110,"0.125","Brookefield","Other","Timber","Canada","North America",NA,NA
+2013,"February","SAFE",110,"0.49","One Angel Square","Real estate","Property","Britain","Europe",NA,NA
+2013,"April","Vanke",110,"0.3",NA,"Real estate","Property","Singapore","East Asia",NA,NA
+2013,"May","CDH",110,"0.2","Mobile World","Technology","Telecom","Vietnam","East Asia",NA,NA
+2013,"June","Mindray Medical",110,"1","ZONARE Systems","Health",NA,"USA","USA",NA,NA
+2013,"July","Sinopec",110,NA,NA,"Chemicals",NA,"Singapore","East Asia",NA,"G"
+2013,"September","Shenzhen Zhongjin Lingnan",110,"0.47","Perilya","Metals",NA,"Australia","Australia",NA,NA
+2013,"October","Alibaba",110,"0.18","Shoprunner","Other","Consumer","USA","USA",0,NA
+2013,"November","Shanghai Zendai",110,NA,"AECI","Real estate","Property","South Africa","Sub-Saharan Africa",1,"G"
+2014,"July","SAFE",110,"0.02","Prysiam","Technology","Telecom","Italy","Europe",1,NA
+2014,"July","Fosun",110,"0.23","Tom Tailor","Other","Consumer","Germany","Europe",0,NA
+2014,"July","Solargiga",110,"0.9",NA,"Energy","Alternative","Ghana","Sub-Saharan Africa",1,"G"
+2014,"August","Shenzhen Hazens",110,"1",NA,"Tourism",NA,"USA","USA",0,NA
+2014,"September","Shanghai Greenland",110,NA,"Pacific Road","Real estate","Construction","Australia","Australia",0,"G"
+2015,"January","Ningbo Joyson",110,"0.75","Quin GmbH","Transport","Autos","Germany","Europe",0,NA
+2015,"February","Anhui Zhongding",110,"1","Wegu Holding","Transport","Autos","Germany","Europe",0,NA
+2015,"December","Qingdao Hengshun",110,"0.34","Coal of Africa","Energy","Coal","South Africa","Sub-Saharan Africa",1,"G"
+2015,"December","Jin Jiang Hotels",110,"1.4999999999999999E-2","Accor","Tourism",NA,"France","Europe",0,NA
+2016,"January","Reignwood",110,"0.51","Voss","Other","Consumer","Norway","Europe",0,NA
+2016,"March","Legend",110,"0.9","Kailis Bros","Agriculture",NA,"Australia","Australia",0,NA
+2016,"April","State Grid",110,NA,"Mato Grosso","Energy",NA,"Brazil","South America",0,NA
+2016,"May","HNA",110,"0.13","Virgin Australia","Transport","Aviation","Australia","Australia",0,NA
+2016,"May","Bank of China",110,"1",NA,"Finance","Banking","Turkey","West Asia",1,NA
+2016,"May","Sinochem",110,NA,"DyStar","Chemicals",NA,"USA","USA",0,NA
+2016,"July","Shanghai Shenglong",110,NA,NA,"Real estate","Construction","Australia","Australia",0,NA
+2016,"August","IDG Capital",110,"0.2","Olympique Lyonnais","Entertainment",NA,"France","Europe",0,NA
+2016,"August","Shenyang Blue Silver",110,"0.85","Durr Ecoclean","Other","Industry","Germany","Europe",0,NA
+2016,"September","China Minsheng Investment",110,NA,"Societe Generale","Real estate","Property","Britain","Europe",0,NA
+2016,"September","CEFC",110,"0.35","Taiwan Petroleum Corp","Energy","Oil","Chad","Sub-Saharan Africa",1,NA
+2016,"September","China General Nuclear",110,NA,"Eolfi","Energy","Alternative","France","Europe",0,"G"
+2017,"January","Ming Yuan Silu",110,"1",NA,"Real estate","Construction","Uzbekistan","West Asia",1,"G"
+2017,"February","JAC Motors",110,NA,"Giant Motors","Transport","Autos","Mexico","North America",0,NA
+2017,"February","Minmetals",110,"1",NA,"Real estate","Property","Singapore","East Asia",1,"G"
+2017,"March","Shanghai Inesa",110,"1","Konsalnet","Other",NA,"Poland","Europe",1,NA
+2017,"March","China Communications Construction",110,NA,NA,"Real estate","Property","Indonesia","East Asia",1,NA
+2017,"April","AVIC",110,"0.5","Magna","Transport","Autos","Canada","North America",0,NA
+2017,"May","Truking Group",110,"0.75","Romaco","Health",NA,"Germany","Europe",0,NA
+2017,"May","China Minsheng Investment",110,"0.8","75 Howard","Real estate","Property","USA","USA",0,NA
+2017,"June","CITIC",110,"0.6","Halyk Bank","Finance","Banking","Kazakhstan","West Asia",1,NA
+2017,"June","Geely Auto",110,"0.5","Proton","Transport","Autos","Malaysia","East Asia",1,NA
+2017,"June","Chongqing Sokon",110,NA,"AM General","Transport","Autos","USA","USA",0,NA
+2017,"June","China Communications Construction",110,NA,NA,"Other","Industry","Bangladesh","West Asia",1,"G"
+2017,"August","Xinjiang Goldwind",110,"1","Western Water Corporation","Utilities",NA,"Samoa","East Asia",1,NA
+2017,"November","Hisense Group",110,"0.95","Toshiba","Entertainment",NA,"Japan","East Asia",0,NA
+2017,"November","Three Gorges",110,"0.25",NA,"Energy","Hydro","Peru","South America",1,"G"
+2017,"December","Tempus",110,"0.2","Trans Maldivian Airways","Transport","Aviation","Maldives","West Asia",1,NA
+2018,"April","Country Garden",110,NA,"Alisa Wharf","Real estate","Construction","Britain","Europe",0,"G"
+2018,"April","Wuhan Zhengtang",110,NA,NA,"Real estate","Property","Australia","Australia",0,NA
+2018,"May","China Jinjiang Environment",110,"0.95","Indo Green Power","Energy","Alternative","Indonesia","East Asia",1,NA
+2018,"July","Tsinghua Holdings",110,NA,"Telit","Transport","Autos","Britain","Europe",0,NA
+2018,"September","Fosun",110,"0.8","International Gemological Institute","Other","Consumer","Netherlands","Europe",0,NA
+2018,"October","State Development and Investment Corp",110,NA,"InfraRed","Energy","Alternative","Britain","Europe",0,NA
+2018,"October","State Power Investment",110,NA,"Haughton Solar Farm","Energy","Alternative","Australia","Australia",0,"G"
+2018,"November","China National Nuclear",110,"0.69","Rio Tinto","Metals",NA,"Namibia","Sub-Saharan Africa",1,NA
+2018,"December","Alpha Frontier",110,NA,"Wooga","Entertainment",NA,"Germany","Europe",0,NA
+2019,"January","Fosun",110,"0.51","La Positiva Seguros y Reaseguros","Finance",NA,"Peru","South America",1,NA
+2019,"March","China Communications Construction",110,"0.75","Chuwa Bussan","Other","Industry","Japan","East Asia",0,NA
+2019,"June","Genertec",110,NA,NA,"Energy","Alternative","Hungary","Europe",1,"G"
+2019,"June","Hebei Rujiang",110,NA,NA,"Real estate","Property","Australia","Australia",0,NA
+2020,"January","Tencent",110,"0.71","Funcom","Entertainment",NA,"Norway","Europe",0,NA
+2020,"April","Sinomach, China Nonferrous",110,NA,"M.T. Abraham","Metals","Aluminum","Bosnia","Europe",1,NA
+2020,"December","Chifeng Jilong",110,NA,"Resolute","Metals",NA,"Ghana","Sub-Saharan Africa",1,NA
+2005,"June","Sinopec",120,"0.4","Synenco","Energy","Oil","Canada","North America",NA,"G"
+2006,"May","MCC",120,"1",NA,"Other","Timber","Russian Federation","West Asia",NA,"G"
+2007,"November","Youngor",120,"1","Kellwood Co","Other","Textiles","USA","USA",NA,NA
+2009,"November","Great Wall Motor",120,NA,"Litex Motors","Transport","Autos","Bulgaria","Europe",NA,"G"
+2010,"April","Jinchuan",120,"0.49","Kazakhmys","Metals","Copper","Kazakhstan","West Asia",NA,NA
+2010,"May","Tangshan Jidong Cement, China Development Bank",120,"0.6","Women Investment Portfolio Holdings","Real estate","Construction","South Africa","Sub-Saharan Africa",NA,NA
+2011,"January","Wuhan Iron and Steel",120,"0.6","Adriana Resources","Metals","Steel","Canada","North America",NA,"G"
+2011,"April","Evergreen",120,"1","MagIndustries","Agriculture",NA,"Congo","Sub-Saharan Africa",NA,NA
+2011,"May","Fosun",120,"0.1","Folli Follie","Other","Consumer","Greece","Europe",NA,NA
+2011,"November","China Railway Engineering",120,"0.1","Transpacific, Bukit Asam","Transport","Rail","Indonesia","East Asia",NA,"G"
+2012,"February","China Shipping",120,NA,NA,"Transport","Shipping","USA","USA",NA,NA
+2012,"May","Sinomach",120,"0.6","Procon","Metals",NA,"Canada","North America",NA,NA
+2012,"June","Chery Auto",120,NA,NA,"Transport","Autos","Turkey","West Asia",NA,"G"
+2012,"September","Synutra",120,NA,"Sodiaal","Agriculture",NA,"France","Europe",NA,"G"
+2012,"September","BGI",120,"1","Complete Genomics","Health",NA,"USA","USA",NA,NA
+2012,"October","Shandong Linglong Tire",120,"1",NA,"Transport","Autos","Thailand","East Asia",NA,"G"
+2013,"May","Keep Glory",120,"1",NA,"Other","Textiles","Vietnam","East Asia",NA,"G"
+2013,"October","CNOOC",120,"0.1","Total and Wintershall","Energy","Gas","Argentina","South America",0,NA
+2013,"December","Shenhua",120,"0.51","Energy Corporation of America","Energy","Gas","USA","USA",0,"G"
+2014,"March","Shandong Ruyi",120,NA,NA,"Other","Textiles","Pakistan","West Asia",1,NA
+2014,"July","Alibaba",120,NA,"Kabam","Entertainment",NA,"USA","USA",0,NA
+2014,"August","Shanghai Shenglong",120,NA,"Anton Capital","Real estate","Property","Australia","Australia",0,NA
+2014,"November","CITIC",120,NA,NA,"Agriculture",NA,"Angola","Sub-Saharan Africa",1,NA
+2015,"January","Gansu Tianqing",120,NA,NA,"Real estate","Property","Canada","North America",0,NA
+2015,"March","Geo-Jade Petroleum",120,"1","Caspian Nature Resources","Energy","Oil","Kazakhstan","West Asia",1,NA
+2015,"May","CITIC",120,"0.8","International Finance Corporation","Real estate","Property","Rwanda","Sub-Saharan Africa",1,"G"
+2015,"May","CITIC",120,"0.8","International Finance Corporation","Real estate","Property","Kenya","Sub-Saharan Africa",1,"G"
+2015,"August","Power Construction Corp",120,NA,NA,"Energy","Alternative","Pakistan","West Asia",1,"G"
+2015,"September","Bright Foods, JIC, Shenzhen Donghuatong",120,"1","Miquel Alimentacio","Agriculture",NA,"Spain","Europe",0,NA
+2015,"October","China Communications Construction",120,NA,NA,"Transport","Shipping","Sao Tome","Sub-Saharan Africa",0,"G"
+2015,"December","Dalian Wanda",120,"1",NA,"Real estate","Property","Britain","Europe",0,NA
+2016,"March","Shanghai Inesa",120,NA,"Securecorp and eWitness Nominees","Technology",NA,"Australia","Australia",0,NA
+2016,"April","AVIC, Han's Laser",120,"0.95","Aritex","Transport","Aviation","Spain","Europe",0,NA
+2016,"May","Tsinghua Holdings",120,"0.02","Marvell Technology Group","Technology",NA,"USA","USA",0,NA
+2016,"May","SDIC",120,"0.4",NA,"Energy","Coal","Indonesia","East Asia",1,NA
+2016,"June","Anhui Conch",120,NA,"Battambang Cement","Real estate","Construction","Cambodia","East Asia",1,"G"
+2016,"August","Shanda Investment",120,"9.9000000000000005E-2","Community Health Systems","Health",NA,"USA","USA",0,NA
+2016,"November","Legend",120,"0.02","Santos","Energy","Gas","Australia","Australia",0,NA
+2016,"November","Shanghai Greenland",120,NA,NA,"Real estate","Construction","Canada","North America",0,"G"
+2016,"November","Changsheng China",120,NA,NA,"Real estate","Property","Australia","Australia",0,NA
+2016,"December","Hebei Steel",120,NA,NA,"Metals","Steel","Serbia","Europe",1,NA
+2016,"December","Shandong Ruyi",120,"1","Aquascutum","Other","Textiles","Britain","Europe",0,NA
+2017,"March","Beijing Capital",120,NA,NA,"Real estate","Property","Britain","Europe",0,NA
+2017,"May","Luye Group",120,NA,"Pulse Health","Health",NA,"Australia","Australia",0,NA
+2017,"June","China Galaxy Securities",120,"0.5","CIMB","Finance","Investment","Malaysia","East Asia",1,NA
+2017,"October","CNPC",120,"0.2",NA,"Energy","Oil","Brazil","South America",0,"G"
+2017,"November","Primavera Capital",120,"0.2","WorldStrides","Other","Education","USA","USA",0,NA
+2018,"February","Fosun",120,NA,"Lanvin","Other","Textiles","France","Europe",0,NA
+2018,"April","CITIC",120,NA,NA,"Energy",NA,"UAE","Arab Middle East and North Africa",1,NA
+2018,"June","Haier",120,NA,NA,"Other","Consumer","USA","USA",0,NA
+2018,"July","JiaHe JianAn",120,NA,NA,"Real estate","Property","Australia","Australia",0,"G"
+2018,"October","Risen Energy",120,NA,"Merridin Solar Farm","Energy","Alternative","Australia","Australia",0,NA
+2018,"December","Sunny Yi Feng",120,"1",NA,"Other","Industry","Zimbabwe","Sub-Saharan Africa",1,"G"
+2019,"April","Tebian Electric Apparatus",120,"0.55000000000000004",NA,"Energy","Hydro","Guinea","Sub-Saharan Africa",1,"G"
+2019,"July","China Mobile",120,NA,NA,"Technology","Telecom","Singapore","East Asia",1,"G"
+2019,"July","Hebei Steel",120,NA,NA,"Metals","Steel","Serbia","Europe",1,NA
+2019,"September","Fosun",120,"0.51",NA,"Real estate","Property","India","West Asia",0,NA
+2019,"December","Shanghai Shenglong",120,NA,NA,"Real estate","Property","USA","USA",0,"G"
+2019,"December","Tsinghua Holdings",120,NA,"Synaptics Inc.","Technology",NA,"USA","USA",0,NA
+2005,"April","CNOOC",130,"0.17","MEG Energy","Energy","Oil","Canada","North America",NA,NA
+2007,"May","LinkGlobal Logistics",130,NA,"Parchim Airport","Transport","Aviation","Germany","Europe",NA,NA
+2008,"April","CNOOC",130,"0.5","Husky Energy","Energy","Gas","Indonesia","East Asia",NA,"G"
+2009,"June","Ansteel",130,"0.24","Gindalbie Metals","Metals","Steel","Australia","Australia",NA,NA
+2010,"August","China Communications Construction",130,"1","Friede Goldman United","Energy","Oil","USA","USA",NA,NA
+2010,"December","Taiyuan Heavy",130,"1","Valley Longwall","Energy","Coal","Australia","Australia",NA,NA
+2011,"January","Jiangsu Jinsheng",130,"0.5","EMAG","Other","Industry","Germany","Europe",NA,NA
+2011,"July","Haier",130,NA,"Panasonic","Other","Consumer","Japan","East Asia",NA,NA
+2011,"November","Huawei",130,NA,NA,"Technology","Telecom","Italy","Europe",NA,"G"
+2011,"December","Three Gorges",130,"1",NA,"Energy","Alternative","Pakistan","West Asia",NA,"G"
+2012,"January","HNA",130,NA,"Assa Properties","Tourism",NA,"USA","USA",NA,NA
+2012,"July","China South Locomotive",130,"1",NA,"Transport","Rail","Malaysia","East Asia",NA,"G"
+2012,"September","China Power Investment",130,NA,NA,"Energy",NA,"Nigeria","Sub-Saharan Africa",NA,NA
+2012,"September","Harbin Electric",130,"0.5","Hattat","Energy",NA,"Turkey","West Asia",NA,"G"
+2013,"April","China National Aviation Fuel",130,"0.26",NA,"Energy","Oil","South Korea","East Asia",NA,"G"
+2013,"August","China Railway Rolling Stock",130,"1",NA,"Transport","Rail","Malaysia","East Asia",NA,"G"
+2013,"December","Three Gorges",130,"0.5","Cachoeira-caldeirao","Energy","Hydro","Brazil","South America",0,NA
+2014,"September","Huayi Brothers",130,"1",NA,"Entertainment",NA,"USA","USA",0,"G"
+2014,"November","Vision Investment",130,NA,NA,"Real estate","Property","Australia","Australia",0,NA
+2014,"December","Yunnan Provincial Overseas Investment, Dongyan",130,"0.75","Lao State Fuel, Lao-China Joint Investment","Energy","Oil","Laos","East Asia",1,"G"
+2015,"April","China Vanke",130,"0.51","Bush Tower","Real estate","Property","USA","USA",0,NA
+2015,"April","Tencent",130,"0.15","Glu Mobile","Technology","Telecom","USA","USA",0,NA
+2015,"May","Jumei",130,NA,"It's Skin","Other","Consumer","South Korea","East Asia",1,NA
+2015,"June","Shanghai Greenland",130,NA,NA,"Tourism",NA,"Australia","Australia",0,NA
+2015,"July","NetDragon",130,"1","Promethean World","Entertainment",NA,"Britain","Europe",0,NA
+2015,"July","Shanghai Construction",130,NA,"Kuafu","Real estate","Property","USA","USA",0,NA
+2015,"October","China Minsheng Investment",130,"0.34","Luxaviation","Transport","Aviation","Luxembourg","Europe",1,NA
+2015,"December","Liuhe",130,"0.2","Lansing Trade Group","Agriculture",NA,"USA","USA",0,NA
+2016,"February","Alibaba",130,"0.06","Groupon","Other","Consumer","USA","USA",0,NA
+2016,"March","Jangho",130,"0.11","Primary Health","Health",NA,"Australia","Australia",0,NA
+2016,"July","Wuhan Zhengtang",130,NA,NA,"Real estate","Property","Australia","Australia",0,NA
+2016,"August","Jiangsu Longze",130,"0.51","Diamond Power Infrastructure","Energy",NA,"India","West Asia",0,NA
+2016,"October","Jin Jiang Hotels",130,NA,"WeWork","Other",NA,"USA","USA",0,NA
+2017,"May","Hangzhou Great Star",130,NA,"Masco","Other","Industry","USA","USA",0,NA
+2017,"September","China Iron and Steel Research Institute",130,NA,"Cotesa","Transport","Aviation","Germany","Europe",0,NA
+2018,"May","Zhejiang Semir",130,NA,"Sofiaza","Other","Textiles","France","Europe",0,NA
+2018,"December","Huawei",130,NA,NA,"Technology","Telecom","Canada","North America",0,NA
+2019,"January","Hebei Steel",130,"0.7","Tata Steel","Metals","Steel","Thailand","East Asia",1,NA
+2019,"July","Norinco",130,NA,NA,"Transport","Autos","Germany","Europe",0,NA
+2019,"July","Wanhua Chemical",130,NA,"Chematur Technologies","Chemicals",NA,"Sweden","Europe",0,NA
+2020,"January","Alibaba",130,NA,"Global Blue","Finance",NA,"Switzerland","Europe",0,NA
+2005,"October","Sinosteel",140,"0.5","Midwest","Metals","Steel","Australia","Australia",NA,"G"
+2006,"November","Three Gorges",140,"0.9","EDL","Energy","Hydro","Laos","East Asia",NA,"G"
+2007,"June","China Ocean Shipping",140,"0.8","Burg Industries","Transport","Shipping","Netherlands","Europe",NA,NA
+2008,"June","COFCO",140,"0.05","Smithfield Foods","Agriculture",NA,"USA","USA",NA,NA
+2008,"September","Sany Heavy",140,NA,NA,"Real estate","Construction","Germany","Europe",NA,"G"
+2009,"May","Guangdong Rising Asset Management",140,"0.2","PanAust","Metals",NA,"Australia","Australia",NA,NA
+2009,"December","AVIC",140,"0.81","Future Advanced Composite Components","Transport","Aviation","Austria","Europe",NA,NA
+2010,"April","Sichuan Hanlong",140,"0.55000000000000004","Moly Mines","Metals",NA,"Australia","Australia",NA,NA
+2010,"May","Jiangsu Qiyuan",140,"1",NA,"Real estate","Construction","Ethiopia","Sub-Saharan Africa",NA,"G"
+2010,"July","Sinomach",140,NA,NA,"Agriculture",NA,"Jamaica","North America",NA,NA
+2011,"January","ICBC",140,"0.8","Bank of East Asia","Finance","Banking","USA","USA",NA,NA
+2011,"January","Sinohydro",140,"0.9","Sagarmatha Power","Energy","Hydro","Nepal","West Asia",NA,"G"
+2011,"July","COFCO",140,"0.99","Tully Sugar","Agriculture",NA,"Australia","Australia",NA,NA
+2011,"October","Wolong Holding",140,"1","ATB Group","Transport","Autos","Austria","Europe",NA,NA
+2012,"December","China Shipping, China Ocean Shipping, China Merchants",140,"10%,10%,10%","Yang Ming Marine","Logistics",NA,"Taiwan","East Asia",NA,NA
+2013,"May","Shandong Qixing",140,NA,"Stonewall Resources","Metals",NA,"Australia","Australia",NA,NA
+2013,"July","Meidu Holding",140,"1","Woodbine","Energy","Oil","USA","USA",NA,NA
+2013,"August","Shanxi Coking Coal",140,"1","Inova","Metals",NA,"Australia","Australia",NA,NA
+2013,"September","Sinoma",140,"0.59","Hazemag & EPR","Real estate","Construction","Germany","Europe",NA,NA
+2014,"March","Fosun",140,"0.19","BHF","Finance","Banking","Germany","Europe",0,NA
+2014,"June","Goodbaby",140,"1","Evenflo","Other","Consumer","USA","USA",0,NA
+2014,"October","SAFE",140,"0.02","Mediobanca","Finance","Banking","Italy","Europe",1,NA
+2014,"December","Three Gorges",140,"0.49","EDP","Energy","Alternative","Brazil","South America",0,NA
+2015,"March","Cinda",140,"0.65",NA,"Real estate","Property","USA","USA",0,NA
+2015,"March","Fosun",140,"0.05","Thomas Cook Group","Tourism",NA,"Britain","Europe",0,NA
+2015,"May","Shanghai Shenglong",140,NA,"Citta","Real estate","Property","Australia","Australia",0,NA
+2015,"October","Shanghai Construction",140,NA,NA,"Tourism",NA,"USA","USA",0,NA
+2015,"November","China Merchants",140,"1",NA,"Logistics",NA,"Belarus","Europe",1,"G"
+2016,"January","Cinda",140,"0.3",NA,"Real estate","Property","USA","USA",0,NA
+2016,"February","Guangdong Midea",140,"4.8000000000000001E-2","Kuka","Technology",NA,"Germany","Europe",0,NA
+2016,"May","China Ocean Shipping",140,"0.35","Euromax Terminal Rotterdam","Logistics",NA,"Netherlands","Europe",0,NA
+2016,"May","Guangxi Investment",140,NA,NA,"Metals","Aluminum","Malaysia","East Asia",1,"G"
+2016,"May","China Energy Conservation (Valiant)",140,"1","MP Biomedicals","Health",NA,"USA","USA",0,NA
+2016,"June","Everbright",140,NA,"Novago","Utilities",NA,"Poland","Europe",1,NA
+2016,"July","Hailiang",140,NA,NA,"Real estate","Property","Australia","Australia",0,"G"
+2016,"August","China Orient Asset Management",140,NA,"Kaufman Organization","Real estate","Property","USA","USA",0,NA
+2016,"October","HNA",140,NA,NA,"Entertainment",NA,"USA","USA",0,NA
+2016,"October","Jiangxi International Economic and Technical Cooperation",140,NA,NA,"Energy","Alternative","Kenya","Sub-Saharan Africa",1,"G"
+2016,"November","Cultural Investment",140,"0.75","Framestore","Entertainment",NA,"Britain","Europe",0,NA
+2016,"November","State Power Investment",140,NA,NA,"Energy","Alternative","Chile","South America",1,"G"
+2016,"December","Dahua Group",140,NA,NA,"Real estate","Property","Australia","Australia",0,"G"
+2017,"January","Orient Securities",140,"0.1","AppLovin","Entertainment",NA,"USA","USA",0,NA
+2017,"February","Hebei Construction",140,NA,NA,"Energy","Hydro","Laos","East Asia",1,"G"
+2017,"May","Legend",140,"0.02","Santos","Energy","Gas","Australia","Australia",0,NA
+2017,"May","State Construction Engineering",140,NA,NA,"Real estate","Property","USA","USA",0,NA
+2017,"August","Shandong Hengyuan",140,NA,NA,"Energy","Oil","Malaysia","East Asia",1,NA
+2017,"September","HNA",140,"0.19","Rezidor","Tourism",NA,"Sweden","Europe",0,NA
+2017,"November","Tsinghua Holdings",140,"0.08","Dialog Semiconductor","Technology",NA,"Britain","Europe",0,NA
+2018,"January","Huaxin Cement",140,"1",NA,"Real estate","Construction","Nepal","West Asia",1,"G"
+2018,"January","Shandong Sun Paper",140,NA,NA,"Other","Timber","Laos","East Asia",1,NA
+2018,"January","Shanghai Electric",140,NA,NA,"Energy","Alternative","Serbia","Europe",1,"G"
+2018,"February","Hebei Construction",140,NA,NA,"Energy","Hydro","Laos","East Asia",1,"G"
+2018,"April","NetDragon",140,"1","Edmodo","Other","Education","USA","USA",0,NA
+2019,"January","China Nonferrous",140,NA,NA,"Chemicals",NA,"USA","USA",0,NA
+2019,"February","Xian Longi",140,NA,NA,"Energy","Alternative","Malaysia","East Asia",1,"G"
+2019,"April","Anhui Conch",140,NA,NA,"Real estate","Construction","Uzbekistan","West Asia",1,"G"
+2019,"July","SAFE",140,"0.13","YPF Luz","Energy","Alternative","Argentina","South America",0,NA
+2020,"January","China Railway Construction",140,"0.2",NA,"Transport","Rail","Colombia","South America",0,"G"
+2020,"January","Sun Share Investments",140,"1",NA,"Real estate","Property","Zambia","Sub-Saharan Africa",1,"G"
+2020,"March","Fosun",140,NA,"BioNTech","Health",NA,"Germany","Europe",0,NA
+2020,"March","China Everbright",140,"0.62","Laureate","Other","Education","Malaysia","East Asia",1,NA
+2020,"November","Pharmaron Beijing",140,"1","Absorption Systems","Health",NA,"USA","USA",0,NA
+2007,"September","Sany Heavy",150,NA,NA,"Real estate","Construction","USA","USA",NA,"G"
+2007,"October","China Ocean Shipping",150,"0.2","Suez Terminal","Logistics",NA,"Egypt","Arab Middle East and North Africa",NA,NA
+2008,"April","Hopu Investment",150,NA,"Lung Ming","Metals","Steel","Mongolia","East Asia",NA,NA
+2009,"May","HNA",150,NA,"Allco Finance","Finance","Investment","Australia","Australia",NA,NA
+2009,"December","Jin Jiang Hotels",150,"0.5","Interstate Hotel and Resorts","Tourism",NA,"USA","USA",NA,NA
+2010,"May","CNPC",150,NA,NA,"Energy",NA,"Indonesia","East Asia",NA,"G"
+2010,"September","CITIC",150,NA,"KazMunayGas","Transport","Autos","Kazakhstan","West Asia",NA,NA
+2010,"November","China Merchants, China Development Bank",150,"0.48","ZIM Integrated Shipping","Transport","Shipping","Nigeria","Sub-Saharan Africa",NA,NA
+2011,"December","CNPC",150,"0.51","Varun Industries","Energy","Oil","Madagascar","Sub-Saharan Africa",NA,"G"
+2012,"January","China Merchants",150,"0.3","Aitken Spence","Logistics",NA,"Sri Lanka","West Asia",NA,NA
+2012,"May","China Architecture Design and Research",150,"1","CPG","Real estate","Construction","Singapore","East Asia",NA,NA
+2012,"September","Lenovo",150,"1","Digibras and Dual","Technology",NA,"Brazil","South America",NA,NA
+2012,"October","Shanghai Auto",150,"0.51","CP Group","Transport","Autos","Thailand","East Asia",NA,NA
+2012,"November","Mengniu Dairy",150,"1",NA,"Agriculture",NA,"New Zealand","East Asia",NA,"G"
+2013,"February","Geely Auto",150,"1","Manganese Bronze","Transport","Autos","Britain","Europe",NA,NA
+2013,"October","Sinopec",150,NA,NA,"Energy","Oil","Sao Tome","Sub-Saharan Africa",0,"G"
+2014,"February","China Nonferrous",150,"1",NA,"Metals","Copper","Congo","Sub-Saharan Africa",1,"G"
+2014,"February","Wanxiang",150,"1","Fisker Automotive","Transport","Autos","USA","USA",0,NA
+2014,"September","Shanghai Shenglong",150,NA,"Challenger Life","Real estate","Property","Australia","Australia",0,NA
+2014,"December","Guodian",150,NA,NA,"Energy","Alternative","Canada","North America",0,"G"
+2015,"January","Zijin Mining",150,"0.6","Kyrgyzaltyn","Metals",NA,"Kyrgyzstan","West Asia",1,"G"
+2015,"July","Alibaba",150,NA,"Singapore Post","Logistics",NA,"Singapore","East Asia",1,NA
+2015,"August","Jangho",150,NA,"Vision Eye","Health",NA,"Australia","Australia",0,NA
+2015,"October","C Banner International",150,"1","Hamleys","Other","Consumer","Britain","Europe",0,NA
+2015,"October","Sinomach",150,"0.35","Engo","Energy",NA,"Pakistan","West Asia",1,NA
+2015,"October","Renren",150,"0.13","Sofi","Finance",NA,"USA","USA",0,NA
+2015,"November","Shanghai Yuyuan Tourist Mart",150,"1","Resort Tomamu","Tourism",NA,"Japan","East Asia",0,NA
+2016,"May","Guangdong Midea",150,"3.4000000000000002E-2","Kuka","Technology",NA,"Germany","Europe",0,NA
+2016,"May","Shanda Group",150,"0.12","LendingClub","Finance",NA,"USA","USA",0,NA
+2016,"June","Spearhead",150,NA,"Smaato","Technology",NA,"USA","USA",0,NA
+2016,"June","Anhui Zhongding",150,"1","AMK Holding","Transport","Autos","Germany","Europe",0,NA
+2016,"August","Tidfore Heavy",150,NA,"Uttam Galva Metallics","Metals","Steel","India","West Asia",0,NA
+2016,"August","China Poly",150,NA,"SunEdison","Energy","Alternative","USA","USA",0,NA
+2016,"September","Vanke",150,NA,"Henderson Global","Real estate","Property","Britain","Europe",0,NA
+2016,"October","China Ocean Shipping",150,"0.4","Maersk","Transport","Shipping","Italy","Europe",1,"G"
+2016,"December","Huawei",150,NA,"Toga Networks","Technology","Telecom","Israel","Europe",1,NA
+2017,"June","Tsingshan Steel, Delong Holdings",150,NA,"Morowali","Metals","Steel","Indonesia","East Asia",1,"G"
+2017,"July","Tencent",150,NA,"Go-Jek","Transport","Autos","Indonesia","East Asia",1,NA
+2018,"January","Tencent",150,"0.1","Skydance","Entertainment",NA,"USA","USA",0,NA
+2018,"February","Alibaba",150,NA,"BigBasket","Agriculture",NA,"India","West Asia",0,NA
+2018,"February","Alibaba",150,NA,"Zomato","Agriculture",NA,"India","West Asia",0,NA
+2018,"April","Alibaba",150,"1","Rocket Internet","Other","Consumer","Pakistan","West Asia",1,NA
+2018,"June","YuanMing Capital led consortium",150,NA,"Mevion Medical","Health",NA,"USA","USA",0,NA
+2018,"September","Liaoning Port",150,"0.49","RDZ","Logistics",NA,"Russian Federation","West Asia",1,"G"
+2018,"December","Zhejiang Huayou Cobalt",150,NA,NA,"Metals","Copper","Democratic Republic of the Congo","Sub-Saharan Africa",0,"G"
+2018,"December","Tencent, Hillhouse, Meituan Dianping",150,NA,"Swiggy","Other","Consumer","India","West Asia",0,NA
+2019,"February","Tencent",150,"0.05","Reddit","Technology","Telecom","USA","USA",0,NA
+2019,"May","Huaxin Cement",150,"1",NA,"Real estate","Construction","Uzbekistan","West Asia",1,"G"
+2019,"August","Chengtun Mining",150,NA,NA,"Metals","Steel","Indonesia","East Asia",1,"G"
+2019,"September","Huaxin Cement",150,NA,"ARM","Real estate","Construction","Tanzania","Sub-Saharan Africa",1,NA
+2019,"October","Zijin Mining",150,"0.04","Ivanhoe","Metals",NA,"Canada","North America",0,NA
+2019,"November","Evergrande",150,"0.14000000000000001",NA,"Transport","Autos","Sweden","Europe",0,NA
+2019,"November","Tencent",150,"0.1","Policybazaar","Finance",NA,"India","West Asia",0,NA
+2020,"January","Cedar Group",150,"1","Stemcor","Metals","Steel","Britain","Europe",0,NA
+2008,"January","WuXi Pharma",160,"1","AppTec Lab Services","Health",NA,"USA","USA",NA,NA
+2011,"February","Nanshan Group",160,"1",NA,"Metals","Aluminum","USA","USA",NA,"G"
+2013,"August","Belle International, CDH",160,"0.55000000000000004","Baroque Japan","Other","Textiles","Japan","East Asia",NA,NA
+2014,"February","Bank of China, China Life, Hopu Investment",160,"0.02","Global Logistics Properties","Logistics",NA,"Singapore","East Asia",1,NA
+2014,"February","China Energy Engineering",160,NA,NA,"Energy","Oil","Liberia","Sub-Saharan Africa",1,NA
+2014,"December","China General Nuclear",160,NA,"Electricite du France","Energy","Alternative","Britain","Europe",0,NA
+2014,"December","Sichuan Xinglida",160,NA,NA,"Tourism",NA,"USA","USA",0,NA
+2014,"December","Ctrip",160,"1","Travelfusion","Tourism",NA,"Britain","Europe",0,NA
+2015,"May","Trina Solar",160,"1",NA,"Energy","Alternative","Thailand","East Asia",1,"G"
+2015,"May","Geely Auto",160,"0.48","BELGEE Plant","Transport","Autos","Belarus","Europe",1,"G"
+2015,"August","Shanghai Municipal",160,NA,"Ceruzzi Properties","Real estate","Property","USA","USA",0,"G"
+2015,"December","Shanghai Inesa",160,"0.8","Havells","Other","Industry","Britain","Europe",0,NA
+2016,"February","Alibaba",160,NA,"Magic Leap","Entertainment",NA,"USA","USA",0,NA
+2016,"March","LeEco",160,NA,NA,"Transport","Autos","USA","USA",0,"G"
+2016,"May","Legend",160,NA,"Pension Insurance Corporation","Finance","Investment","Britain","Europe",0,NA
+2017,"January","Yonghui Superstores Co.",160,"0.4","Daymong Worldwide","Other","Consumer","USA","USA",0,NA
+2017,"March","Yunnan Energy Investment",160,NA,NA,"Energy","Hydro","Laos","East Asia",1,"G"
+2017,"April","Aier Eye Hospital",160,"0.59","Clinica Baviera","Health",NA,"Spain","Europe",0,NA
+2017,"July","iCarbonX",160,NA,"SomaLogic","Health",NA,"USA","USA",0,NA
+2017,"July","China Minsheng Investment",160,NA,"Grouse Mountain Resort","Tourism",NA,"Canada","North America",0,NA
+2018,"January","Chinalco",160,"0.85","Boffa","Metals","Aluminum","Guinea","Sub-Saharan Africa",1,"G"
+2018,"January","China Tianying",160,NA,NA,"Energy","Alternative","Vietnam","East Asia",1,"G"
+2018,"February","Shanghai Stock Exchange, Shenzhen Stock Exchange",160,"0.25",NA,"Finance","Investment","Bangladesh","West Asia",1,NA
+2018,"February","Hillhouse-led consortium",160,NA,"Viela Bio","Health",NA,"USA","USA",0,NA
+2018,"June","Wolong Electric",160,"1","GE","Transport","Autos","USA","USA",0,NA
+2018,"July","Qifeng New Material",160,"1",NA,"Other","Timber","Kazakhstan","West Asia",1,NA
+2018,"August","Shandong Heavy",160,"0.2","Ballard Power Systems","Transport","Autos","Canada","North America",0,NA
+2019,"April","Jiangxi Ganfeng Lithium",160,"0.13",NA,"Metals",NA,"Argentina","South America",0,NA
+2007,"October","Southern Power",170,NA,NA,"Energy","Hydro","Laos","East Asia",NA,"G"
+2010,"December","Three Gorges",170,NA,"EuroSibEnergo","Energy",NA,"Russian Federation","West Asia",NA,NA
+2010,"December","Reignwood",170,"1","Ten Trinity Square","Real estate","Construction","Britain","Europe",NA,NA
+2010,"December","Bank of China",170,NA,NA,"Finance","Banking","Cambodia","East Asia",NA,"G"
+2011,"July","Chery Auto",170,NA,"Socma","Transport","Autos","Argentina","South America",NA,"G"
+2012,"April","Shanghai Pengxin",170,"1","Crafar Farms","Agriculture",NA,"New Zealand","East Asia",NA,NA
+2012,"October","Sinopec",170,"0.5","Mercuria","Energy","Oil","Switzerland","Europe",NA,NA
+2012,"December","Yili Industrial",170,"1","Oceania Dairy","Agriculture",NA,"New Zealand","East Asia",NA,NA
+2012,"December","Hualing",170,NA,NA,"Real estate","Property","Georgia","West Asia",NA,"G"
+2013,"March","Anhui Foreign Economic Construction",170,NA,NA,"Metals",NA,"Democratic Republic of the Congo","Sub-Saharan Africa",NA,"G"
+2013,"December","Wanfeng Auto",170,"1","Meridian","Transport","Autos","Canada","North America",0,NA
+2014,"June","Shanghai International Group, Sanpower",170,"1","Brookstone Holdings","Other","Consumer","USA","USA",0,NA
+2014,"July","SAFE",170,"0.49","Statkraft","Energy","Alternative","Britain","Europe",0,NA
+2014,"October","SAFE",170,"0.5","Covent Garden","Real estate","Property","Belgium","Europe",0,NA
+2014,"November","Shandong Landbridge",170,"1","Westside Corp","Energy","Gas","Australia","Australia",0,NA
+2015,"February","Huawei",170,NA,NA,"Technology",NA,"India","West Asia",0,"G"
+2015,"May","China Communications Bank",170,"0.8","Banco BBM SA","Finance","Banking","Brazil","South America",0,NA
+2015,"July","Sinoenergy",170,"1","New Star Energy","Energy","Gas","Canada","North America",0,NA
+2015,"August","Guangdong Midea",170,"0.05","Kuka","Technology",NA,"Germany","Europe",0,NA
+2016,"August","Greenland-led consortium",170,NA,NA,"Technology",NA,"USA","USA",0,"G"
+2016,"December","Feihe International",170,"1",NA,"Agriculture",NA,"Canada","North America",0,"G"
+2017,"February","Guangdong Midea",170,NA,"Servotronix","Other","Industry","Israel","Europe",1,NA
+2017,"February","Shenyang Lan Sa",170,"0.93",NA,"Energy","Alternative","Guinea-Bissau","Sub-Saharan Africa",0,"G"
+2017,"December","CITIC",170,NA,"Trilogy International","Other","Consumer","New Zealand","East Asia",1,NA
+2017,"December","Jinko Solar",170,"0.2","Noor Abu Dhabi Solar","Energy","Alternative","UAE","Arab Middle East and North Africa",1,"G"
+2018,"July","Vanke",170,"0.05","Cushman & Wakefield","Real estate","Property","USA","USA",0,NA
+2018,"August","Anhui Shanying",170,"1",NA,"Other","Timber","USA","USA",0,NA
+2019,"April","Huawei",170,"1",NA,"Technology","Telecom","Kenya","Sub-Saharan Africa",1,"G"
+2019,"April","China New Hope",170,NA,NA,"Agriculture",NA,"Vietnam","East Asia",1,"G"
+2019,"August","Hailiang",170,NA,NA,"Metals","Copper","USA","USA",0,"G"
+2019,"December","Goodix Technology",170,NA,"NXP","Technology",NA,"Netherlands","Europe",0,NA
+2019,"December","Guangdong Wencan",170,"0.62","Le Belier","Metals","Aluminum","France","Europe",0,NA
+2005,"October","ChemChina",180,"1","Qenos","Chemicals",NA,"Australia","Australia",NA,NA
+2007,"May","China Mobile",180,"0.11","Paktel","Technology","Telecom","Pakistan","West Asia",NA,NA
+2008,"January","SAFE",180,"1%, 1%","Australia and New Zealand Banking, Commonwealth Bank of Australia, National Australia Bank","Finance","Banking","Australia","Australia",NA,NA
+2010,"March","CNPC",180,"0.51","INOVA Geophysical Equipment","Energy",NA,"USA","USA",NA,NA
+2010,"September","Inner Mongolia Hongkun",180,"0.51","Cambodia International Investment Development","Energy",NA,"Cambodia","East Asia",NA,"G"
+2011,"January","Lenovo",180,"0.51","NEC","Technology",NA,"Japan","East Asia",NA,NA
+2011,"March","Sichuan Hanlong",180,"0.16","Sundance Resources","Metals","Steel","Australia","Australia",NA,NA
+2013,"February","COFCO",180,"1",NA,"Agriculture",NA,"New Zealand","East Asia",NA,"G"
+2013,"July","Yunnan Copper-led consortium",180,"1","Kilembe Mines","Metals","Copper","Uganda","Sub-Saharan Africa",NA,NA
+2013,"December","Oceanwide Holdings",180,"1",NA,"Real estate","Property","USA","USA",0,"G"
+2013,"December","Norinco",180,"0.85","Electricite du Laos","Energy","Hydro","Laos","East Asia",1,"G"
+2014,"May","HNA",180,NA,"NH Hoteles","Tourism",NA,"Spain","Europe",0,NA
+2014,"October","Huawei",180,"1",NA,"Technology","Telecom","Canada","North America",0,"G"
+2014,"December","BlueFocus Communications",180,"0.51","Vision 7","Other",NA,"Canada","North America",0,NA
+2015,"November","Landsea",180,NA,NA,"Real estate","Property","USA","USA",0,"G"
+2016,"January","Ctrip",180,"0.27","MakeMyTrip","Tourism",NA,"India","West Asia",0,NA
+2016,"March","Sinochem",180,"0.55000000000000004","Halcyon Agri","Agriculture",NA,"Singapore","East Asia",1,NA
+2016,"July","China Animal Husbandry",180,"0.72","Mataura Valley Milk","Agriculture",NA,"New Zealand","East Asia",1,NA
+2016,"August","China Energy Engineering",180,"0.7","Darnak","Real estate","Construction","Kazakhstan","West Asia",1,"G"
+2016,"November","Fosun",180,"0.17","Banco Comercial Portugues","Finance","Banking","Portugal","Europe",1,NA
+2016,"November","China National Building Material",180,NA,"Activ Solar","Energy","Alternative","Ukraine","Europe",1,NA
+2017,"March","Alibaba",180,"0.22","Paytm Mall","Other","Consumer","India","West Asia",0,NA
+2017,"June","Fortune Fountain Capital",180,"0.89","Baccarat","Other",NA,"France","Europe",0,NA
+2017,"June","Humanwell Healthcare",180,"0.3","Ritedose","Health",NA,"USA","USA",0,NA
+2017,"September","Sunlon, CITIC",180,NA,"Cherry Valley Farms","Agriculture",NA,"Britain","Europe",0,NA
+2017,"September","China Aerospace Science and Technology",180,NA,"Arae Auto","Transport","Autos","South Korea","East Asia",1,NA
+2018,"February","Caixin, CITIC",180,NA,"Euromoney Institutional Investor","Finance",NA,"Britain","Europe",0,NA
+2018,"March","Alibaba",180,"0.45",NA,"Finance","Banking","Pakistan","West Asia",1,NA
+2018,"May","Nine Dragons",180,"1","Catalyst Paper","Other","Timber","USA","USA",0,NA
+2018,"May","Hillhouse-led consortium",180,NA,"Grail","Health",NA,"USA","USA",0,NA
+2018,"August","China National Building Material",180,NA,NA,"Other","Industry","Egypt","Arab Middle East and North Africa",1,NA
+2018,"October","Tencent",180,"0.05","Nubank","Finance","Banking","Brazil","South America",0,NA
+2020,"February","China Poly",180,NA,NA,"Real estate","Property","Australia","Australia",0,NA
+2020,"May","Bank of China",180,"0.13","Norwegian Air","Transport","Aviation","Norway","Europe",0,NA
+2020,"October","Alibaba",180,"0.06","Dufry","Tourism",NA,"Switzerland","Europe",0,NA
+2020,"December","WuXi Pharma",180,NA,"Bayer","Health",NA,"Germany","Europe",0,NA
+2007,"February","Zijin Mining, China Nonferrous, Xiamen C&D",190,"45%, 35%, 20%","Monterrico","Metals","Copper","Peru","South America",NA,NA
+2008,"June","China National Nuclear",190,NA,NA,"Metals",NA,"Niger","Sub-Saharan Africa",NA,"G"
+2008,"October","Shenhua",190,NA,NA,"Energy","Coal","Australia","Australia",NA,"G"
+2010,"January","Baiyin Non-Ferrous, CITIC, Chang Xin",190,"0.6","Oxus","Metals",NA,"Uzbekistan","West Asia",NA,NA
+2010,"February","Wanhua Industrial",190,NA,"BorsodChem","Chemicals",NA,"Hungary","Europe",NA,NA
+2010,"December","China Railway Construction, Nanjing Government, China Development Bank, Guangdong Xinguang",190,"0.6",NA,"Real estate","Property","Nigeria","Sub-Saharan Africa",NA,"G"
+2010,"December","AVIC",190,"1","Teledyne Continental Motors","Transport","Aviation","USA","USA",NA,NA
+2011,"February","CIC",190,NA,"Morgan Stanley","Finance","Banking","Japan","East Asia",NA,NA
+2012,"February","Xinjiang Goldwind",190,"0.5","Mainstream Renewable Power","Energy","Alternative","Chile","South America",NA,"G"
+2012,"August","China Merchants",190,"0.5","Thesar Maritime","Logistics",NA,"Togo","Sub-Saharan Africa",NA,NA
+2012,"December","China Merchants",190,"0.24","Port de Djibouti S.A.","Transport","Shipping","Djibouti","Sub-Saharan Africa",NA,NA
+2013,"January","Xiamen University",190,NA,NA,"Other","Education","Malaysia","East Asia",NA,"G"
+2014,"January","China National Nuclear",190,"0.25","Langer Heinrich","Metals",NA,"Namibia","Sub-Saharan Africa",1,NA
+2014,"June","China Construction Bank",190,NA,"KBC","Real estate","Property","Britain","Europe",0,NA
+2014,"June","Heilongjiang Grand Farm",190,"0.2","V&V Walsh","Agriculture",NA,"Australia","Australia",0,NA
+2014,"September","CITIC",190,NA,NA,"Transport","Autos","USA","USA",0,"G"
+2014,"December","Shandong Gaosu",190,"0.25","Friedmann Pacific Asset Management","Transport","Aviation","France","Europe",0,NA
+2014,"December","CIC",190,"0.08","EP Energy","Energy",NA,"USA","USA",0,NA
+2015,"April","CSR",190,"1","Specialist Machine Developments","Transport","Shipping","Britain","Europe",0,NA
+2015,"May","China National Building Material",190,NA,NA,"Other","Industry","Egypt","Arab Middle East and North Africa",1,"G"
+2015,"November","Oceanwide Holdings",190,"1","Ko Olina Resort","Tourism",NA,"USA","USA",0,"G"
+2015,"December","Sailun Tire",190,NA,NA,"Transport","Autos","Vietnam","East Asia",1,NA
+2016,"April","China National Silicon (consortium of Shanghai state firms)",190,"1","Okmetic","Technology",NA,"Finland","Europe",0,NA
+2016,"April","HNA",190,NA,NA,"Real estate","Property","Britain","Europe",0,NA
+2016,"April","China International Marine Containers",190,"0.77","Pteris","Logistics",NA,"Singapore","East Asia",1,NA
+2016,"August","Yunyi Guokai Shanghai",190,NA,"West Bromwich","Entertainment",NA,"Britain","Europe",0,NA
+2016,"October","Shenzhen Yuhu",190,NA,NA,"Real estate","Property","Australia","Australia",0,"G"
+2017,"February","ChinaNetCenter",190,"0.98","CDNetworks","Technology","Telecom","South Korea","East Asia",1,NA
+2017,"February","Wangsu S&T",190,"0.98","KDDI","Technology","Telecom","Japan","East Asia",0,NA
+2017,"May","China Resources",190,NA,"NorthStar Realty","Real estate","Property","Britain","Europe",0,NA
+2017,"May","Sinoenergy",190,NA,NA,"Energy","Oil","Canada","North America",0,NA
+2017,"July","CIC",190,"0.16","TPG","Real estate","Property","USA","USA",0,NA
+2017,"July","Jiangsu Nantong",190,NA,"Golden Gate Properties","Real estate","Property","India","West Asia",0,"G"
+2017,"December","CNPC",190,"0.5","Uzbekneftegaz","Energy","Gas","Uzbekistan","West Asia",1,"G"
+2018,"April","Shanghai MicroPort Scientific",190,"1","LivaNova","Health",NA,"France","Europe",0,NA
+2018,"April","Three Gorges",190,NA,NA,"Energy","Hydro","Brazil","South America",0,NA
+2018,"May","China Energy Engineering",190,"1","Sistema Produtor","Utilities",NA,"Brazil","South America",0,NA
+2018,"June","Hangzhou Great Star",190,"1","Capvis","Other","Industry","Switzerland","Europe",0,NA
+2018,"September","China Energy Engineering, Norinco",190,"0.5",NA,"Energy","Coal","Bangladesh","West Asia",1,"G"
+2018,"November","Guangdong Midea",190,NA,NA,"Other","Consumer","India","West Asia",0,"G"
+2019,"July","Country Garden",190,NA,"CATS Colleges","Other","Education","Britain","Europe",0,NA
+2020,"June","TCL",190,"0.11","JOLED","Technology",NA,"Japan","East Asia",0,NA
+2005,"September","State-Owned Enterprise Investment Company, Beijing Jingdeshun",200,NA,NA,"Energy","Oil","Mongolia","East Asia",NA,"G"
+2007,"January","CNPC",200,"0.5","EnCana","Energy","Oil","Chad","Sub-Saharan Africa",NA,NA
+2007,"June","Sinohydro",200,NA,NA,"Energy","Hydro","Laos","East Asia",NA,"G"
+2007,"December","Shenzhen Energy, China Development Bank",200,NA,NA,"Energy","Gas","Ghana","Sub-Saharan Africa",NA,"G"
+2008,"March","Mindray Medical",200,NA,"Datascope","Health",NA,"USA","USA",NA,NA
+2008,"July","Sinochem",200,"0.51","GMG Global","Agriculture",NA,"Singapore","East Asia",NA,NA
+2008,"October","CIC",200,"2.5999999999999999E-2","Blackstone","Finance","Investment","USA","USA",NA,NA
+2009,"December","Beijing Auto",200,NA,"Saab US","Transport","Autos","USA","USA",NA,NA
+2010,"January","Shandong Sun Paper",200,"1",NA,"Other","Timber","Laos","East Asia",NA,"G"
+2010,"February","Sany Heavy",200,"1",NA,"Real estate","Construction","Brazil","South America",NA,"G"
+2010,"March","CIC",200,NA,"Brookfield","Finance","Investment","Canada","North America",NA,NA
+2010,"May","Jiangsu Zongyi",200,"1",NA,"Energy","Alternative","Italy","Europe",NA,NA
+2010,"December","CIC",200,NA,"BTG Pactual","Finance","Investment","Brazil","South America",NA,NA
+2011,"February","AVIC",200,"1","Cirrus","Transport","Aviation","USA","USA",NA,NA
+2011,"April","Sany Heavy",200,"1",NA,"Real estate","Construction","Indonesia","East Asia",NA,"G"
+2011,"April","ZTE",200,"1",NA,"Technology","Telecom","Brazil","South America",NA,"G"
+2011,"May","Chery Auto",200,"1",NA,"Transport","Autos","Venezuela","South America",NA,"G"
+2011,"June","Fuyao Glass",200,"1",NA,"Transport","Autos","Russian Federation","West Asia",NA,"G"
+2011,"September","Xinjiang Goldwind",200,"1",NA,"Energy","Alternative","USA","USA",NA,"G"
+2011,"November","Anhui Foreign Economic Construction",200,"0.5","Zimbabwe Mining Development","Metals",NA,"Zimbabwe","Sub-Saharan Africa",NA,"G"
+2012,"April","CIC",200,NA,"Blackrock","Finance","Investment","USA","USA",NA,NA
+2012,"April","Hebei Iron and Steel",200,"0.19900000000000001","Alderon Iron Ore","Metals","Steel","Canada","North America",NA,NA
+2012,"May","United Energy",200,NA,NA,"Energy","Gas","Pakistan","West Asia",NA,NA
+2012,"May","China Construction Bank",200,"1","WestLB","Finance","Banking","Brazil","South America",NA,NA
+2012,"June","Tebian Electric Apparatus",200,"1",NA,"Energy",NA,"India","West Asia",NA,"G"
+2012,"June","SAFE",200,"0.1","Veolia Water","Utilities",NA,"Britain","Europe",NA,NA
+2012,"December","Anhui Conch",200,"1",NA,"Real estate","Construction","Indonesia","East Asia",NA,"G"
+2013,"March","Shandong Bright Ruby",200,NA,"Investa","Real estate","Property","Australia","Australia",NA,NA
+2013,"June","Xugong Construction Machinery",200,"1",NA,"Real estate","Construction","Brazil","South America",NA,"G"
+2013,"October","Huawei",200,"1",NA,"Technology","Telecom","Britain","Europe",0,"G"
+2014,"January","Fuyao Glass",200,"1",NA,"Transport","Autos","USA","USA",0,"G"
+2014,"February","Alibaba",200,"0.25","One 97","Other","Consumer","India","West Asia",0,NA
+2014,"March","Geely Auto",200,"1","Emerald Automotive","Transport","Autos","Britain","Europe",0,NA
+2014,"June","LeEco",200,NA,NA,"Entertainment",NA,"USA","USA",0,"G"
+2014,"July","Shandong Daiyin",200,"1",NA,"Other","Textiles","Malaysia","East Asia",1,"G"
+2014,"July","Fuyao Glass",200,NA,"PPG","Transport","Autos","USA","USA",0,NA
+2014,"August","Ex-Im Bank",200,"0.5",NA,"Energy","Alternative","Poland","Europe",1,"G"
+2014,"September","Fosun",200,"0.48","Studio 8","Entertainment",NA,"USA","USA",0,NA
+2014,"November","Xinyi Glass",200,"1",NA,"Real estate","Construction","Malaysia","East Asia",1,"G"
+2015,"March","Alibaba",200,NA,"Snapchat","Entertainment",NA,"USA","USA",0,NA
+2015,"August","Alibaba",200,"0.04","Snapdeal","Other","Consumer","India","West Asia",0,NA
+2015,"August","China Communications Construction",200,NA,"Kribi","Transport","Shipping","Cameroon","Sub-Saharan Africa",1,"G"
+2015,"September","Bright Foods",200,"0.5","Silver Fern Farms","Agriculture",NA,"New Zealand","East Asia",1,NA
+2015,"October","Moon Lake Investments",200,NA,NA,"Agriculture",NA,"Australia","Australia",0,NA
+2015,"October","SAFE",200,"0.02","Poste Italiane","Logistics",NA,"Italy","Europe",1,NA
+2016,"February","Ningbo Joyson",200,"1","TechniSat Digital","Transport","Autos","Germany","Europe",0,NA
+2016,"May","Qianhai Zone Authority",200,NA,NA,"Transport","Shipping","Indonesia","East Asia",1,"G"
+2016,"June","Nanshan Group",200,"0.2","Virgin Australia","Transport","Aviation","Australia","Australia",0,NA
+2016,"July","Lenovo",200,"0.44","NEC","Technology",NA,"Japan","East Asia",0,NA
+2016,"November","Anhui Zhongding",200,"1","Bavaria Industries","Transport","Autos","Germany","Europe",0,NA
+2016,"December","Fosun",200,NA,"Lamda","Transport","Aviation","Greece","Europe",1,NA
+2017,"February","Alibaba",200,NA,"Kakao","Other","Consumer","South Korea","East Asia",1,NA
+2017,"February","China Mobile",200,NA,NA,"Technology","Telecom","Pakistan","West Asia",1,"G"
+2017,"June","China Nonferrous",200,"0.51",NA,"Metals",NA,"Indonesia","East Asia",1,NA
+2018,"April","Xinjiang Goldwind, Power Construction Corp",200,"1","Cattle Hill","Energy","Alternative","Australia","Australia",0,"G"
+2018,"May","Shenzhen Invengo",200,"0.8","OEP","Technology",NA,"Netherlands","Europe",0,NA
+2018,"June","China Communications Construction",200,"1",NA,"Transport","Shipping","Singapore","East Asia",1,NA
+2018,"August","Jiangxi Holitech",200,"1",NA,"Technology","Telecom","India","West Asia",0,"G"
+2018,"September","Shandong Ruyi",200,"1",NA,"Other","Textiles","Nigeria","Sub-Saharan Africa",1,"G"
+2018,"November","Jiangsu Hengyuan",200,"1",NA,"Real estate","Construction","Uzbekistan","West Asia",1,"G"
+2019,"November","Jiangxi Wanguo, AXF",200,NA,NA,"Metals",NA,"Solomon Islands","East Asia",1,NA
+2020,"February","Great Wall Motor",200,NA,"GM","Transport","Autos","Thailand","East Asia",1,NA
+2020,"June","Tencent",200,"0.02","Warner Music","Entertainment",NA,"USA","USA",0,NA
+2008,"January","Jinchuan",210,NA,"Tyler Resources","Metals",NA,"Mexico","North America",NA,NA
+2011,"August","Yankuang",210,"1","Syntech","Energy","Coal","Australia","Australia",NA,NA
+2012,"August","Wanbao Grain",210,"1",NA,"Agriculture",NA,"Mozambique","Sub-Saharan Africa",NA,"G"
+2012,"September","Shandong Energy",210,"1","Rocklands Richfield","Energy","Coal","Australia","Australia",NA,NA
+2014,"March","Cinda",210,"0.7","Zeller Realty","Real estate","Property","USA","USA",0,NA
+2014,"May","Alibaba",210,"0.1","Singapore Post","Logistics",NA,"Singapore","East Asia",1,NA
+2014,"November","Texhong Textile",210,NA,NA,"Other","Industry","Vietnam","East Asia",1,"G"
+2015,"August","Shenzhen Hepalink",210,"1","Cytovance Biologics","Health",NA,"USA","USA",0,NA
+2015,"December","China Poly",210,NA,NA,"Real estate","Property","Britain","Europe",0,NA
+2016,"January","Zhuzhou Kibing",210,"1",NA,"Real estate","Construction","Malaysia","East Asia",1,"G"
+2016,"June","Ping An",210,NA,"Nu Skin","Other","Consumer","USA","USA",0,NA
+2016,"September","Chengdu Tianqi",210,"0.02","Sociedad Quimica y Minera","Metals",NA,"Chile","South America",1,NA
+2016,"September","Dare Group",210,NA,"AlpInvest Partners","Transport","Autos","Germany","Europe",0,NA
+2017,"January","Ex-Im Bank",210,NA,"Invitel Group","Technology","Telecom","Hungary","Europe",1,NA
+2017,"July","Hongshi",210,"0.7",NA,"Real estate","Construction","Laos","East Asia",1,"G"
+2017,"December","Dalian Wanda",210,NA,NA,"Real estate","Property","Britain","Europe",0,NA
+2018,"March","Tibet Summit, NextView Capital",210,"1","Lithium X","Metals",NA,"Canada","North America",0,NA
+2018,"April","Beijing Enterprises",210,"1","Trility","Utilities",NA,"Australia","Australia",0,NA
+2018,"October","Alibaba",210,"0.1","Zomato","Agriculture",NA,"India","West Asia",0,NA
+2019,"June","Power Construction Corp",210,"0.51","Sombwe","Energy","Hydro","Democratic Republic of the Congo","Sub-Saharan Africa",0,"G"
+2013,"December","Keer Group",220,"1",NA,"Other","Textiles","USA","USA",0,"G"
+2013,"December","Henan Civil Aviation",220,"0.35","Cargolux Airlines","Transport","Aviation","Luxembourg","Europe",1,NA
+2014,"March","Alibaba",220,"0.2","TangoMe","Technology","Telecom","USA","USA",0,NA
+2014,"July","Huapont",220,"0.2","Albaugh","Agriculture",NA,"USA","USA",0,NA
+2014,"September","Reignwood",220,"1","Wentworth Club","Entertainment",NA,"Britain","Europe",0,NA
+2015,"April","AVIC",220,"1","Align Aerospace","Transport","Aviation","USA","USA",0,NA
+2015,"July","Power Construction Corp, China Railway Construction",220,NA,NA,"Metals","Copper","Democratic Republic of the Congo","Sub-Saharan Africa",0,NA
+2016,"February","Chengdu Techcent",220,NA,"Bilfinger","Utilities",NA,"Germany","Europe",0,NA
+2016,"May","Mengniu Dairy",220,"0.79","Burra Foods","Agriculture",NA,"Australia","Australia",0,NA
+2016,"July","Three Gorges",220,"1",NA,"Energy","Alternative","Pakistan","West Asia",1,"G"
+2016,"August","Shanghai Electric",220,"1","Deutsche Beteiligung and Frankfurt am Main","Transport","Aviation","Germany","Europe",0,NA
+2016,"December","Biostime",220,"0.17","Swisse Wellness","Health",NA,"Australia","Australia",0,NA
+2016,"December","Qingjian",220,NA,NA,"Real estate","Property","Singapore","East Asia",1,"G"
+2017,"February","State Construction Engineering",220,NA,NA,"Real estate","Property","Singapore","East Asia",1,"G"
+2017,"August","Yanlord-led consortium",220,"0.18","Perennial Real Estate","Real estate","Property","Singapore","East Asia",1,NA
+2017,"August","Hubei Province Investment Arm",220,NA,NA,"Technology",NA,"Belgium","Europe",0,"G"
+2017,"November","Lenovo",220,"0.51","Fujitsu","Technology",NA,"Japan","East Asia",0,NA
+2018,"January","Wuxi No.1 Cotton Mill",220,NA,NA,"Other","Textiles","Ethiopia","Sub-Saharan Africa",1,"G"
+2018,"February","Hanrui Cobalt, Qingyuan Keweike Mineral",220,"1",NA,"Metals",NA,"Congo","Sub-Saharan Africa",1,"G"
+2018,"February","Norinco",220,"0.76","Enerjia Projekt","Energy","Alternative","Croatia","Europe",1,"G"
+2018,"May","CNOOC",220,NA,NA,"Energy","Oil","Iraq","Arab Middle East and North Africa",1,NA
+2018,"August","Huadong",220,"1","Sinclair Pharma","Health",NA,"Britain","Europe",0,"G"
+2019,"February","State Power Investment",220,NA,"Prairie Solar","Energy","Alternative","Australia","Australia",0,"G"
+2019,"April","Baosteel",220,"0.08","Fortescue","Metals","Steel","Australia","Australia",0,"G"
+2019,"May","China Communications Construction",220,"1",NA,"Metals","Steel","Brazil","South America",0,"G"
+2020,"March","China Communications Construction",220,"0.53","Tolaram","Transport","Shipping","Nigeria","Sub-Saharan Africa",1,"G"
+2020,"June","Sinomach",220,"0.49",NA,"Energy","Coal","Sri Lanka","West Asia",1,NA
+2006,"November","Sinosteel",230,"0.5","Samancor Chrome","Metals","Steel","South Africa","Sub-Saharan Africa",NA,NA
+2009,"July","Shenhua",230,"0.7","Energi Musi Makmur","Energy","Coal","Indonesia","East Asia",NA,"G"
+2010,"May","Jinchuan, China Development Bank",230,"0.51","Wesizwe Platinum","Metals",NA,"South Africa","Sub-Saharan Africa",NA,NA
+2011,"August","Guangdong Midea",230,"0.51","Carrier's Latin American Operations","Other","Industry","USA","USA",NA,NA
+2012,"March","China National Building Material",230,NA,NA,"Other","Industry","Egypt","Arab Middle East and North Africa",NA,"G"
+2013,"September","Ansteel",230,"0.12","Gindalbie Metals","Metals","Steel","Australia","Australia",NA,NA
+2014,"October","Risen Energy",230,"1",NA,"Energy","Alternative","Mexico","North America",0,"G"
+2014,"October","State Construction Engineering",230,"1","Carmelite Riverside","Real estate","Property","Britain","Europe",0,NA
+2014,"November","Hebei Zhongbo Platinum",230,"1","Platinum Group Metal","Metals",NA,"South Africa","Sub-Saharan Africa",1,NA
+2014,"December","Anbang",230,NA,"Delta Lloyd","Finance","Banking","Belgium","Europe",0,NA
+2015,"February","Sunshine Insurance",230,"1","Baccarat Hotel","Tourism",NA,"USA","USA",0,NA
+2015,"May","MCC",230,NA,NA,"Real estate","Property","Singapore","East Asia",1,"G"
+2015,"July","Fosun",230,"1","Hauck & Aufhaeuser","Finance","Banking","Germany","Europe",0,NA
+2015,"July","Taiping Life",230,"1","Witkoff Fisher Brothers and Howard Lorber","Real estate","Property","USA","USA",0,NA
+2015,"November","Trina Solar",230,NA,"Welspun Energy","Energy","Alternative","India","West Asia",0,"G"
+2016,"March","State Power Investment",230,"1","Taralga Wind Farm","Energy","Alternative","Australia","Australia",0,NA
+2016,"July","Taikang Life",230,"0.14000000000000001","Sotheby's","Other",NA,"USA","USA",0,NA
+2016,"August","Shanghai Industrial, Primavera Capital",230,NA,"Vitaco","Agriculture",NA,"Australia","Australia",0,NA
+2017,"February","Shandong Tianye",230,"1","Southern Cross","Metals",NA,"Australia","Australia",0,NA
+2017,"March","Shanghai Greenland",230,NA,NA,"Real estate","Construction","Australia","Australia",0,"G"
+2017,"May","HNA",230,"0.74","C-Quadrat Investment","Finance","Investment","Austria","Europe",1,NA
+2017,"June","China Ocean Shipping",230,"0.51","Noatum Ports","Transport","Shipping","Spain","Europe",0,NA
+2017,"June","Bank of China",230,NA,"SciClone","Health",NA,"USA","USA",0,NA
+2017,"September","Yankuang",230,"0.28999999999999998","Warkworth","Energy","Coal","Australia","Australia",0,NA
+2017,"September","JD.com",230,"0.5","Central Group, Provident","Other","Consumer","Thailand","East Asia",1,"G"
+2017,"September","Zhongwang",230,"1","Aluminiumwerk","Metals","Aluminum","Germany","Europe",0,NA
+2018,"March","Shandong Linglong Tire",230,NA,NA,"Transport","Autos","Thailand","East Asia",1,NA
+2018,"May","Highsun",230,NA,"Fibrant","Chemicals",NA,"Netherlands","Europe",0,NA
+2018,"November","Three Gorges",230,"0.5","EDP","Energy","Hydro","Colombia","South America",0,NA
+2019,"January","China Ocean Shipping",230,"0.6","Volcan","Logistics",NA,"Peru","South America",1,NA
+2020,"March","Fosun",230,"1","Bankhaus Lampe","Finance","Banking","Germany","Europe",0,NA
+2009,"March","Wuhan Iron and Steel",240,"20%, 25%","Consolidated Thompson","Metals","Steel","Canada","North America",NA,NA
+2009,"November","Baosteel",240,"0.15","Aquila Resources","Metals","Steel","Australia","Australia",NA,NA
+2011,"December","Shougang Group",240,"0.4","Hiap Teck Venture Berhad","Metals","Steel","Malaysia","East Asia",NA,"G"
+2012,"May","Ex-Im Bank",240,NA,NA,"Entertainment",NA,"Cambodia","East Asia",NA,NA
+2012,"June","Zijin Mining",240,"1","Norton Gold","Metals",NA,"Australia","Australia",NA,NA
+2012,"September","Shandong Gold",240,"0.51","Focus Minerals","Metals",NA,"Australia","Australia",NA,NA
+2012,"December","Zoomlion",240,"0.4","Compagnia Italiana Forme Acciaio","Real estate","Construction","Italy","Europe",NA,NA
+2013,"March","SAFE",240,"0.33",NA,"Real estate","Property","Britain","Europe",NA,NA
+2013,"April","Fosun",240,"0.96","Sisram Medical","Health",NA,"Israel","Europe",NA,NA
+2013,"July","Shanghai Greenland",240,NA,"Melia Hotels","Tourism",NA,"Spain","Europe",NA,NA
+2013,"July","MCC",240,NA,NA,"Real estate","Property","Singapore","East Asia",NA,"G"
+2015,"October","Bona Film",240,NA,"21st Century Fox","Entertainment",NA,"USA","USA",0,NA
+2016,"May","Ningxia investors (Oman Wangfang)",240,NA,NA,"Other",NA,"Oman","Arab Middle East and North Africa",1,"G"
+2016,"June","Xian Longi",240,"1",NA,"Energy","Alternative","Malaysia","East Asia",1,"G"
+2016,"December","Gansu Gangtai",240,"0.85","Buccellati","Other","Consumer","Italy","Europe",1,NA
+2017,"April","China Communications Construction",240,"0.51",NA,"Transport","Shipping","Brazil","South America",0,"G"
+2017,"July","Hengkang Medical",240,"0.7","PRP","Health",NA,"Australia","Australia",0,NA
+2017,"September","Ping An",240,"0.1","Tsumura","Health",NA,"Japan","East Asia",0,NA
+2018,"January","HNA",240,"7.0000000000000007E-2","Virgin Australia","Transport","Aviation","Australia","Australia",0,NA
+2018,"May","China Grand",240,"1","Tung Yang","Agriculture",NA,"Taiwan","East Asia",0,NA
+2018,"June","Three Gorges",240,"1","Cornelio Brennand","Energy","Hydro","Chile","South America",1,NA
+2019,"November","WuXi Pharma",240,NA,NA,"Health",NA,"Ireland","Europe",0,NA
+2019,"December","SAFE",240,"0.04","Euroclear","Finance",NA,"Belgium","Europe",0,NA
+2020,"June","Zijin Mining",240,NA,"Guyana Goldfields","Metals",NA,"Guyana","South America",1,NA
+2020,"December","Huawei",240,"1",NA,"Technology","Telecom","France","Europe",0,"G"
+2007,"March","Sinosteel",250,NA,NA,"Metals","Steel","India","West Asia",NA,"G"
+2008,"June","Zoomlion",250,"0.6","Compagnia Italiana Forme Acciaio","Real estate","Construction","Italy","Europe",NA,NA
+2008,"December","Xinjiang Guanghui",250,"0.49","Tarbagatay Munay","Energy",NA,"Kazakhstan","West Asia",NA,"G"
+2009,"October","CIC",250,"0.13","South Gobi Energy","Energy","Coal","Mongolia","East Asia",NA,NA
+2009,"November","Wuhan Iron and Steel",250,"0.15","Centrex Metals","Metals","Steel","Australia","Australia",NA,NA
+2011,"February","Fulida Group",250,"1","Neucel Specialty","Other","Timber","Canada","North America",NA,NA
+2011,"June","Gold One",250,NA,"Rand Uranium","Metals",NA,"South Africa","Sub-Saharan Africa",NA,NA
+2011,"December","CIC",250,"0.25","Shanduka Group","Finance","Investment","South Africa","Sub-Saharan Africa",NA,NA
+2012,"July","Sichuan Bohong",250,"1","Wescast Industries","Transport","Autos","Canada","North America",NA,NA
+2013,"March","State Construction Engineering",250,NA,NA,"Real estate","Property","Britain","Europe",NA,NA
+2013,"December","Three Gorges",250,"0.5","Jari","Energy","Hydro","Brazil","South America",0,NA
+2014,"March","Zhenfa New Energy Science",250,"1",NA,"Energy","Alternative","Zimbabwe","Sub-Saharan Africa",1,"G"
+2014,"August","China Life",250,"0.02","TPG","Finance","Investment","USA","USA",0,NA
+2015,"July","Hongshi",250,"0.7","Shiva Cement","Real estate","Construction","Nepal","West Asia",1,"G"
+2015,"August","State Construction Engineering",250,NA,NA,"Tourism",NA,"Bahamas","North America",0,"G"
+2015,"September","Xian Longi",250,"1",NA,"Energy","Alternative","India","West Asia",0,"G"
+2015,"September","Genimous Investment",250,"1","Spigot","Technology",NA,"USA","USA",0,NA
+2016,"February","Perfect World Pictures",250,NA,"Universal Pictures","Entertainment",NA,"USA","USA",0,NA
+2016,"March","Fuyao Glass",250,NA,NA,"Transport","Autos","USA","USA",0,NA
+2016,"June","Genzon",250,NA,"Yahoo","Real estate","Property","USA","USA",0,NA
+2016,"June","Xuzhou Construction Machinery",250,"1",NA,"Real estate","Construction","India","West Asia",0,"G"
+2016,"October","Power Construction Corp",250,"0.7","PLN","Energy","Coal","Indonesia","East Asia",1,NA
+2017,"January","China National Building Material",250,"1",NA,"Other","Industry","India","West Asia",0,"G"
+2017,"May","Xinjiang Goldwind",250,"1",NA,"Energy","Alternative","USA","USA",0,NA
+2017,"June","Shanghai Pengxin",250,NA,"DKBA","Agriculture",NA,"Brazil","South America",0,NA
+2017,"June","Tidfore Heavy",250,"1",NA,"Metals","Steel","Liberia","Sub-Saharan Africa",1,"G"
+2017,"November","Guizhou Tyre",250,"1",NA,"Transport","Autos","Vietnam","East Asia",1,"G"
+2018,"July","China Development Bank",250,NA,"PDVSA","Energy","Oil","Venezuela","South America",1,"G"
+2018,"December","China National Building Material",250,"0.51","Central African Cement","Real estate","Construction","Zambia","Sub-Saharan Africa",1,"G"
+2019,"May","China Railway Construction",250,"1",NA,"Transport","Shipping","Nigeria","Sub-Saharan Africa",1,"G"
+2020,"April","Tencent",250,"0.05","Afterpay","Finance",NA,"Australia","Australia",0,NA
+2008,"March","China Life",260,"0.01","Visa","Finance",NA,"USA","USA",NA,NA
+2008,"December","Datang",260,NA,NA,"Energy","Hydro","Cambodia","East Asia",NA,"G"
+2009,"October","CNPC",260,NA,NA,"Energy","Oil","Sudan","Arab Middle East and North Africa",NA,"G"
+2010,"April","China Railway Construction",260,"0.125","African Minerals","Metals","Steel","Sierra Leone","Sub-Saharan Africa",NA,NA
+2011,"July","Guodian",260,"0.7","Farm Owned Power","Energy","Alternative","Canada","North America",NA,NA
+2011,"September","Yankuang",260,NA,"North Atlantic Potash","Chemicals",NA,"Canada","North America",NA,"G"
+2011,"October","Wanhua Industrial",260,"0.96",NA,"Chemicals",NA,"Hungary","Europe",NA,"G"
+2012,"February","Sinochem",260,"0.35","Siat","Energy","Oil","Belgium","Europe",NA,NA
+2012,"September","Shandong Ruyi",260,"0.8","Lempriere Property","Agriculture",NA,"Australia","Australia",NA,NA
+2012,"December","Wanxiang",260,NA,"A123","Energy","Alternative","USA","USA",NA,NA
+2013,"June","AVIC",260,"1",NA,"Real estate","Property","Sri Lanka","West Asia",NA,"G"
+2013,"December","AVIC",260,"0.59","KHD","Real estate","Construction","Germany","Europe",0,NA
+2015,"November","AVIC",260,"1","AIM","Transport","Aviation","Britain","Europe",0,NA
+2016,"January","China Life",260,NA,"Brookfield","Real estate","Property","Britain","Europe",0,NA
+2016,"February","State Development and Investment Corp",260,"1","Repsol Nuevas Energias UK","Energy","Alternative","Britain","Europe",0,NA
+2016,"August","HNA",260,NA,NA,"Real estate","Property","USA","USA",0,NA
+2016,"September","Chongqing USUM",260,NA,"Scholz Holding","Other","Industry","Germany","Europe",0,NA
+2016,"September","Hangzhou Lianluo Interactive",260,"0.56000000000000005","Newegg","Other","Consumer","USA","USA",0,NA
+2016,"November","Anbang",260,"0.04","Woori Bank","Finance","Banking","South Korea","East Asia",1,NA
+2017,"February","Three Gorges",260,"0.49","EDP","Energy","Alternative","Portugal","Europe",1,NA
+2017,"June","Dalian Wanda",260,NA,"Competitor Group","Entertainment",NA,"USA","USA",0,NA
+2018,"January","China Nonferrous",260,"1","Tiger Resources","Metals","Copper","Democratic Republic of the Congo","Sub-Saharan Africa",0,NA
+2018,"September","China Communications Construction",260,NA,NA,"Other","Industry","Serbia","Europe",1,"G"
+2019,"January","GoerTek",260,"1",NA,"Technology",NA,"Vietnam","East Asia",1,"G"
+2019,"May","Xtep International",260,"1","E-land Footwear","Other","Textiles","USA","USA",0,NA
+2019,"July","China Communications Construction",260,"0.49","Mivtach Shamir Holdings and Rapac Energy","Energy","Gas","Israel","Europe",1,NA
+2020,"January","CC Land",260,NA,NA,"Real estate","Property","Britain","Europe",0,NA
+2020,"August","State Power Investment",260,"0.33",NA,"Energy","Gas","Brazil","South America",0,"G"
+2010,"April","CNOOC",270,"0.05","BG","Energy","Gas","Australia","Australia",NA,NA
+2010,"November","Chongqing Chonggang",270,"0.6","AsiaIron","Metals",NA,"Australia","Australia",NA,"G"
+2010,"December","Sinochem",270,"0.5","DSM","Health",NA,"Netherlands","Europe",NA,NA
+2011,"June","HNA",270,"0.9","Carlyle","Real estate","Property","USA","USA",NA,NA
+2011,"June","Beijing Auto",270,"1","Inalfa Roof Systems","Transport","Autos","Netherlands","Europe",NA,NA
+2011,"October","China Nickel Resources",270,"0.8","PT Yiwan Mining","Metals",NA,"Indonesia","East Asia",NA,NA
+2011,"December","CNPC",270,"0.5","Bow Energy","Energy","Gas","Australia","Australia",NA,NA
+2013,"October","State Construction Engineering",270,NA,NA,"Real estate","Property","Britain","Europe",0,NA
+2015,"October","Sinocare",270,"1","Nipro Diagnostics","Health",NA,"USA","USA",0,NA
+2015,"October","Shanxi Building Material, Asian and African Business Management",270,NA,NA,"Real estate","Construction","Namibia","Sub-Saharan Africa",1,"G"
+2016,"April","China Orient Asset Management",270,"0.49","RXR Realty","Real estate","Property","USA","USA",0,NA
+2016,"May","Anbang",270,"0.33","Bentall Centre","Real estate","Property","Canada","North America",0,NA
+2016,"July","Luye Group",270,NA,"Acino","Health",NA,"Switzerland","Europe",0,NA
+2017,"August","Lander Sports",270,"0.8","Southampton","Entertainment",NA,"Britain","Europe",0,NA
+2017,"October","Hosen Capital, China New Hope",270,NA,"The Real Pet Food Company","Agriculture",NA,"Australia","Australia",0,NA
+2018,"October","StarTimes",270,"0.6","ZNBC","Entertainment",NA,"Zambia","Sub-Saharan Africa",1,NA
+2018,"November","Group of Shanghai state investors",270,"1","Chequers Capital","Other","Textiles","Germany","Europe",0,NA
+2019,"August","Alpha Frontier",270,NA,"Seriously","Entertainment",NA,"Finland","Europe",0,NA
+2019,"September","Sinomach",270,"0.9",NA,"Transport","Autos","Azerbaijan","West Asia",1,"G"
+2006,"February","Sinohydro",280,NA,NA,"Energy","Hydro","Cambodia","East Asia",NA,NA
+2007,"January","China Mobile",280,"0.89","Paktel","Technology","Telecom","Pakistan","West Asia",NA,NA
+2009,"July","Tianjin Development",280,NA,NA,"Real estate","Construction","Egypt","Arab Middle East and North Africa",NA,NA
+2011,"September","China Merchants",280,"0.55000000000000004","Aitken Spence","Logistics",NA,"Sri Lanka","West Asia",NA,"G"
+2013,"November","CIC",280,NA,"Centennial Plaza","Real estate","Property","Australia","Australia",0,NA
+2014,"July","SAFE",280,"0.02","Fiat","Transport","Autos","Italy","Europe",1,NA
+2014,"August","Rongsheng Heavy Industries",280,"0.6","New Continental Oil & Gas","Energy","Oil","Kyrgyzstan","West Asia",1,NA
+2015,"May","Shanghai Auto",280,"0.49","Weststar Maxus","Transport","Autos","Malaysia","East Asia",1,NA
+2015,"October","China Mobile",280,"0.4","KT Net","Technology","Telecom","South Korea","East Asia",1,NA
+2016,"March","Humanwell Healthcare",280,"0.5","Epic Pharma","Health",NA,"USA","USA",0,NA
+2016,"April","Jin Jiang Hotels",280,"3.3000000000000002E-2","Accor","Tourism",NA,"France","Europe",0,NA
+2016,"August","Oceanwide Holdings",280,NA,NA,"Tourism",NA,"USA","USA",0,"G"
+2017,"March","Qingdao Lu Haifeng",280,"1",NA,"Agriculture",NA,"Malaysia","East Asia",1,"G"
+2017,"March","Huawei",280,NA,NA,"Technology","Telecom","New Zealand","East Asia",1,"G"
+2017,"June","Country Garden Holdings",280,NA,NA,"Real estate","Property","Malaysia","East Asia",1,"G"
+2018,"April","Xinjiang Goldwind",280,NA,NA,"Energy","Alternative","Australia","Australia",0,"G"
+2018,"June","Chifeng Jilong",280,"0.9","Minmetals","Metals",NA,"Laos","East Asia",1,NA
+2018,"December","Contemporary Amperex Tech",280,"1","Thuringia","Transport","Autos","Germany","Europe",0,"G"
+2019,"March","Geely Auto",280,"0.5",NA,"Transport","Autos","France","Europe",0,NA
+2019,"December","China Railway Construction",280,"0.75","Aldesa","Real estate","Construction","Spain","Europe",0,NA
+2020,"June","China Energy Engineering",280,"0.7",NA,"Real estate","Construction","Myanmar","East Asia",1,"G"
+2005,"December","CNPC",290,"0.16","Petro-Canada","Energy","Oil","Syria","Arab Middle East and North Africa",NA,NA
+2013,"June","Shanghai MicroPort Scientific",290,NA,"Wright Medical","Health",NA,"USA","USA",NA,NA
+2013,"December","Meidu Holding",290,NA,"Woodbine","Energy","Oil","USA","USA",0,NA
+2014,"August","SAFE",290,"0.5","Fosse Shopping Park","Real estate","Property","Britain","Europe",0,NA
+2014,"October","Lifan",290,"1",NA,"Transport","Autos","Russian Federation","West Asia",1,"G"
+2015,"July","CIC",290,"1","CBRE Global Investors","Real estate","Property","Belgium","Europe",0,NA
+2016,"May","Shanghai Pengxin",290,"0.56999999999999995","Fiagril Participaçõe","Agriculture",NA,"Brazil","South America",0,NA
+2016,"October","Envision Energy",290,"1",NA,"Energy","Alternative","Argentina","South America",0,"G"
+2016,"December","China Communications Construction",290,NA,NA,"Real estate","Property","USA","USA",0,"G"
+2017,"January","Shandong Sun Paper",290,"1",NA,"Other","Timber","Laos","East Asia",1,"G"
+2017,"May","State Grid",290,NA,NA,"Energy","Gas","Australia","Australia",0,NA
+2017,"July","Shanghai Taison",290,"1","Nordic Paper","Other","Timber","Sweden","Europe",0,NA
+2017,"September","3SBio, CITIC",290,NA,NA,"Health",NA,"Canada","North America",0,NA
+2017,"December","Fosun",290,NA,"BioVision","Health",NA,"USA","USA",0,NA
+2018,"January","Xinjiang Goldwind",290,"1","Stockyard Wind Farm","Energy","Alternative","Australia","Australia",0,NA
+2019,"June","Evergrande",290,"0.17",NA,"Transport","Autos","Sweden","Europe",0,NA
+2019,"December","Zhejiang Xinshengda",290,NA,NA,"Other","Timber","Malaysia","East Asia",1,"G"
+2020,"August","Xinjiang Goldwind",290,"0.5","Clarke Creek","Energy","Alternative","Australia","Australia",0,"G"
+2009,"October","CIC",300,"0.45","Nobel Holdings","Energy","Oil","Russian Federation","West Asia",NA,NA
+2010,"April","Tencent",300,"0.10299999999999999","Digital Sky Technologies","Technology",NA,"Russian Federation","West Asia",NA,NA
+2011,"July","Sinosteel",300,NA,NA,"Metals",NA,"Zimbabwe","Sub-Saharan Africa",NA,NA
+2011,"September","Yankuang",300,"1","Wesfarmers","Energy","Coal","Australia","Australia",NA,NA
+2011,"December","Shenhua",300,"0.75","Hydro Tasmania","Energy","Alternative","Australia","Australia",NA,"G"
+2012,"February","CIC, Sinopec",300,NA,"Sunshine Oilsands","Energy","Oil","Canada","North America",NA,NA
+2012,"September","Xinwei",300,NA,NA,"Technology","Telecom","Nicaragua","North America",NA,"G"
+2012,"September","Beijing Auto",300,NA,NA,"Transport","Autos","Brazil","South America",NA,"G"
+2012,"November","China National Building Material",300,NA,"Tajik Aluminum","Real estate","Construction","Tajikistan","West Asia",NA,"G"
+2013,"September","Shaanxi Yanchang Petroleum",300,"1","Novus Energy","Energy",NA,"Canada","North America",NA,NA
+2014,"May","Baidu",300,"1",NA,"Technology","Telecom","USA","USA",0,"G"
+2014,"July","Sany Heavy",300,"1",NA,"Real estate","Construction","Brazil","South America",0,"G"
+2014,"July","Huajian",300,"1",NA,"Real estate","Property","Ethiopia","Sub-Saharan Africa",1,"G"
+2014,"August","Sichuan Department of Agriculture",300,NA,NA,"Agriculture",NA,"Uganda","Sub-Saharan Africa",1,"G"
+2014,"December","Taikang Life",300,NA,"AGC","Real estate","Property","Britain","Europe",0,NA
+2015,"February","China Launch and Tracking Control General",300,NA,NA,"Technology",NA,"Argentina","South America",0,NA
+2015,"April","Fosun",300,"0.2","Cirque de Soliel","Entertainment",NA,"Canada","North America",0,NA
+2015,"May","Zijin Mining",300,"0.5","Barrick Niugini","Metals",NA,"Papua New Guinea","East Asia",1,NA
+2015,"December","Zhongli",300,NA,NA,"Energy","Alternative","Thailand","East Asia",1,"G"
+2015,"December","Beijing Municipal Government",300,NA,"Mattson Technology","Technology",NA,"USA","USA",0,NA
+2016,"January","Beijing Auto",300,"1",NA,"Transport","Autos","India","West Asia",0,"G"
+2016,"April","Wanfeng Auto",300,"1","Paslin","Transport","Autos","USA","USA",0,NA
+2016,"May","Shanghai Zhongji",300,"1","Jagex","Entertainment",NA,"Britain","Europe",0,NA
+2016,"May","China National Building Material",300,"1",NA,"Other","Industry","USA","USA",0,"G"
+2016,"July","Jiquan Iron and Steel",300,"1","Alumina Partners","Metals",NA,"Jamaica","North America",1,NA
+2016,"August","Shanghai Municipal Investment",300,"0.13","Central Park Tower","Real estate","Property","USA","USA",0,NA
+2017,"March","China Fortune",300,NA,NA,"Real estate","Property","Indonesia","East Asia",1,"G"
+2017,"July","Country Garden Holdings",300,NA,NA,"Real estate","Property","Australia","Australia",0,"G"
+2017,"July","Jiangsu Overseas Cooperation and Investment-led consortium",300,NA,NA,"Other","Industry","UAE","Arab Middle East and North Africa",1,"G"
+2017,"September","Shanghai Construction",300,NA,"Perla on Broadway","Real estate","Property","USA","USA",0,NA
+2018,"February","CITIC",300,"0.4","GNC","Other","Consumer","USA","USA",0,NA
+2018,"March","Songcheng Performance",300,NA,NA,"Entertainment",NA,"Australia","Australia",0,"G"
+2018,"September","Hongdou",300,"1",NA,"Transport","Autos","Thailand","East Asia",1,"G"
+2018,"September","Hongshi",300,NA,NA,"Real estate","Construction","Indonesia","East Asia",1,"G"
+2018,"November","Jiangxi investors",300,"1",NA,"Other",NA,"Zambia","Sub-Saharan Africa",1,"G"
+2019,"January","China Railway Construction",300,"0.09",NA,"Transport","Rail","Philippines","East Asia",1,"G"
+2019,"October","Nine Dragons",300,NA,"Rumford and Biron","Other","Timber","USA","USA",0,NA
+2019,"November","Tianjin Zhonghuan Semi",300,"0.28999999999999998","Maxeon Solar","Energy","Alternative","Singapore","East Asia",1,NA
+2019,"November","Jingxing Paper",300,NA,NA,"Other","Timber","Malaysia","East Asia",1,"G"
+2020,"November","Alibaba",300,NA,NA,"Other","Consumer","Britain","Europe",0,NA
+2020,"November","Shandong Haohua",300,"1",NA,"Transport","Autos","Sri Lanka","West Asia",1,"G"
+2006,"November","China Nonferrous",310,"1",NA,"Metals","Copper","Zambia","Sub-Saharan Africa",NA,"G"
+2013,"February","HNA",310,"0.2","NH Hoteles","Tourism",NA,"Spain","Europe",NA,NA
+2014,"February","Huaxin Post and Telecom",310,"0.85","Alcatel-Lucent","Technology","Telecom","France","Europe",0,NA
+2014,"October","Anbang",310,"1","J.C. Flowers","Finance",NA,"Belgium","Europe",0,NA
+2014,"November","Yili Industrial",310,NA,NA,"Agriculture",NA,"New Zealand","East Asia",1,NA
+2015,"August","Anhui Conch",310,"1",NA,"Real estate","Construction","Russian Federation","West Asia",1,"G"
+2016,"May","Xinjiang Goldwind, China Energy Conservation",310,NA,NA,"Energy","Alternative","Australia","Australia",0,"G"
+2016,"June","Suning",310,"0.69","Inter Milan","Entertainment",NA,"Italy","Europe",1,NA
+2016,"September","Chengdu Tianqi",310,NA,NA,"Metals",NA,"Australia","Australia",0,NA
+2016,"November","CEFC",310,NA,"Penta","Real estate","Property","Czech Republic","Europe",1,NA
+2017,"February","Fosun",310,"7.0000000000000007E-2","Banco Comercial Portugues","Finance","Banking","Portugal","Europe",1,NA
+2017,"February","AVIC, Jiangxi Water",310,"0.39","Two Rivers","Real estate","Property","Kenya","Sub-Saharan Africa",1,NA
+2018,"January","China Poly, Sinomach",310,"0.51",NA,"Energy","Coal","Bosnia","Europe",1,"G"
+2018,"February","LONGi Green Energy",310,NA,NA,"Energy","Alternative","India","West Asia",0,NA
+2018,"June","CNOOC",310,NA,NA,"Energy","Oil","Canada","North America",0,NA
+2019,"September","TCL",310,NA,NA,"Entertainment",NA,"India","West Asia",0,"G"
+2020,"March","Ping An",310,"0.02","Shionogi","Health",NA,"Japan","East Asia",0,NA
+2009,"April","Jiangsu Taihu",320,NA,NA,"Real estate","Property","Cambodia","East Asia",NA,"G"
+2009,"May","CNOOC, Sinopec",320,"1","Talisman Energy","Energy","Oil","Trinidad-Tobago","North America",NA,NA
+2013,"April","COFCO",320,NA,NA,"Agriculture",NA,"Brazil","South America",NA,"G"
+2013,"July","Tsingshan Steel",320,"0.5","Bintang Delpan","Metals","Steel","Indonesia","East Asia",NA,"G"
+2014,"March","Shanghai Greenland",320,NA,NA,"Tourism",NA,"Canada","North America",0,NA
+2014,"April","ICBC",320,"0.76","Tekstil Bankasi","Finance","Banking","Turkey","West Asia",1,NA
+2014,"July","State Development and Investment Corp, Anhui Conch",320,NA,NA,"Real estate","Construction","Indonesia","East Asia",1,"G"
+2015,"April","Yantai Xinchao",320,NA,"Juno Energy","Energy","Oil","USA","USA",0,NA
+2016,"November","HNA",320,NA,NA,"Real estate","Property","USA","USA",0,NA
+2018,"April","Alibaba",320,NA,NA,"Other","Consumer","Thailand","East Asia",1,"G"
+2018,"April","Yu Kuo",320,"1",NA,"Agriculture",NA,"France","Europe",0,"G"
+2019,"January","Evergrande",320,"0.65",NA,"Transport","Autos","Sweden","Europe",0,"G"
+2019,"March","China Poly",320,NA,NA,"Real estate","Property","Australia","Australia",0,"G"
+2019,"October","Sinosteel",320,"1","Crosslands Resources","Metals","Steel","Australia","Australia",0,NA
+2020,"November","JA Solar",320,"1",NA,"Energy","Alternative","Vietnam","East Asia",1,"G"
+2020,"December","Hefei Ray Capital Management",320,NA,"Takeda","Health",NA,"Japan","East Asia",0,NA
+2007,"September","Ansteel",330,"0.5","Gindalbie Metals","Metals","Steel","Australia","Australia",NA,NA
+2008,"September","China Ocean Shipping",330,"0.28999999999999998","Yantai Raffles Shipyard","Transport","Shipping","Singapore","East Asia",NA,NA
+2011,"February","CNOOC",330,NA,"ExxonMobil","Energy","Oil","Argentina","South America",NA,NA
+2012,"April","Xuzhou Construction Machinery",330,"0.52","Schwing","Real estate","Construction","Germany","Europe",NA,NA
+2012,"June","Tencent",330,"0.4","Epic Games","Entertainment",NA,"USA","USA",NA,NA
+2012,"December","Country Garden Holdings",330,NA,NA,"Real estate","Property","Malaysia","East Asia",NA,"G"
+2015,"April","China Life, Ping An",330,NA,"Tishman Speyer","Real estate","Property","USA","USA",0,"G"
+2015,"August","HNA",330,NA,"Reuters","Real estate","Property","Britain","Europe",0,NA
+2019,"January","Hebei Steel",330,"0.7","Tata Steel","Metals","Steel","Singapore","East Asia",1,NA
+2020,"August","Tencent",330,"0.2","Voodoo","Entertainment",NA,"France","Europe",0,NA
+2013,"December","Shenzhen Hepalink",340,"1","Scientific Protein Laboratories","Health",NA,"USA","USA",0,NA
+2015,"May","Shandong Bright Ruby",340,NA,"Hilton Worldwide","Tourism",NA,"Australia","Australia",0,NA
+2015,"December","Three Gorges",340,"0.49","EDP","Energy","Alternative","Poland","Europe",1,NA
+2016,"May","State Construction Engineering",340,"1",NA,"Real estate","Property","USA","USA",0,"G"
+2016,"August","HNA",340,NA,"RocketSpace","Technology",NA,"USA","USA",0,NA
+2016,"October","Chengdu Techcent",340,"0.6","Alba","Other","Industry","Germany","Europe",0,NA
+2017,"October","Geely Auto",340,"0.22","Saxo Bank","Finance","Banking","Denmark","Europe",0,NA
+2018,"May","Hisense Group",340,"1","Gorenje","Other","Consumer","Slovenia","Europe",1,NA
+2018,"October","Shanghai Shenglong",340,NA,NA,"Real estate","Property","Australia","Australia",0,"G"
+2018,"November","BBK Electronics",340,"1",NA,"Technology","Telecom","India","West Asia",0,"G"
+2019,"January","Tencent, JD.Com",340,NA,"Go-Jek","Transport","Autos","Indonesia","East Asia",1,NA
+2019,"August","Haier",340,NA,NA,"Other","Consumer","Russian Federation","West Asia",1,"G"
+2019,"December","China Railway Engineering",340,"0.24",NA,"Real estate","Construction","Malaysia","East Asia",1,"G"
+2009,"September","Shanghai Electric",350,"0.4","Goss International","Other","Industry","USA","USA",NA,NA
+2009,"December","Shanghai Auto",350,"0.5","GM India","Transport","Autos","India","West Asia",NA,NA
+2010,"February","Chinalco",350,"0.35","GIIG","Metals","Aluminum","Malaysia","East Asia",NA,"G"
+2011,"May","China National Building Material",350,NA,"PT Semen Grobogan Semarang","Real estate","Construction","Indonesia","East Asia",NA,"G"
+2011,"May","China Chengtong",350,NA,NA,"Real estate","Property","Russian Federation","West Asia",NA,NA
+2012,"August","Zhejiang Huayou Cobalt",350,NA,NA,"Metals",NA,"Democratic Republic of the Congo","Sub-Saharan Africa",NA,NA
+2013,"July","Tencent",350,"0.06","Activision","Entertainment",NA,"USA","USA",NA,NA
+2014,"May","MCC",350,NA,NA,"Metals","Steel","Iran","West Asia",1,"G"
+2014,"May","Shenzhen Genzon",350,"0.95",NA,"Real estate","Property","USA","USA",0,NA
+2015,"March","Geo-Jade Petroleum",350,"1","KoZhan","Energy","Oil","Kazakhstan","West Asia",1,NA
+2015,"September","Shenzhen Government",350,NA,NA,"Other","Industry","Jordan","Arab Middle East and North Africa",1,"G"
+2016,"April","Jiangsu Sunshine",350,"1",NA,"Other","Textiles","Ethiopia","Sub-Saharan Africa",1,"G"
+2016,"April","Shanda Group",350,"0.1","Legg Mason","Finance","Investment","USA","USA",0,NA
+2016,"October","State Grid",350,"0.24","Public Power","Energy",NA,"Greece","Europe",1,NA
+2016,"December","WH Group",350,"0.37","Alfa","Agriculture",NA,"Spain","Europe",0,NA
+2017,"September","Cindat",350,"0.5","Qhotels","Tourism",NA,"Britain","Europe",0,NA
+2018,"May","CITIC",350,NA,"J&T","Finance","Investment","Czech Republic","Europe",1,NA
+2008,"September","Jiangsu Shagang, RGL Group",360,"0.45","Grange Resources","Metals","Steel","Australia","Australia",NA,NA
+2010,"September","Huadian",360,"0.51","JSC Territorial","Energy",NA,"Russian Federation","West Asia",NA,"G"
+2011,"August","CIC",360,"0.19","AES and POSCO","Energy","Coal","Vietnam","East Asia",NA,"G"
+2013,"May","Fosun",360,"0.46","Club Med","Tourism",NA,"France","Europe",NA,NA
+2014,"June","Dalian Wanda",360,NA,"Santander","Real estate","Property","Spain","Europe",0,NA
+2015,"December","ChemChina",360,"0.12","Mercuria","Energy","Oil","Switzerland","Europe",0,NA
+2016,"January","China Energy Engineering",360,"0.2","Suki Kinari","Energy","Hydro","Pakistan","West Asia",1,NA
+2016,"April","Guangdong Heng Fu",360,"1",NA,"Agriculture",NA,"Cambodia","East Asia",1,"G"
+2017,"January","HNA",360,NA,"CBRE Global","Real estate","Property","USA","USA",0,NA
+2017,"October","MIE, Can-China Global Resources",360,NA,"CQ Energy","Energy",NA,"Canada","North America",0,NA
+2017,"December","Shanghai-based consortium",360,NA,"Esaote","Health",NA,"Italy","Europe",1,NA
+2018,"February","China Poly",360,NA,NA,"Energy","Gas","Ethiopia","Sub-Saharan Africa",1,"G"
+2018,"March","Shanghai Municipal Government, Chinese Academy of Sciences",360,"0.9","NMS","Health",NA,"Italy","Europe",1,NA
+2018,"April","Power Construction Corp",360,"0.92","Barishal","Energy","Coal","Bangladesh","West Asia",1,"G"
+2018,"September","CNPC",360,"0.1","PDVSA","Energy","Oil","Venezuela","South America",1,NA
+2018,"December","Shenzhen Huafu",360,NA,NA,"Other","Textiles","Vietnam","East Asia",1,"G"
+2008,"February","MCC",370,"1","Cape Lambert Iron","Metals","Steel","Australia","Australia",NA,"G"
+2009,"May","China Nonferrous",370,"0.85",NA,"Metals","Copper","Zambia","Sub-Saharan Africa",NA,"G"
+2009,"July","CIC",370,"0.01","Diageo","Agriculture",NA,"Britain","Europe",NA,NA
+2011,"February","CNPC",370,"1",NA,"Energy","Oil","Chad","Sub-Saharan Africa",NA,"G"
+2015,"March","Geely Auto",370,"1",NA,"Transport","Autos","Britain","Europe",0,"G"
+2015,"October","CITIC",370,NA,"Royal Albert Docks","Real estate","Property","Britain","Europe",0,"G"
+2015,"October","Shandong Landbridge",370,"0.8",NA,"Transport","Shipping","Australia","Australia",0,NA
+2015,"October","Nantong Fujitsu",370,"0.85","AMD","Technology",NA,"Malaysia","East Asia",1,NA
+2016,"July","China Resources",370,"0.28999999999999998","Genesiscare","Health",NA,"Australia","Australia",0,NA
+2017,"May","HNA",370,"0.04","Dufry","Tourism",NA,"Switzerland","Europe",0,NA
+2017,"October","CIC",370,"0.1","Equis Energy","Energy","Alternative","Singapore","East Asia",1,NA
+2018,"April","China Poly",370,"0.4","Softbank","Energy","Alternative","India","West Asia",0,"G"
+2018,"June","YY",370,"0.32","Bigo","Entertainment",NA,"Singapore","East Asia",1,NA
+2019,"February","Xinjiang Goldwind",370,NA,NA,"Energy","Alternative","Argentina","South America",0,"G"
+2010,"November","HNA",380,NA,NA,"Transport","Shipping","Norway","Europe",NA,NA
+2012,"December","Hebei Steel, General Development, Tewoo",380,"35%,25%,20%","Palabor Mining","Metals","Copper","South Africa","Sub-Saharan Africa",NA,NA
+2013,"June","Comtec Solar",380,"1",NA,"Energy","Alternative","Malaysia","East Asia",NA,"G"
+2014,"August","MCC",380,NA,NA,"Real estate","Property","Singapore","East Asia",1,"G"
+2015,"February","Sinomach",380,"0.75","OEDAS and OEPSAS","Energy",NA,"Turkey","West Asia",1,NA
+2015,"March","Hunan TV",380,NA,"Lionsgate","Entertainment",NA,"USA","USA",0,NA
+2015,"March","Guodian",380,NA,NA,"Energy","Alternative","South Africa","Sub-Saharan Africa",1,"G"
+2015,"April","Fosun",380,"0.75","Five Dock and Fortitude Valley","Real estate","Property","Australia","Australia",0,NA
+2015,"July","Fosun",380,NA,"Palazzo Broggi","Real estate","Property","Italy","Europe",1,NA
+2019,"November","Zijin Mining",380,"1","Freeport McMoran","Metals",NA,"Serbia","Europe",1,NA
+2020,"June","Evergrande",380,"0.18","NEVS","Transport","Autos","Sweden","Europe",0,NA
+2011,"August","Bright Foods",390,"0.75","Manassen Foods","Agriculture",NA,"Australia","Australia",NA,NA
+2013,"July","Ping An",390,NA,"Commerz Real","Real estate","Property","Britain","Europe",NA,NA
+2014,"February","Three Gorges",390,"0.33","Terra Novo","Energy","Hydro","Brazil","South America",0,NA
+2014,"September","China Merchants, China Communications Construction",390,NA,NA,"Logistics",NA,"Sri Lanka","West Asia",1,"G"
+2015,"February","Shanghai Auto, Wuling",390,"0.56000000000000005",NA,"Transport","Autos","Indonesia","East Asia",1,"G"
+2015,"August","Oceanwide Holdings",390,NA,"Howard Hughes","Real estate","Property","USA","USA",0,"G"
+2017,"May","Geely Auto",390,"0.26","Saxo","Finance","Banking","Denmark","Europe",0,NA
+2017,"May","Anbang",390,NA,"Blackstone","Tourism",NA,"Netherlands","Europe",0,NA
+2018,"April","WuXi Pharma",390,"1",NA,"Health",NA,"Ireland","Europe",0,"G"
+2018,"May","Shandong Nanshan Aluminum",390,NA,"Redstone Alumina","Metals","Aluminum","Indonesia","East Asia",1,"G"
+2019,"June","CITIC",390,NA,NA,"Transport","Autos","Morocco","Arab Middle East and North Africa",1,"G"
+2019,"November","China Railway Construction",390,"0.1",NA,"Transport","Rail","Nigeria","Sub-Saharan Africa",1,"G"
+2020,"December","Datang",390,"0.75","Sinarmas","Energy","Coal","Indonesia","East Asia",1,NA
+2009,"November","Wuhan Iron and Steel",400,"0.22","MMX Mineracao","Metals","Steel","Brazil","South America",NA,NA
+2010,"November","Guangdong Rising Asset Management",400,"1","Caledon Resources","Energy","Coal","Australia","Australia",NA,NA
+2011,"February","Tencent",400,"0.84","Riot Games","Entertainment",NA,"USA","USA",NA,NA
+2011,"August","Jilin Nonferrous",400,NA,NA,"Metals",NA,"Canada","North America",NA,NA
+2011,"October","CNPC",400,NA,"Watan","Energy","Oil","Afghanistan","West Asia",NA,"G"
+2012,"November","CIC",400,NA,"Deutsche Bank","Real estate","Property","Britain","Europe",NA,NA
+2013,"November","CSR",400,NA,"ZF Friedrichshafen","Transport","Autos","Germany","Europe",0,NA
+2013,"December","Anhui Foreign Economic Construction",400,"1",NA,"Metals",NA,"Mozambique","Sub-Saharan Africa",1,"G"
+2014,"September","Hebei Steel",400,"0.51","Duferco","Metals","Steel","Switzerland","Europe",0,NA
+2014,"November","Sunshine Insurance",400,NA,"Starwood","Tourism",NA,"Australia","Australia",0,NA
+2015,"February","Anbang",400,NA,"Blackstone","Real estate","Property","USA","USA",0,NA
+2015,"February","Qingdao Sentury",400,NA,NA,"Transport","Autos","Thailand","East Asia",1,"G"
+2015,"November","China Media Capital, CITIC",400,"0.13","City Football Group","Entertainment",NA,"Britain","Europe",0,NA
+2016,"November","Shaanxi Ligeance",400,NA,"Gardner Aerospace","Transport","Aviation","Britain","Europe",0,NA
+2017,"June","JD.com",400,NA,"Farfetch","Other","Consumer","Britain","Europe",0,NA
+2017,"October","Tencent",400,NA,"Ola","Transport","Autos","India","West Asia",0,NA
+2019,"January","State Grid",400,"0.4",NA,"Energy",NA,"Philippines","East Asia",1,"G"
+2019,"March","Yili Industrial",400,"1","Westland Cooperative Dairy","Agriculture",NA,"New Zealand","East Asia",1,NA
+2019,"November","Alibaba",400,NA,"One97","Other","Consumer","India","West Asia",0,NA
+2019,"December","CNOOC",400,"0.25","Exxon and Hess","Energy","Oil","Guyana","South America",1,"G"
+2012,"June","China Railway Engineering",410,NA,"C.V.G. Ferrominera Orinoco","Metals","Steel","Venezuela","South America",NA,"G"
+2013,"December","Huaneng Power",410,"0.51","Royal Group","Energy","Hydro","Cambodia","East Asia",1,"G"
+2015,"May","Zijin Mining",410,"0.49","Ivanhoe Kamoa","Metals","Copper","Democratic Republic of the Congo","Sub-Saharan Africa",0,NA
+2016,"July","Zhonghong Zhuoye",410,"0.91","Abercrombie & Kent","Tourism",NA,"USA","USA",0,NA
+2016,"September","CIC",410,NA,NA,"Energy","Gas","Brazil","South America",0,NA
+2010,"September","Jinchuan",420,"1","Continental Metals","Metals","Copper","Canada","North America",NA,NA
+2011,"July","CITIC",420,"1","KSM Castings","Transport","Autos","Germany","Europe",NA,NA
+2012,"May","Wanxiang",420,NA,"Great Point Energy","Energy","Alternative","USA","USA",NA,NA
+2012,"May","CIC",420,"0.05","Polyus","Metals",NA,"Russian Federation","West Asia",NA,NA
+2016,"March","HNA",420,"0.9","Shorenstein","Real estate","Property","USA","USA",0,NA
+2016,"August","China Ocean Shipping",420,"0.51",NA,"Transport","Shipping","Greece","Europe",1,NA
+2016,"November","Anhui Landing",420,NA,NA,"Tourism",NA,"South Korea","East Asia",1,NA
+2017,"April","China Nonferrous",420,NA,NA,"Metals","Copper","Democratic Republic of the Congo","Sub-Saharan Africa",0,"G"
+2019,"September","China Merchants",420,"1","KLG Europe","Transport","Shipping","Netherlands","Europe",0,NA
+2019,"November","Yanlord",420,"0.33","United Engineers","Real estate","Property","Singapore","East Asia",1,NA
+2006,"September","Sinopec",430,"0.5","Omimex","Energy","Oil","Colombia","South America",NA,NA
+2013,"February","Vanke",430,"0.7","Tishman Speyer","Real estate","Property","USA","USA",NA,"G"
+2014,"February","Shaanxi Coal and Chemical",430,"1",NA,"Energy","Oil","Kyrgyzstan","West Asia",1,"G"
+2015,"June","Jin Jiang Hotels",430,"0.04","Accor Hotels","Tourism",NA,"France","Europe",0,NA
+2016,"March","Fosun",430,NA,NA,"Real estate","Property","Britain","Europe",0,NA
+2016,"September","Beijing Miteno",430,"1","Media.net","Other",NA,"USA","USA",0,NA
+2016,"December","China General Nuclear",430,NA,"Gaelectric","Energy","Alternative","Ireland","Europe",0,NA
+2017,"March","Zhonghong Zhuoye",430,"0.21","Sea World","Entertainment",NA,"USA","USA",0,NA
+2018,"February","Chinalco",430,NA,"Boffa","Metals","Aluminum","Guinea","Sub-Saharan Africa",1,"G"
+2020,"December","Shandong Gold",430,"1","Cardinal Resources","Metals",NA,"Argentina","South America",0,NA
+2010,"July","Tempo Group, Beijing Municipal Government",440,"1","Nexteer Auto","Transport","Autos","USA","USA",NA,NA
+2012,"May","SAFE",440,NA,"Drapers Garden","Real estate","Property","Britain","Europe",NA,NA
+2014,"March","China Power Investment",440,"0.33","EneMalta","Energy",NA,"Malta","Europe",1,NA
+2014,"April","Zhejiang Rongsheng, Shanghai Zhongrong, Legend",440,NA,NA,"Energy","Gas","Canada","North America",0,"G"
+2014,"August","Fosun",440,"1","Roc Oil","Energy","Oil","Australia","Australia",0,NA
+2015,"June","ZOJE Resources",440,NA,NA,"Agriculture",NA,"Russian Federation","West Asia",1,"G"
+2015,"July","Fosun",440,NA,"Meadowbrook Insurance","Finance",NA,"USA","USA",0,NA
+2016,"March","Geo-Jade Petroleum",440,"1","Bankers Petroleum","Energy","Oil","Canada","North America",0,NA
+2016,"July","IDG Capital, MLS, Yiwu State-Owned Assets",440,NA,"Osram","Other","Industry","Germany","Europe",0,NA
+2017,"July","China Eastern",440,"0.1","Air France-KLM","Transport","Aviation","France","Europe",0,NA
+2018,"September","Tianshui Huatian",440,"0.76","Unisem","Technology",NA,"Malaysia","East Asia",1,NA
+2007,"December","Minmetals, Jiangxi Copper",450,"1","Northern Peru Copper","Metals","Copper","Peru","South America",NA,NA
+2009,"August","CIC",450,"0.19","Songbird Estates","Real estate","Property","Britain","Europe",NA,NA
+2012,"September","Wuhan Iron and Steel",450,"1","ThyssenKrupp","Metals","Steel","Germany","Europe",NA,NA
+2013,"June","State Construction Engineering",450,"0.45","Viceroy Palm","Tourism",NA,"UAE","Arab Middle East and North Africa",NA,NA
+2013,"October","Chinalco",450,NA,NA,"Metals","Steel","Guinea","Sub-Saharan Africa",1,NA
+2014,"November","Harbin Electric",450,"1",NA,"Energy","Alternative","Russian Federation","West Asia",1,"G"
+2016,"February","Jin Jiang Hotels",450,"0.06","Accor","Tourism",NA,"France","Europe",0,NA
+2017,"March","HNA",450,"0.25","Old Mutual","Finance",NA,"USA","USA",0,NA
+2018,"May","Ningbo Jifeng",450,"0.5","Grammer","Transport","Autos","Germany","Europe",0,NA
+2019,"April","CITIC",450,"0.1","Ivanhoe","Metals",NA,"Canada","North America",0,NA
+2019,"June","Hillhouse",450,"1","Exponent Private Equity","Agriculture",NA,"Britain","Europe",0,NA
+2020,"May","Shandong Haohua",450,NA,NA,"Transport","Autos","Sri Lanka","West Asia",1,"G"
+2012,"January","Shandong Heavy",460,"0.75","Ferretti","Transport","Shipping","Italy","Europe",NA,NA
+2012,"November","CIC",460,"0.33","Prosperitas","Logistics",NA,"Brazil","South America",NA,NA
+2013,"December","Shenhua",460,"0.5","En+","Energy","Coal","Russian Federation","West Asia",1,"G"
+2014,"August","Fosun",460,"0.2","Ironshore","Finance",NA,"USA","USA",0,NA
+2015,"August","ZTE",460,"1",NA,"Energy","Alternative","Pakistan","West Asia",1,"G"
+2015,"November","HNA",460,"0.24","Azul Linhas Aereas Brasileiras","Transport","Aviation","Brazil","South America",0,NA
+2016,"May","Qingjian",460,NA,NA,"Real estate","Property","Singapore","East Asia",1,NA
+2017,"March","HNA",460,"0.02","Deutsche Bank","Finance","Banking","Germany","Europe",0,NA
+2018,"March","Tencent",460,"0.05",NA,"Entertainment",NA,"France","Europe",0,NA
+2008,"February","Sinochem",470,"0.16800000000000001","Soco","Energy","Oil","Yemen","Arab Middle East and North Africa",NA,NA
+2009,"August","CNPC",470,"0.6",NA,"Energy","Oil","Chad","Sub-Saharan Africa",NA,"G"
+2011,"May","CITIC, China Development Bank, Long March Capital",470,"0.75","Gold One","Metals",NA,"South Africa","Sub-Saharan Africa",NA,NA
+2012,"December","Three Gorges",470,"0.49","Renovaveis","Energy","Alternative","Portugal","Europe",NA,NA
+2013,"February","CITIC",470,"0.13","Alumina Ltd.","Metals","Aluminum","Australia","Australia",NA,NA
+2013,"October","HNA",470,"1","TIP Trailer Services","Logistics",NA,"Netherlands","Europe",0,NA
+2014,"July","Country Garden Holdings",470,"1",NA,"Real estate","Property","Australia","Australia",0,"G"
+2014,"December","Haitong Securities",470,NA,"Novo Banco","Finance","Investment","Portugal","Europe",1,NA
+2016,"March","Guangdong Midea",470,"0.8","Toshiba Lifestyle Products","Other","Consumer","Japan","East Asia",0,NA
+2017,"May","China Communications Construction",470,NA,NA,"Energy","Coal","Pakistan","West Asia",1,"G"
+2018,"January","China Molybdenum",470,"1","Louis Dreyfus","Metals",NA,"Netherlands","Europe",0,NA
+2018,"April","CITIC, CIC",470,NA,"Nature's Care","Health",NA,"Australia","Australia",0,NA
+2018,"July","Southern Power",470,"0.25",NA,"Utilities",NA,"Luxembourg","Europe",1,NA
+2006,"January","ChemChina",480,"1","Adisseo","Agriculture",NA,"France","Europe",NA,NA
+2009,"July","Haicheng Xiyang Group",480,"1",NA,"Metals","Steel","Russian Federation","West Asia",NA,"G"
+2012,"January","Sany Heavy, CITIC",480,"1","Putzmeister","Real estate","Construction","Germany","Europe",NA,NA
+2013,"February","Guangxi Beibu",480,"0.4","IJM Corporation","Transport","Shipping","Malaysia","East Asia",NA,NA
+2014,"September","Dalian Wanda",480,NA,"Joint Treasure","Real estate","Property","USA","USA",0,"G"
+2015,"January","Ping An",480,"1","Tower Place","Real estate","Property","Britain","Europe",0,NA
+2015,"October","Beijing Auto",480,NA,"Borgward","Transport","Autos","Germany","Europe",0,NA
+2018,"September","Alibaba",480,"0.1","Mail.ru","Technology",NA,"Russian Federation","West Asia",1,NA
+2010,"April","CIC",490,NA,"Athabasca Oil Corp","Energy","Oil","Canada","North America",NA,NA
+2012,"June","CIC",490,"7.0000000000000007E-2","Eutelsat","Technology","Telecom","France","Europe",NA,NA
+2015,"August","Three Gorges",490,NA,"Triunfo Participacoes","Energy",NA,"Brazil","South America",0,NA
+2018,"January","CITIC",490,"1","Axilone","Other","Consumer","France","Europe",0,NA
+2018,"January","Primavera Capital",490,NA,"Stratford School","Other","Education","USA","USA",0,NA
+2018,"November","China Life",490,"0.8","Site Centers","Real estate","Property","USA","USA",0,NA
+2019,"March","Xiaomi",490,NA,NA,"Other","Consumer","India","West Asia",0,"G"
+2020,"June","China Maple Leaf Educational",490,NA,"Southern Capital and HPEF Capital","Other","Education","Singapore","East Asia",1,NA
+2005,"January","Minmetals",500,NA,"Cubapetroleo","Metals",NA,"Cuba","North America",NA,"G"
+2006,"July","CNPC",500,NA,"Rosneft","Energy",NA,"Russian Federation","West Asia",NA,NA
+2009,"January","CNPC",500,NA,NA,"Energy","Oil","Mongolia","East Asia",NA,"G"
+2009,"June","CIC",500,NA,"Blackstone","Finance","Investment","USA","USA",NA,NA
+2009,"December","CIC",500,NA,"CVRD (Vale)","Metals","Steel","Brazil","South America",NA,NA
+2009,"December","China Mobile",500,NA,NA,"Technology","Telecom","Pakistan","West Asia",NA,"G"
+2010,"March","Sinomach",500,NA,NA,"Transport","Autos","Cameroon","Sub-Saharan Africa",NA,"G"
+2010,"November","Shanghai Auto",500,"0.01","GM","Transport","Autos","USA","USA",NA,NA
+2010,"December","Ashima Cultural Group",500,NA,NA,"Real estate","Property","Thailand","East Asia",NA,"G"
+2011,"January","China Unicom",500,"1.4E-2","Telefonica","Technology","Telecom","Spain","Europe",NA,NA
+2011,"November","Guangxi Nonferrous",500,"1",NA,"Metals","Steel","Cambodia","East Asia",NA,"G"
+2012,"April","Norinco",500,NA,"Basic Element","Metals","Aluminum","Russian Federation","West Asia",NA,"G"
+2012,"July","SAFE",500,NA,"Blackstone","Real estate","Property","USA","USA",NA,NA
+2012,"August","CIC",500,NA,"Cheniere Energy","Energy","Gas","USA","USA",NA,NA
+2012,"December","CNPC",500,NA,"KazMunaiGas","Energy","Gas","Kazakhstan","West Asia",NA,"G"
+2013,"April","Tianjin Development",500,NA,NA,"Real estate","Property","Egypt","Arab Middle East and North Africa",NA,"G"
+2013,"June","Dalian Wanda",500,"0.92","Sunseeker","Transport","Shipping","Britain","Europe",NA,NA
+2014,"March","Tencent",500,"0.28000000000000003","CJ Games","Entertainment",NA,"South Korea","East Asia",1,NA
+2015,"May","Geely Auto",500,"1",NA,"Transport","Autos","USA","USA",0,"G"
+2015,"October","Sinoma",500,"1",NA,"Real estate","Construction","Zambia","Sub-Saharan Africa",1,"G"
+2016,"March","Film Carnival",500,NA,"Dick Cook Studios","Entertainment",NA,"USA","USA",0,NA
+2016,"July","Fosun",500,"0.67","Harumi Island Triton Square","Real estate","Property","Japan","East Asia",0,NA
+2017,"March","Shougang",500,NA,"Hierro","Metals","Steel","Peru","South America",1,NA
+2017,"July","Didi Chuxing",500,NA,"Grab Taxi","Transport","Autos","Singapore","East Asia",1,NA
+2017,"August","Alibaba",500,NA,"Tokopedia","Other","Consumer","Indonesia","East Asia",1,NA
+2017,"October","CEFC",500,NA,"EN+","Energy",NA,"Russian Federation","West Asia",1,NA
+2018,"March","GSR",500,NA,"NEVS","Transport","Autos","Sweden","Europe",0,NA
+2018,"March","Kunming Iron",500,"1",NA,"Transport","Aviation","Cambodia","East Asia",1,NA
+2018,"July","State Development and Investment Corp",500,"0.28000000000000003",NA,"Chemicals",NA,"Jordan","Arab Middle East and North Africa",1,NA
+2019,"September","Hebei Steel",500,NA,"SteelAsia","Metals","Steel","Philippines","East Asia",1,"G"
+2020,"August","Bytedance",500,"1",NA,"Technology","Telecom","Ireland","Europe",0,"G"
+2011,"January","CNPC",510,"0.5","INEOS France","Energy",NA,"France","Europe",NA,NA
+2011,"January","CNPC",510,"0.5","INEOS Britain","Energy",NA,"Britain","Europe",NA,NA
+2012,"February","State Grid",510,"0.25","REN","Energy",NA,"Portugal","Europe",NA,NA
+2012,"June","Hanergy",510,"1","Solibro","Energy","Alternative","Germany","Europe",NA,NA
+2012,"November","State Grid",510,"0.41","ElectraNet","Energy",NA,"Australia","Australia",NA,NA
+2014,"April","Hubei Fuxing Science",510,"1",NA,"Real estate","Property","Australia","Australia",0,"G"
+2014,"May","Hongqiao-led Unit",510,NA,NA,"Metals","Aluminum","Guinea","Sub-Saharan Africa",1,"G"
+2015,"May","Great Wall Motor",510,NA,NA,"Transport","Autos","Russian Federation","West Asia",1,"G"
+2015,"July","Tsingshan Steel",510,"0.5","Bintang Delapan","Metals","Steel","Indonesia","East Asia",1,"G"
+2015,"September","Power Construction Corp",510,NA,"Firebird","Energy","Coal","Mongolia","East Asia",1,"G"
+2016,"April","Anbang",510,"0.66",NA,"Real estate","Property","Canada","North America",0,NA
+2016,"September","Shanghai Capital, China IC Fund",510,"1","Analogix","Technology",NA,"USA","USA",0,NA
+2017,"February","Anbang",510,NA,"Retirement Concepts","Real estate","Property","Canada","North America",0,NA
+2009,"May","MCC",520,"0.1","Mineralogy","Energy","Coal","Australia","Australia",NA,"G"
+2012,"January","Shanghai Wanfeng",520,"1",NA,"Real estate","Property","Laos","East Asia",NA,"G"
+2014,"April","China Mobile",520,"1","Spectrum","Technology","Telecom","Pakistan","West Asia",1,NA
+2014,"July","SAFE",520,"0.02","Telecom Italia","Technology","Telecom","Italy","Europe",1,NA
+2016,"August","Beijing Auto",520,"0.65","Industrial Development Co","Transport","Autos","South Africa","Sub-Saharan Africa",1,"G"
+2019,"March","Haier",520,"1",NA,"Other","Consumer","India","West Asia",0,"G"
+2009,"September","ICBC",530,NA,"ACL Bank","Finance","Banking","Thailand","East Asia",NA,NA
+2011,"July","Chery Auto",530,NA,NA,"Transport","Autos","Brazil","South America",NA,"G"
+2011,"August","HNA",530,"1","GE SeaCo","Transport","Shipping","Singapore","East Asia",NA,NA
+2013,"January","China Merchants",530,"0.49","CMA CGM","Transport","Shipping","France","Europe",NA,NA
+2014,"March","Geo-Jade Petroleum",530,"0.95","Maten Petroleum","Energy","Oil","Kazakhstan","West Asia",1,NA
+2015,"January","Shanghai Greenland",530,NA,NA,"Real estate","Property","Malaysia","East Asia",1,"G"
+2017,"March","Sino-Europe Sports",530,NA,"Elliott Management","Entertainment",NA,"Italy","Europe",1,NA
+2020,"March","Zhejiang Lygend",530,NA,NA,"Metals","Steel","Indonesia","East Asia",1,"G"
+2010,"March","Sinomach",540,NA,NA,"Energy","Hydro","Cambodia","East Asia",NA,"G"
+2011,"May","Sinopec",540,"0.8","Shell","Energy","Oil","Cameroon","Sub-Saharan Africa",NA,NA
+2014,"February","Shanghai Greenland",540,"1",NA,"Real estate","Property","Australia","Australia",0,"G"
+2017,"January","Oceanwide Holdings, IDG Capital",540,"1","International Data Group","Technology",NA,"USA","USA",0,NA
+2018,"May","Luye Group",540,NA,"AstroZeneca","Health",NA,"Britain","Europe",0,NA
+2018,"August","China Resources",540,"0.01","Heineken","Agriculture",NA,"Netherlands","Europe",0,NA
+2020,"September","Great Wall Motor",540,NA,NA,"Transport","Autos","Russian Federation","West Asia",1,NA
+2005,"February","Minmetals",550,NA,"Codelco","Metals","Copper","Chile","South America",NA,"G"
+2010,"July","China Merchants",550,"1","Loscam","Transport","Shipping","Australia","Australia",NA,NA
+2018,"February","By-Health",550,"1","Life-Space","Health",NA,"Australia","Australia",0,NA
+2018,"April","China Aerospace Science and Technology",550,NA,"Nigcomsat","Technology","Telecom","Nigeria","Sub-Saharan Africa",1,NA
+2018,"October","Haier",550,"1","Candy","Other","Consumer","Italy","Europe",1,NA
+2020,"December","China Molybdenum",550,"0.95","Freeport McMoran","Metals","Copper","Democratic Republic of the Congo","Sub-Saharan Africa",0,"G"
+2008,"March","Sinopec",560,"0.6","AED","Energy","Oil","Australia","Australia",NA,NA
+2014,"May","Shanghai Electric",560,"0.4","Ansaldo Energia","Energy",NA,"Italy","Europe",1,NA
+2016,"February","Sinoenergy",560,"1","Long Run Exploration","Energy",NA,"Canada","North America",0,NA
+2016,"October","Anbang",560,NA,"Blackstone","Real estate","Property","Netherlands","Europe",0,NA
+2017,"May","Shanghai Gongbao, KaiXinRong",560,NA,"Forthnet","Technology","Telecom","Greece","Europe",1,"G"
+2018,"May","Huazhu Hotels",560,"0.05","Accor","Tourism",NA,"France","Europe",0,NA
+2018,"June","CITIC",560,"0.2","Ivanhoe Mines","Metals",NA,"Canada","North America",0,NA
+2018,"December","BBK Electronics",560,NA,NA,"Technology","Telecom","India","West Asia",0,"G"
+2019,"May","Genertec",560,"0.51","Allur Group","Transport","Autos","Kazakhstan","West Asia",1,NA
+2011,"March","Chongqing Grain",570,NA,NA,"Agriculture",NA,"Brazil","South America",NA,"G"
+2011,"October","Soho China",570,"0.49","Rockpoint","Real estate","Property","USA","USA",NA,NA
+2015,"November","Shenhua",570,"0.75","PLN","Energy","Coal","Indonesia","East Asia",1,"G"
+2016,"March","Cinda",570,"0.7","Hersha Hospitality","Tourism",NA,"USA","USA",0,NA
+2008,"June","Huadian",580,NA,NA,"Energy","Hydro","Cambodia","East Asia",NA,"G"
+2016,"June","Xiwang Group, Primavera Capital",580,"60, 20%","Kerr Investments","Agriculture",NA,"Canada","North America",0,NA
+2017,"March","HNA",580,"0.51","Glencore","Energy","Oil","Switzerland","Europe",0,NA
+2018,"January","Triangle Tyre",580,"1",NA,"Transport","Autos","USA","USA",0,"G"
+2012,"June","Huadian",590,"1","TGC-S","Energy",NA,"Russian Federation","West Asia",NA,"G"
+2014,"October","Fosun",590,"0.96","Espirito Santo Saude","Health",NA,"Portugal","Europe",1,NA
+2015,"May","Shenzhen Energy, China Development Bank",590,NA,NA,"Energy","Gas","Ghana","Sub-Saharan Africa",1,NA
+2015,"August","CIC",590,"0.15","Tank & Rast","Transport","Autos","Germany","Europe",0,NA
+2015,"December","SAFE, China Reform Holdings",590,"0.05","Energias de Portugal","Energy",NA,"Portugal","Europe",1,NA
+2012,"July","China Electric Equipment",600,NA,NA,"Energy","Alternative","Turkey","West Asia",NA,"G"
+2013,"September","Dreal",600,"0.7",NA,"Real estate","Property","Angola","Sub-Saharan Africa",NA,"G"
+2014,"May","CNPC",600,"1",NA,"Energy","Gas","Turkmenistan","West Asia",1,"G"
+2014,"December","Bank of China",600,NA,NA,"Real estate","Property","USA","USA",0,NA
+2014,"December","Baidu",600,NA,"Uber","Transport","Autos","USA","USA",0,NA
+2016,"November","CNPC",600,"0.3","Total","Energy","Gas","Iran","West Asia",1,NA
+2017,"May","Zhengzhou Coal, Rennaisance Capital",600,NA,"Robert Bosch","Transport","Autos","Germany","Europe",0,NA
+2017,"May","Humanwell Healthcare, CITIC",600,NA,"Ansell","Health",NA,"Australia","Australia",0,NA
+2017,"June","Guangzhou R&F Properties, CC Land",600,"1","Nine Elms Square","Real estate","Property","Britain","Europe",0,"G"
+2017,"September","Geely Auto",600,NA,NA,"Transport","Autos","USA","USA",0,NA
+2018,"January","Didi Chuxing",600,NA,"99Taxis","Transport","Autos","Brazil","South America",0,NA
+2018,"March","Qingdao Doublestar",600,"0.45","Kumho Tire","Transport","Autos","South Korea","East Asia",1,NA
+2019,"December","Zhejiang Lygend",600,NA,NA,"Metals","Steel","Indonesia","East Asia",1,"G"
+2020,"May","Alibaba",600,"0.5",NA,"Real estate","Property","Singapore","East Asia",1,NA
+2010,"November","CNPC, Sinopec",610,NA,NA,"Energy","Oil","Ecuador","South America",NA,"G"
+2016,"March","CIC",610,"0.16","Asciano","Transport","Rail","Australia","Australia",0,NA
+2016,"July","Qihoo, Beijing Kunlun",610,NA,"Opera Software","Technology","Telecom","Norway","Europe",0,NA
+2018,"March","Anhui Shanying",610,NA,NA,"Other","Timber","Finland","Europe",0,"G"
+2018,"September","China GEM-led consortium",610,"0.87","Sulawesi","Metals","Steel","Indonesia","East Asia",1,"G"
+2019,"January","Roadbot Tyre",610,"1",NA,"Transport","Autos","UAE","Arab Middle East and North Africa",1,"G"
+2020,"August","Three Gorges",610,NA,"X-Elio","Energy","Alternative","Spain","Europe",0,NA
+2013,"October","CNPC",620,"0.49","Rosneft","Energy","Oil","Russian Federation","West Asia",1,NA
+2014,"December","Guangzhou Dongsong",620,"1",NA,"Chemicals",NA,"Uganda","Sub-Saharan Africa",1,"G"
+2014,"August","SAFE",630,"0.02","Generali","Finance",NA,"Italy","Europe",1,NA
+2014,"October","SAFE",630,NA,"HIH and RFR","Real estate","Property","Germany","Europe",0,NA
+2018,"May","Qumei Home Furnishing, Huatai Securities",630,"1","Ekornes","Other","Consumer","Norway","Europe",0,NA
+2012,"August","Huadian",640,"1",NA,"Energy","Coal","Indonesia","East Asia",NA,"G"
+2014,"May","AVIC",640,"1","Hilite","Transport","Autos","Germany","Europe",0,NA
+2014,"August","Dalian Wanda, Ridong",640,NA,NA,"Real estate","Property","Australia","Australia",0,"G"
+2014,"November","ChemChina",640,"1","REC Solar ASA","Energy","Alternative","Norway","Europe",0,NA
+2018,"July","Shandong Sun Paper",640,NA,NA,"Other","Timber","Laos","East Asia",1,NA
+2010,"January","China Railway Construction, China Nonferrous",650,"1","Corriente Resources","Metals","Copper","Ecuador","South America",NA,NA
+2013,"February","Guangxi Beibu",650,"1",NA,"Metals",NA,"Malaysia","East Asia",NA,"G"
+2018,"June","Fosun",650,"1","Aton","Other","Industry","Germany","Europe",0,NA
+2018,"August","Zijin Mining",650,"0.63","RTB Bor.","Metals","Copper","Serbia","Europe",1,NA
+2018,"September","United Energy",650,"1","Kuwait Energy","Energy",NA,"Kuwait","Arab Middle East and North Africa",1,NA
+2012,"December","Sinosteel",660,NA,NA,"Metals","Steel","Cameroon","Sub-Saharan Africa",NA,"G"
+2016,"May","China Everbright, Baofeng",660,"0.65","MP&Silva","Entertainment",NA,"Britain","Europe",0,NA
+2005,"March","MCC",670,"0.85","Highlands Pacific","Metals","Steel","Papua New Guinea","East Asia",NA,"G"
+2011,"June","Lenovo",670,"0.82","Medion","Technology",NA,"Germany","Europe",NA,NA
+2012,"January","CNPC",670,"0.4","Athabasca Oil Sands","Energy","Oil","Canada","North America",NA,NA
+2014,"February","Goldleaf Jewelry",670,"0.95","ERG Resources","Energy",NA,"USA","USA",0,NA
+2016,"September","China Ocean Shipping",670,"0.9",NA,"Logistics",NA,"UAE","Arab Middle East and North Africa",1,NA
+2019,"September","China Ocean Shipping",670,NA,NA,"Transport","Shipping","Greece","Europe",1,NA
+2020,"November","CIC",670,"0.5","Dexus","Real estate","Property","Australia","Australia",0,NA
+2010,"December","Sinopec",680,"0.18","Chevron","Energy","Gas","Indonesia","East Asia",NA,NA
+2011,"June","ICBC",680,"0.75","Standard Bank","Finance","Banking","Argentina","South America",NA,NA
+2012,"October","Haier",680,"1","Fisher and Paykel","Other","Consumer","New Zealand","East Asia",NA,NA
+2013,"June","Soho China",680,"0.2","GM Building","Real estate","Property","USA","USA",NA,NA
+2015,"September","Alibaba",680,"0.16","One 97","Other","Consumer","India","West Asia",0,NA
+2016,"May","CIC",680,"0.49","Brookfield Property Partners","Real estate","Property","USA","USA",0,NA
+2014,"February","ICBC",690,"0.6","Standard Bank","Finance","Investment","Britain","Europe",0,NA
+2015,"December","Luye Group",690,"1","Archer Capital","Health",NA,"Australia","Australia",0,NA
+2016,"March","State Construction Engineering",690,NA,NA,"Real estate","Property","USA","USA",0,"G"
+2016,"April","Harbin Electric",690,NA,"ACWA","Energy","Coal","UAE","Arab Middle East and North Africa",1,"G"
+2018,"September","CIC",690,NA,"Boyd","Other","Industry","USA","USA",0,NA
+2019,"February","Alibaba",690,"1","WorldFirst","Finance",NA,"Britain","Europe",0,NA
+2019,"March","SAFE",690,"0.01","HDFC","Finance","Banking","India","West Asia",0,NA
+2019,"December","China Merchants-led consortium",690,NA,NA,"Transport","Autos","Turkey","West Asia",1,"G"
+2007,"January","ChemChina",700,NA,"Rhodia","Chemicals",NA,"France","Europe",NA,NA
+2012,"July","CNPC",700,NA,NA,"Energy","Oil","Iraq","Arab Middle East and North Africa",NA,NA
+2012,"December","Jiangsu Jinsheng",700,NA,"Oerlikon","Other","Textiles","Switzerland","Europe",NA,NA
+2016,"July","HNA",700,"0.8","Mubadala","Transport","Aviation","Switzerland","Europe",0,NA
+2016,"November","Cinda, Union Life",700,"0.75","Welltower","Real estate","Property","USA","USA",0,NA
+2017,"April","Tencent",700,NA,"Flipkart","Other","Consumer","India","West Asia",0,NA
+2009,"June","CIC",710,NA,"Blackrock","Finance","Investment","USA","USA",NA,NA
+2017,"June","Yankuang",710,"0.28999999999999998","Mitsubishi","Energy","Coal","Australia","Australia",0,NA
+2018,"June","Beijing Auto",710,NA,"Borgward","Transport","Autos","Germany","Europe",0,NA
+2018,"July","China General Nuclear",710,"0.75","Macquarie & GE","Energy","Alternative","Sweden","Europe",0,NA
+2011,"August","SAFE",720,"0.03","Munich Re","Finance",NA,"Germany","Europe",NA,NA
+2013,"October","China Construction Bank",720,"0.74","Banco Industrial e Comerical","Finance","Banking","Brazil","South America",0,NA
+2014,"August","China Construction Bank",720,"0.72","Banko Industrial and Comercial","Finance","Banking","Brazil","South America",0,NA
+2016,"May","China Life",720,NA,NA,"Real estate","Property","USA","USA",0,NA
+2012,"October","CIC",730,"0.1","Heathrow Holding","Transport","Aviation","Britain","Europe",NA,NA
+2012,"November","Shanghai Zhongfu",730,"1",NA,"Agriculture",NA,"Australia","Australia",NA,"G"
+2013,"October","Fosun",730,"0.7","JPMorgan","Real estate","Property","USA","USA",0,NA
+2014,"December","China Communications Construction",730,NA,NA,"Transport","Autos","Jamaica","North America",1,NA
+2015,"March","CITIC",730,"0.55000000000000004","United Envirotech","Utilities",NA,"Singapore","East Asia",1,NA
+2015,"April","SAFE",730,NA,"Madrilena Red de Gas","Energy","Gas","Spain","Europe",0,NA
+2015,"June","Uphill Investment",730,"1","Integrated Silicon Solution Inc.","Technology",NA,"USA","USA",0,NA
+2017,"July","Sanyuan Foods, Fosun",730,NA,"Montagu","Agriculture",NA,"France","Europe",0,NA
+2006,"May","Sinopec",740,"0.75","Sonangol","Energy","Oil","Angola","Sub-Saharan Africa",NA,"G"
+2009,"July","Taiyuan Iron, China Development Bank, Shanxi Coking Coal, and Tianli Enterprises",740,"34%, 33%, 21%, 12%",NA,"Real estate","Property","Mauritius","Sub-Saharan Africa",NA,"G"
+2014,"June","Yida",740,"1",NA,"Tourism",NA,"Antigua and Barbuda","North America",1,"G"
+2014,"December","Dalian Wanda",740,NA,"Pacific Equity Partners","Entertainment",NA,"Australia","Australia",0,NA
+2017,"September","China Reform Holdings",740,"1","Imagination Technologies","Technology",NA,"Britain","Europe",0,NA
+2017,"December","China Resources",740,"0.3","Dudgeon Holdings","Energy","Alternative","Britain","Europe",0,NA
+2019,"June","China Small and Medium Enterprise Investment",740,"1","Gujarat Government","Other","Textiles","India","West Asia",0,"G"
+2020,"February","China Railway Construction",740,"0.1",NA,"Transport","Rail","Thailand","East Asia",1,"G"
+2020,"September","Ping An",740,"0.01","HSBC","Finance","Banking","Britain","Europe",0,NA
+2011,"September","United Energy",750,NA,"BP","Energy",NA,"Pakistan","West Asia",NA,NA
+2013,"April","China Nonferrous",750,"0.5","East Siberian Metals","Metals",NA,"Russian Federation","West Asia",NA,"G"
+2013,"June","Zarsion",750,NA,"Signature Development","Real estate","Property","USA","USA",NA,"G"
+2014,"April","COFCO, Hopu Investment",750,NA,"Noble Agri Limited","Agriculture",NA,"Brazil","South America",0,NA
+2015,"July","Power Construction Corp, HTG",750,"0.3","S.Alam","Energy","Coal","Bangladesh","West Asia",1,"G"
+2015,"November","GR Investment, CITIC",750,NA,NA,"Tourism",NA,"Canada","North America",0,"G"
+2016,"March","ENN Energy",750,"0.12","Santos","Energy","Gas","Australia","Australia",0,NA
+2017,"May","Logan Property, Nanshan Group",750,NA,NA,"Real estate","Property","Singapore","East Asia",1,"G"
+2020,"October","Global Logistics Properties",750,"0.5","SEA Logistics Partners","Logistics",NA,"Vietnam","East Asia",1,"G"
+2008,"October","Datong Mining",760,NA,"Hema Enerji","Energy","Coal","Turkey","West Asia",NA,"G"
+2014,"April","Sanpower",760,"0.89","House of Fraser","Other","Consumer","Britain","Europe",0,NA
+2020,"June","Shanshan Technology",760,"0.7","LG","Technology",NA,"South Korea","East Asia",1,NA
+2009,"February","Hunan Valin",770,"0.17","Fortescue Metals","Metals","Steel","Australia","Australia",NA,NA
+2015,"April","Shandong Iron",770,"0.75","African Minerals","Metals","Steel","Sierra Leone","Sub-Saharan Africa",1,NA
+2017,"August","Luxshare",770,NA,NA,"Transport","Autos","Germany","Europe",0,NA
+2016,"March","Genertec",780,"0.5","North-West Power Generation","Energy","Coal","Bangladesh","West Asia",1,"G"
+2016,"April","Huatai Securities",780,"1","AssetMark Financial","Finance","Investment","USA","USA",0,NA
+2019,"January","China General Nuclear",780,"1",NA,"Energy","Alternative","Brazil","South America",0,NA
+2019,"November","Huazhu Hotels",780,"1","Deutsche Hospitality","Tourism",NA,"Germany","Europe",0,NA
+2020,"April","China Ocean Shipping",780,"0.6",NA,"Transport","Shipping","Peru","South America",1,"G"
+2020,"October","CITIC",780,"0.6","GNC","Other","Consumer","USA","USA",0,NA
+2007,"June","Chinalco",790,"1","Peru Copper","Metals","Copper","Peru","South America",NA,NA
+2011,"November","Zhouda Real Estate",790,NA,NA,"Real estate","Property","Malaysia","East Asia",NA,"G"
+2014,"December","China Communications Construction",790,NA,"John Holland","Transport",NA,"Australia","Australia",0,NA
+2015,"January","Dalian Wanda",790,"1","Gold Fields House and Fairfax House","Real estate","Property","Australia","Australia",0,NA
+2006,"November","China Development Bank",800,"0.01","Anglo-American","Metals",NA,"Britain","Europe",NA,NA
+2009,"March","CIC",800,NA,"Morgan Stanley","Real estate","Property","USA","USA",NA,NA
+2011,"April","Chinalco",800,NA,"Smelter Asia","Metals","Aluminum","Malaysia","East Asia",NA,"G"
+2011,"December","CIC",800,NA,NA,"Logistics",NA,"Japan","East Asia",NA,NA
+2014,"March","Beijing Capital",800,NA,"Transpacific","Utilities",NA,"New Zealand","East Asia",1,NA
+2015,"June","AVIC, Bohai Industrial Investment Fund",800,"1","Henniges","Transport","Autos","USA","USA",0,NA
+2017,"February","HNA",800,"0.03","Deutsche Bank","Finance","Banking","Germany","Europe",0,NA
+2020,"February","Zijin Mining",800,NA,"RTB Bor.","Metals","Copper","Serbia","Europe",1,NA
+2008,"July","China Nonferrous",810,"0.5","Tagaung Taung","Metals",NA,"Myanmar","East Asia",NA,"G"
+2013,"May","State Grid",810,"0.19900000000000001","Singapore Power","Energy",NA,"Australia","Australia",NA,NA
+2015,"May","Guangdong Rising Asset Management",810,"0.8","Panaust","Metals","Copper","Australia","Australia",0,NA
+2016,"May","China Life",810,"0.49",NA,"Real estate","Property","USA","USA",0,NA
+2016,"October","China Life",810,NA,"Starwood","Tourism",NA,"USA","USA",0,NA
+2013,"July","China Molybdenum",820,"0.8","Rio Tinto","Metals","Copper","Australia","Australia",NA,NA
+2014,"April","China Merchants",820,"0.5","Hastings","Transport","Shipping","Australia","Australia",0,NA
+2015,"June","SAFE",820,"0.02","Unicredit","Finance","Banking","Italy","Europe",1,NA
+2017,"January","Sanpower",820,NA,"Valeant","Health",NA,"Canada","North America",0,NA
+2012,"September","China Nonferrous",830,"1",NA,"Metals","Copper","Zambia","Sub-Saharan Africa",NA,"G"
+2018,"November","Chinese Academy of Sciences",830,"0.94","Australis Seafoods","Agriculture",NA,"Chile","South America",1,NA
+2019,"November","Tebian Electric Apparatus",830,NA,NA,"Metals","Aluminum","Guinea","Sub-Saharan Africa",1,"G"
+2012,"December","Chengdu Tianqi, CIC",840,"65%, 35%","Talison Lithium","Metals",NA,"Australia","Australia",NA,NA
+2013,"February","SAFE",840,"0.4","UPP Group","Real estate","Property","Britain","Europe",NA,NA
+2014,"August","Hongqiao",840,"0.56000000000000005","Well Harvest","Metals","Aluminum","Indonesia","East Asia",1,"G"
+2018,"July","Agile Property",840,NA,NA,"Real estate","Property","Malaysia","East Asia",1,"G"
+2019,"July","Ping An",840,"0.51","iTutorGroup","Other","Education","Taiwan","East Asia",0,NA
+2011,"November","CIC",850,"0.1","GDF Suez","Energy",NA,"Trinidad-Tobago","North America",NA,NA
+2017,"September","Shandong Weigao",850,NA,"Argon Medical Devices","Health",NA,"USA","USA",0,NA
+2018,"March","Zhefu Holdings",850,"0.53",NA,"Energy","Hydro","Indonesia","East Asia",1,"G"
+2014,"July","Baosteel",860,"0.65","Aquila Resources","Metals","Steel","Australia","Australia",0,NA
+2016,"November","Taikang Life",860,"0.19","NorthStar Realty","Real estate","Property","USA","USA",0,NA
+2018,"June","Evergrande",860,"0.45","Faraday Future","Transport","Autos","USA","USA",0,NA
+2019,"September","China Telecom",860,"0.4","Mislatel","Technology","Telecom","Philippines","East Asia",1,"G"
+2020,"February","Shandong Gaosu, Power Construction Corp",860,"0.7",NA,"Transport","Autos","Bangladesh","West Asia",1,"G"
+2015,"March","Huadian",870,"0.55000000000000004","Bukit Asam","Energy","Coal","Indonesia","East Asia",1,"G"
+2019,"November","China Merchants",870,NA,"CMA CGM","Logistics",NA,"France","Europe",0,NA
+2009,"August","Sinochem",880,"1","Emerald Energy","Energy",NA,"Britain","Europe",NA,NA
+2014,"June","China Mobile",880,"0.18","True Corp","Technology","Telecom","Thailand","East Asia",1,NA
+2018,"December","Wingtech",880,NA,"Nexperia","Technology",NA,"Netherlands","Europe",0,NA
+2017,"February","CEFC,Norinco",890,"0.04",NA,"Energy","Oil","UAE","Arab Middle East and North Africa",1,"G"
+2020,"March","Wingtech",890,"0.24","Nexperia","Technology",NA,"Netherlands","Europe",0,NA
+2010,"April","CNPC",900,NA,"PDVSA","Energy","Oil","Venezuela","South America",NA,"G"
+2012,"June","CIC",900,"0.5","RCIF","Finance",NA,"Russian Federation","West Asia",NA,NA
+2012,"October","Shanghai Greenland",900,"1",NA,"Health",NA,"South Korea","East Asia",NA,"G"
+2014,"December","Dalian Wanda",900,NA,NA,"Real estate","Property","USA","USA",0,"G"
+2015,"August","Dalian Wanda",900,"1","World Triathlon Corp","Entertainment",NA,"USA","USA",0,NA
+2016,"May","Shandong Landbridge",900,NA,NA,"Transport","Shipping","Panama","North America",1,NA
+2017,"May","China Life",900,"0.95","Elm Tree","Real estate","Property","USA","USA",0,NA
+2013,"August","Shandong Bright Ruby",910,NA,"Park Hotel","Real estate","Property","Singapore","East Asia",NA,NA
+2018,"November","CITIC-led consortium",910,"0.7",NA,"Transport","Shipping","Myanmar","East Asia",1,NA
+2011,"January","Yankuang",920,"1","Yancoal","Energy","Coal","Australia","Australia",NA,NA
+2012,"January","CIC",920,"8.6999999999999994E-2","Thames Water","Utilities",NA,"Britain","Europe",NA,NA
+2015,"September","China Merchants, CIC, China Ocean Shipping",920,"0.65","Fina Liman","Logistics",NA,"Turkey","West Asia",1,NA
+2016,"February","Ningbo Joyson",920,"1","Key Safety Systems","Transport","Autos","USA","USA",0,NA
+2017,"September","China Merchants",920,"0.9","TPC","Transport","Shipping","Brazil","South America",0,NA
+2018,"January","Shanghai Greenland",920,"0.2","Pacific Park","Real estate","Property","USA","USA",0,NA
+2018,"July","China Railway Construction",920,NA,"Mirador","Metals","Copper","Ecuador","South America",1,NA
+2011,"July","Jilin Nonferrous",930,"1",NA,"Metals","Steel","Indonesia","East Asia",NA,"G"
+2012,"September","Shandong Heavy",930,"0.25","Kion","Real estate","Construction","Germany","Europe",NA,NA
+2018,"May","CNOOC",930,"0.25","Exxon","Energy","Oil","Guyana","South America",1,"G"
+2018,"July","SAFE",930,"0.24","ACWA","Energy","Alternative","UAE","Arab Middle East and North Africa",1,"G"
+2019,"January","Evergrande",930,"0.51","NEVS","Transport","Autos","Sweden","Europe",0,NA
+2006,"October","CITIC, Chinalco",940,NA,NA,"Metals","Aluminum","Egypt","Arab Middle East and North Africa",NA,"G"
+2009,"September","CIC",940,"0.11","JSC KazMunaiGas E&P","Energy","Gas","Kazakhstan","West Asia",NA,NA
+2012,"May","State Grid",940,NA,"ACS","Energy",NA,"Brazil","South America",NA,NA
+2014,"December","CNPC",940,"0.2","Novatek","Energy","Gas","Russian Federation","West Asia",1,"G"
+2014,"June","China Life",950,"0.7","Songbird","Real estate","Property","Britain","Europe",0,NA
+2016,"May","Guangdong Province, Huaneng Power",950,"0.45",NA,"Energy","Oil","Jordan","Arab Middle East and North Africa",1,NA
+2018,"September","China Reinsurance",950,"1","Hanover Insurance","Finance",NA,"Britain","Europe",0,NA
+2010,"February","CIC",960,"2.3E-2","Apax Finance","Finance","Investment","Britain","Europe",NA,NA
+2017,"January","Dalian Wanda",960,NA,"Nordic Cinema","Entertainment",NA,"Sweden","Europe",0,NA
+2017,"April","Shandong Gold",960,"0.5","Barrick","Metals",NA,"Argentina","South America",0,NA
+2019,"June","SAFE",960,"0.25","ACWA Power","Energy","Alternative","Saudi Arabia","Arab Middle East and North Africa",1,NA
+2006,"December","Bank of China",970,"1","Singapore Aircraft Leasing","Transport","Aviation","Singapore","East Asia",NA,NA
+2014,"November","Sinomach",970,NA,NA,"Energy",NA,"Serbia","Europe",1,NA
+2019,"April","Datang",970,"1",NA,"Energy","Coal","Pakistan","West Asia",1,"G"
+2019,"December","State Grid",970,"0.49","Oman Electricity Transmission","Energy",NA,"Oman","Arab Middle East and North Africa",1,NA
+2012,"February","Sinochem",980,NA,"Total","Energy","Gas","Colombia","South America",NA,NA
+2013,"November","Shanghai Greenland",980,"0.41",NA,"Tourism",NA,"South Korea","East Asia",1,"G"
+2013,"December","Shanghai Greenland",980,NA,"Minerva","Real estate","Property","Britain","Europe",0,"G"
+2018,"May","Sinosteel",980,NA,NA,"Energy","Gas","Zimbabwe","Sub-Saharan Africa",1,"G"
+2019,"October","Mengniu Dairy",980,"1","Bellamy","Agriculture",NA,"Australia","Australia",0,NA
+2009,"February","Shougang",990,NA,NA,"Metals","Steel","Peru","South America",NA,NA
+2010,"May","Tianyu Group",990,"1","Lippo Incheon Development","Real estate","Property","South Korea","East Asia",NA,"G"
+2011,"December","Sinopec",990,"0.1","Australia Pacific Liquefied Natural Gas","Energy","Gas","Australia","Australia",NA,NA
+2012,"February","Guangdong Nuclear Power, China Development Bank",990,"0.9","Kalahari Minerals","Metals",NA,"Britain","Europe",NA,NA
+2014,"September","CNPC",990,"0.1","Vankorneft","Energy","Oil","Russian Federation","West Asia",1,NA
+2015,"September","Biostime",990,"0.83","Swisse Wellness","Health",NA,"Australia","Australia",0,NA
+2016,"October","Shenzhen Government",990,"1","ACR Capital","Finance",NA,"Singapore","East Asia",1,NA
+2018,"August","Shandong Linglong Tire",990,"1",NA,"Transport","Autos","Serbia","Europe",1,"G"
+2019,"January","China National Building Material",990,NA,NA,"Real estate","Construction","Tanzania","Sub-Saharan Africa",1,"G"
+2009,"September","Unicom",1000,"0.01","Telefonica","Technology","Telecom","Spain","Europe",NA,NA
+2016,"January","ChemChina",1000,"1","KraussMaffei","Real estate","Construction","Germany","Europe",0,NA
+2016,"April","Alibaba",1000,"0.51","Lazada","Other","Consumer","Singapore","East Asia",1,NA
+2016,"August","Didi Chuxing",1000,"1.4999999999999999E-2","Uber Global","Transport","Autos","USA","USA",0,NA
+2017,"June","Alibaba",1000,"0.32","Lazada","Other","Consumer","Singapore","East Asia",1,NA
+2010,"June","Shaanxi Chemical",1010,"1",NA,"Chemicals",NA,"Argentina","South America",NA,"G"
+2011,"July","Shenhua",1010,"0.21","Mitsui and Peabody","Energy","Coal","Mongolia","East Asia",NA,"G"
+2015,"November","China Life",1010,"0.3","GLP","Logistics",NA,"USA","USA",0,NA
+2018,"May","Huadian",1010,"0.5",NA,"Energy","Coal","Bangladesh","West Asia",1,"G"
+2009,"May","CNPC",1020,"0.46","Singapore Petroleum","Energy","Oil","Singapore","East Asia",NA,NA
+2009,"June","CNPC",1020,"0.51",NA,"Energy",NA,"Myanmar","East Asia",NA,"G"
+2013,"February","Sinopec",1020,"0.5","Chesapeake Energy","Energy","Oil","USA","USA",NA,NA
+2010,"November","CIC",1030,NA,"General Growth Properties","Real estate","Property","USA","USA",NA,NA
+2010,"December","Sinohydro",1030,"0.85",NA,"Energy","Hydro","Laos","East Asia",NA,"G"
+2012,"February","CNPC",1030,"0.2","Shell","Energy","Gas","Canada","North America",NA,NA
+2015,"February","Anbang",1030,"0.63","Tong Yang Life","Finance",NA,"South Korea","East Asia",1,NA
+2016,"December","CIC",1030,"0.45","Invesco","Real estate","Property","USA","USA",0,NA
+2017,"September","HNA",1030,"1","CWT","Logistics",NA,"Singapore","East Asia",1,NA
+2019,"September","China General Nuclear",1030,NA,"Actis","Energy","Alternative","Brazil","South America",0,NA
+2019,"December","Zijin Mining",1030,"1","Continental Gold","Metals",NA,"Canada","North America",0,NA
+2017,"January","CNOOC",1040,"0.14000000000000001",NA,"Energy","Gas","Indonesia","East Asia",1,NA
+2017,"January","Zhejiang Jinke",1050,NA,"Outfit7","Entertainment",NA,"Slovenia","Europe",1,NA
+2014,"March","Shanghai Greenland",1060,NA,"Commercial Estates Group","Real estate","Property","Britain","Europe",0,"G"
+2015,"April","Power Construction Corp",1070,"0.51","Al Mirqab Capital","Energy","Coal","Pakistan","West Asia",1,"G"
+2018,"August","Envision Energy",1070,"0.75","Nissan","Transport","Autos","Japan","East Asia",0,NA
+2019,"May","CNPC",1070,"1",NA,"Energy","Gas","Iraq","Arab Middle East and North Africa",1,"G"
+2015,"October","Yantai Xinchao",1080,NA,"Tall City and Plymouth Petroleum","Energy","Oil","USA","USA",0,NA
+2016,"November","Beijing Enterprises",1080,"0.2","Verkhnechonskneftegaz","Energy","Gas","Russian Federation","West Asia",1,NA
+2017,"October","Fosun",1080,"0.74","Gland Pharma","Health",NA,"India","West Asia",0,NA
+2019,"March","YY",1080,"0.68","Bigo","Entertainment",NA,"Singapore","East Asia",1,NA
+2009,"August","CIC",1090,NA,"Goodman Group","Real estate","Property","Australia","Australia",NA,NA
+2012,"December","MCC",1090,"0.85",NA,"Metals","Steel","Papua New Guinea","East Asia",NA,NA
+2013,"June","Dalian Wanda",1090,NA,NA,"Tourism",NA,"Britain","Europe",NA,"G"
+2014,"April","Sinopec",1090,"0.5","Caspian Investment Resources","Energy","Oil","Kazakhstan","West Asia",1,NA
+2014,"August","CNPC",1090,"0.4","Athabasca","Energy","Oil","Canada","North America",0,NA
+2016,"September","CIC",1090,NA,"Petrobras","Energy","Gas","Brazil","South America",0,NA
+2019,"April","Ctrip",1090,"0.22","MakeMyTrip","Tourism",NA,"India","West Asia",0,NA
+2014,"February","Anhui Landing",1100,"0.5","Genting Singapore","Tourism",NA,"South Korea","East Asia",1,"G"
+2014,"February","Dongfeng",1100,"0.14000000000000001","Pugeot","Transport","Autos","France","Europe",0,NA
+2017,"July","CITIC-led fund",1100,NA,"Dow","Agriculture",NA,"Brazil","South America",0,NA
+2016,"December","CNOOC",1110,NA,NA,"Energy","Oil","Mexico","North America",0,"G"
+2018,"January","China Merchants",1120,"0.7",NA,"Transport","Shipping","Sri Lanka","West Asia",1,"G"
+2019,"December","Jiangxi Copper",1120,"0.18","First Quantum Minerals","Metals","Copper","Canada","North America",0,NA
+2020,"March","Global Logistics Properties",1120,NA,"Goodman Group","Logistics",NA,"Australia","Australia",0,NA
+2015,"January","Fosun",1130,"1","Club Med","Tourism",NA,"France","Europe",0,NA
+2016,"October","CIC",1130,NA,"BGP","Real estate","Property","Germany","Europe",0,NA
+2013,"March","State Grid",1140,NA,"Sintez","Energy",NA,"Russian Federation","West Asia",NA,NA
+2017,"January","China Molybdenum",1140,"0.24","Lundin Mining","Metals","Copper","Democratic Republic of the Congo","Sub-Saharan Africa",0,NA
+2010,"June","Shanghai Electric",1150,"0.6","Goss International","Other","Industry","USA","USA",NA,NA
+2013,"November","Evergreen",1150,NA,NA,"Chemicals",NA,"Congo","Sub-Saharan Africa",1,"G"
+2015,"July","CIC",1150,"1","CBRE Global Investors","Real estate","Property","France","Europe",0,NA
+2016,"December","SAFE",1150,"0.1","Sibur","Energy","Gas","Russian Federation","West Asia",1,NA
+2018,"January","Creat",1150,"0.9","Biotest","Health",NA,"Germany","Europe",0,NA
+2009,"September","CNPC",1160,"0.5","Singapore Petroleum","Energy","Oil","Singapore","East Asia",NA,NA
+2016,"July","Dalian Wanda",1160,NA,"Carmike Cinemas","Entertainment",NA,"USA","USA",0,NA
+2018,"February","Tsingshan Steel",1160,"1",NA,"Metals","Steel","India","West Asia",0,"G"
+2018,"March","CNPC",1180,"0.1",NA,"Energy","Oil","UAE","Arab Middle East and North Africa",1,"G"
+2008,"July","China Railway Engineering",1190,"0.28000000000000003","Congo Simco","Metals","Copper","Democratic Republic of the Congo","Sub-Saharan Africa",NA,"G"
+2011,"June","Dreal",1190,"0.7","Mar Grandioso","Real estate","Property","Angola","Sub-Saharan Africa",NA,"G"
+2015,"February","Dalian Wanda",1190,"0.68","Infront Sports & Media","Entertainment",NA,"Switzerland","Europe",0,NA
+2015,"February","CIC",1190,NA,"Mori Trust","Real estate","Property","Japan","East Asia",0,NA
+2016,"May","Creat",1190,"0.8","Bio Products Laboratory","Health",NA,"Britain","Europe",0,NA
+2019,"December","Huadian",1190,NA,NA,"Energy","Coal","Cambodia","East Asia",1,"G"
+2007,"November","Chinalco",1200,"0.4","Binladin, MMC","Metals","Aluminum","Saudi Arabia","Arab Middle East and North Africa",NA,"G"
+2008,"February","Minmetals, Xinxing Iron",1200,"20%, 35%","Kelachandra and Manasara","Metals","Steel","India","West Asia",NA,"G"
+2009,"September","CIC",1200,NA,"Goldman Sachs and Oaktree Capital Management","Real estate","Property","USA","USA",NA,NA
+2010,"March","East China Mineral Exploration and Development Bureau (Jiangsu)",1200,NA,"Bernardo de Mello Itaminas","Metals","Steel","Brazil","South America",NA,NA
+2010,"September","Bosai Minerals",1200,"0.8","Ghana Bauxite","Metals","Aluminum","Ghana","Sub-Saharan Africa",NA,NA
+2012,"May","Huawei",1200,"1",NA,"Technology","Telecom","Hungary","Europe",NA,"G"
+2016,"January","HNA",1200,NA,"Avolon","Transport","Aviation","Ireland","Europe",0,NA
+2016,"October","Three Gorges, China Development Bank",1200,NA,"Duke","Energy",NA,"Brazil","South America",0,NA
+2020,"September","Southern Power",1200,NA,NA,"Energy",NA,"Laos","East Asia",1,NA
+2009,"June","CIC",1210,"0.01","Morgan Stanley","Finance","Banking","USA","USA",NA,NA
+2015,"September","SAFE",1210,"0.1","Novatek","Energy","Gas","Russian Federation","West Asia",1,NA
+2016,"July","Dalian Wanda",1210,"1","Odeon and UCI Cinemas","Entertainment",NA,"Britain","Europe",0,NA
+2010,"May","CIC",1220,"5%, 45%","Penn West, Penn West Energy","Energy","Oil","Canada","North America",NA,"G"
+2015,"June","SAFE",1220,"0.02","Intesa Sanpaolo","Finance","Banking","Italy","Europe",1,NA
+2010,"November","Huaneng Power",1230,"0.5","InterGen","Energy",NA,"USA","USA",NA,NA
+2020,"July","China Energy Engineering",1230,"0.8","Laraib","Energy","Hydro","Pakistan","West Asia",1,"G"
+2014,"May","Sinopec, Huadian",1240,"10%, 5%","Petronas","Energy","Gas","Canada","North America",0,"G"
+2015,"January","Oceanwide Holdings",1240,NA,NA,"Real estate","Property","USA","USA",0,"G"
+2017,"May","Beijing Zhonghuan",1240,NA,NA,"Transport","Autos","Germany","Europe",0,"G"
+2019,"November","Zhejiang Huayou Cobalt, China Molybdenum, Tsingshan",1240,"0.97",NA,"Metals","Steel","Indonesia","East Asia",1,"G"
+2013,"November","CNPC",1250,"0.25","ExxonMobil","Energy","Oil","Iraq","Arab Middle East and North Africa",1,NA
+2019,"July","Huawei",1250,NA,NA,"Technology","Telecom","Italy","Europe",1,NA
+2012,"June","China Nickel Resources",1260,"0.61","PT Jhonlinto","Metals","Steel","Indonesia","East Asia",NA,"G"
+2013,"July","Shanghai Greenland",1260,NA,"California State Teachers' Retirement System","Real estate","Property","USA","USA",NA,NA
+2018,"February","Orient Securities",1260,"0.54","Mediapro","Entertainment",NA,"Spain","Europe",0,NA
+2011,"September","Minmetals",1280,"1","Anvil Mining","Metals","Copper","Democratic Republic of the Congo","Sub-Saharan Africa",NA,NA
+2013,"December","CIC",1280,NA,"Blackstone","Real estate","Property","Britain","Europe",0,NA
+2006,"April","Group of Shanghai state firms",1300,"1",NA,"Real estate","Property","Russian Federation","West Asia",NA,"G"
+2009,"April","Tianjin Pipe",1300,"1",NA,"Metals","Steel","USA","USA",NA,"G"
+2018,"January","Southern Power",1300,"0.28000000000000003","Transelec","Energy",NA,"Chile","South America",1,NA
+2018,"June","Chinalco",1300,NA,NA,"Metals","Copper","Peru","South America",1,NA
+2015,"July","China Energy Engineering",1310,"0.7","JAKS Resources","Energy","Coal","Vietnam","East Asia",1,"G"
+2008,"July","Sinosteel",1320,"0.51","Midwest","Metals","Steel","Australia","Australia",NA,NA
+2015,"December","Shenhua",1320,"0.7","PLN","Energy","Coal","Indonesia","East Asia",1,"G"
+2019,"September","State Power Investment, AVIC",1320,"0.79",NA,"Energy","Coal","Turkey","West Asia",1,"G"
+2018,"March","Sinopec",1330,"1","Chevron","Energy","Oil","South Africa","Sub-Saharan Africa",1,NA
+2015,"December","Sinopec",1340,"0.1","Sibur","Energy","Gas","Russian Federation","West Asia",1,NA
+2008,"July","MCC, Sinohydro",1350,"20%, 20%",NA,"Metals","Copper","Democratic Republic of the Congo","Sub-Saharan Africa",NA,"G"
+2012,"April","Chinalco",1350,"0.41","Rio Tinto","Metals","Steel","Guinea","Sub-Saharan Africa",NA,"G"
+2015,"December","CNOOC",1350,"0.25","Stampede Deepwater","Energy","Oil","USA","USA",0,NA
+2011,"July","Jinchuan",1360,"1","Metorex","Metals","Copper","South Africa","Sub-Saharan Africa",NA,NA
+2014,"July","CIC",1360,"0.19","Bumi Resources Minerals","Energy","Coal","Indonesia","East Asia",1,NA
+2017,"April","HNA",1360,"0.16","Dufry","Tourism",NA,"Switzerland","Europe",0,NA
+2017,"May","HNA",1360,"0.05","Deutsche Bank","Finance","Banking","Germany","Europe",0,NA
+2013,"December","Guangzhou R&F Properties",1370,"1",NA,"Real estate","Property","Malaysia","East Asia",1,"G"
+2009,"June","Minmetals",1390,"0.51","Oz Minerals","Metals",NA,"Australia","Australia",NA,NA
+2018,"August","Three Gorges",1390,NA,"Odebrecht","Energy","Hydro","Peru","South America",1,NA
+2008,"April","CIC",1400,"0.8","JC Flowers fund","Finance","Investment","USA","USA",NA,NA
+2013,"September","Sinopec",1400,NA,"Junin 1","Energy","Oil","Venezuela","South America",NA,"G"
+2013,"October","CNPC, CNOOC",1400,"10%, 10%","Petrobras, Shell, and Total","Energy","Oil","Brazil","South America",0,"G"
+2016,"July","ChemChina",1400,"0.4","Adama Agricultural Solutions","Agriculture",NA,"Israel","Europe",1,NA
+2017,"March","CC Land",1410,NA,"British Land and Oxford Properties","Real estate","Property","Britain","Europe",0,NA
+2018,"September","Zijin Mining",1410,"1","Nevsun","Metals","Copper","Canada","North America",0,NA
+2005,"September","CNPC, Sinopec",1420,NA,"EnCana","Energy","Oil","Ecuador","South America",NA,NA
+2017,"May","Shandong Heavy",1420,"0.18","Kion","Real estate","Construction","Germany","Europe",0,NA
+2017,"August","China Communications Construction",1430,NA,NA,"Real estate","Property","Sri Lanka","West Asia",1,"G"
+2018,"June","CDH, China Grand",1430,"1","Sirtex","Health",NA,"Australia","Australia",0,NA
+2010,"October","ChemChina",1440,"0.6","Makhteshim-Agan","Agriculture",NA,"Israel","Europe",NA,NA
+2016,"April","HNA",1440,"1","Gategroup","Tourism",NA,"Switzerland","Europe",0,NA
+2016,"August","COFCO",1440,"0.49","Nidera","Agriculture",NA,"Netherlands","Europe",0,NA
+2014,"November","Power Construction Corp",1460,"0.49","RusHydro","Energy","Hydro","Russian Federation","West Asia",1,"G"
+2016,"September","CIC",1460,"0.2",NA,"Transport","Shipping","Australia","Australia",0,NA
+2016,"November","CNPC",1460,NA,"PDVSA","Energy","Oil","Venezuela","South America",1,NA
+2012,"February","CNOOC",1470,"0.33","Tullow Oil","Energy","Oil","Uganda","Sub-Saharan Africa",NA,"G"
+2010,"May","CNPC",1480,"0.35","Shell","Energy",NA,"Syria","Arab Middle East and North Africa",NA,NA
+2010,"September","Norinco",1480,NA,"Myanmar Economic Holdings","Metals","Copper","Myanmar","East Asia",NA,"G"
+2016,"March","Shandong Ruyi",1480,"0.7","SMCP","Other","Textiles","France","Europe",0,NA
+2017,"March","State Power Investment",1480,"0.74","HUBCO","Energy","Coal","Pakistan","West Asia",1,"G"
+2017,"June","Yankuang",1480,NA,"Rio Tinto","Energy","Coal","Australia","Australia",0,NA
+2011,"May","Shandong Iron",1490,"0.25","African Minerals","Metals","Steel","Sierra Leone","Sub-Saharan Africa",NA,"G"
+2014,"November","Jin Jiang Hotels",1490,"1","Louvre Group","Tourism",NA,"France","Europe",0,NA
+2009,"July","Chinalco",1500,"0.04","Rio Tinto","Metals","Aluminum","Australia","Australia",NA,NA
+2009,"July","CIC",1500,"0.17","Teck Resources","Metals","Copper","Canada","North America",NA,NA
+2010,"February","CIC",1500,NA,"Lexington Partners, Pantheon Ventures, Goldman Sachs","Finance","Investment","USA","USA",NA,NA
+2012,"July","Sinopec",1500,"0.49","Talisman Energy","Energy","Oil","Britain","Europe",NA,NA
+2012,"July","SAFE",1500,NA,"GM","Finance","Investment","USA","USA",NA,NA
+2015,"June","China Construction Bank",1500,NA,"Royal Bank of Scotland","Finance","Banking","Australia","Australia",0,NA
+2015,"June","China Minsheng Investment",1500,NA,NA,"Finance","Investment","Singapore","East Asia",1,"G"
+2016,"April","China Molybdenum",1500,NA,"Anglo American","Chemicals",NA,"Brazil","South America",0,NA
+2008,"December","Union Development",1510,NA,NA,"Tourism",NA,"Cambodia","East Asia",NA,"G"
+2011,"June","Heilongjiang Beidahuang Nongken",1510,NA,"Cresud","Agriculture",NA,"Argentina","South America",NA,"G"
+2012,"October","CNPC",1510,"0.5","TransCanada","Energy","Oil","Canada","North America",NA,"G"
+2011,"February","Sinopec",1520,"0.15","Origin Energy-ConocoPhillips","Energy","Gas","Australia","Australia",NA,NA
+2013,"June","Sinopec",1520,"0.1","Marathon","Energy","Oil","Angola","Sub-Saharan Africa",NA,NA
+2014,"July","Legend",1540,"1","PizzaExpress","Agriculture",NA,"Britain","Europe",0,NA
+2016,"June","Three Gorges",1540,"0.8","WindMW","Energy","Alternative","Germany","Europe",0,NA
+2014,"May","Bright Foods",1560,"0.78","Tnuva","Agriculture",NA,"Israel","Europe",1,NA
+2013,"January","Minmetals",1570,"1",NA,"Metals",NA,"Australia","Australia",NA,"G"
+2016,"September","China Energy Conservation, Jiangsu Dadang, China Tianying",1570,NA,"ACS","Utilities",NA,"Spain","Europe",0,NA
+2008,"January","State Grid",1580,"0.4","Monto Oro Grid","Energy",NA,"Philippines","East Asia",NA,NA
+2009,"November","CIC",1580,"0.15","AES","Energy",NA,"USA","USA",NA,NA
+2010,"March","CNPC",1580,NA,"Arrow Energy","Energy","Gas","Australia","Australia",NA,NA
+2016,"February","Beijing Enterprises",1590,"1","EEW","Energy","Alternative","Germany","Europe",0,NA
+2017,"November","Ningbo Joyson",1590,"1","Takata","Transport","Autos","Japan","East Asia",0,NA
+2017,"May","HNA",1600,"0.7","245 Park Avenue","Real estate","Property","USA","USA",0,NA
+2015,"November","Zhuhai Port Holdings, State Construction Engineering",1620,NA,NA,"Transport","Shipping","Pakistan","West Asia",1,"G"
+2012,"December","CNPC",1630,NA,"BHP","Energy","Gas","Australia","Australia",NA,NA
+2017,"November","State Energy Investment",1640,"0.75","Copelouzos","Energy","Alternative","Greece","Europe",1,"G"
+2016,"February","Three Gorges",1650,NA,NA,"Energy","Hydro","Pakistan","West Asia",1,"G"
+2019,"October","China Communications Construction",1650,"0.49","Jasamarga","Transport","Autos","Indonesia","East Asia",1,NA
+2011,"February","Wanhua Industrial",1660,"0.57999999999999996","BorsodChem","Chemicals",NA,"Hungary","Europe",NA,NA
+2015,"January","Jiangsu Changjiang, Semiconductor Manufacturing International, IC Fund",1660,"1","STATS ChipPAC","Technology",NA,"Singapore","East Asia",1,NA
+2015,"February","Anbang",1670,"1","Vivat","Finance",NA,"Netherlands","Europe",0,NA
+2016,"December","China Communications Construction",1680,"0.5","Bina Puri","Tourism",NA,"Malaysia","East Asia",1,"G"
+2018,"April","Tencent",1690,"0.09","Spotify","Entertainment",NA,"Sweden","Europe",0,NA
+2013,"January","Sinochem",1700,"0.4","Pioneer Natural Resouces","Energy","Oil","USA","USA",NA,NA
+2013,"July","Kingho Energy",1700,"1",NA,"Metals","Steel","Sierra Leone","Sub-Saharan Africa",NA,"G"
+2010,"May","State Grid",1720,"1","Plena Transmissoras","Energy",NA,"Brazil","South America",NA,NA
+2005,"January","China Academy of Sciences",1740,NA,"IBM","Technology",NA,"USA","USA",NA,NA
+2009,"August","CNPC",1740,"0.6","Athabasca Oil Corp","Energy","Oil","Canada","North America",NA,NA
+2016,"November","Ctrip",1740,"1","Skyscanner","Tourism",NA,"Britain","Europe",0,NA
+2009,"January","CNPC",1760,NA,"National Iranian Oil","Energy","Oil","Iran","West Asia",NA,"G"
+2015,"July","Southern Power, State Power Investment",1760,"55%, 40%","Vinacomin","Energy","Coal","Vietnam","East Asia",1,"G"
+2017,"August","Legend",1760,"0.9","Qatar royal family","Finance","Banking","Luxembourg","Europe",1,NA
+2017,"February","CNPC, CNOOC",1770,"0.08",NA,"Energy","Oil","UAE","Arab Middle East and North Africa",1,"G"
+2019,"October","Contemporary Amperex Tech",1770,NA,NA,"Transport","Autos","Germany","Europe",0,"G"
+2017,"March","Tencent",1780,"0.05","Tesla","Transport",NA,"USA","USA",0,NA
+2018,"December","CIC",1780,"0.11",NA,"Energy","Gas","Britain","Europe",0,NA
+2015,"July","CIC",1790,"1","Morgan Stanley","Real estate","Property","Australia","Australia",0,NA
+2015,"May","CIC",1800,"1","RF Power Units","Technology",NA,"Netherlands","Europe",0,NA
+2015,"July","Huaneng Power",1810,"1","Sahiwal Coal-Fired Power Station","Energy","Coal","Pakistan","West Asia",1,"G"
+2015,"May","Fosun",1840,"0.8","Ironshore","Finance",NA,"USA","USA",0,NA
+2018,"February","Shandong Yuhuang Chemical",1850,NA,NA,"Chemicals",NA,"USA","USA",0,"G"
+2015,"April","Tsinghua Holdings, CITIC",1900,"1","Omnivision Technologies","Technology",NA,"USA","USA",0,NA
+2019,"November","CNPC, CNOOC",1900,NA,"Petrobras","Energy","Oil","Brazil","South America",0,"G"
+2006,"October","CITIC",1910,NA,"Nations Energy","Energy",NA,"Kazakhstan","West Asia",NA,NA
+2010,"January","Shunde Rixin, Minmetals",1910,"0.7",NA,"Metals","Steel","Chile","South America",NA,"G"
+2014,"August","China General Nuclear",1920,"0.9",NA,"Metals",NA,"Namibia","Sub-Saharan Africa",1,"G"
+2012,"October","CNOOC",1930,NA,"BG","Energy","Gas","Australia","Australia",NA,NA
+2019,"March","Creat",1930,"0.45","Grifols","Health",NA,"USA","USA",0,NA
+2012,"May","Bright Foods",1940,"0.6","Weetabix","Agriculture",NA,"Britain","Europe",NA,NA
+2015,"May","Zhongrun Resources",1940,NA,NA,"Metals","Steel","Mongolia","East Asia",1,NA
+2011,"August","Taiyuan Iron, CITIC, Baosteel",1950,"0.15","CBMM","Metals",NA,"Brazil","South America",NA,NA
+2014,"October","Anbang",1950,NA,"Hilton Worldwide","Tourism",NA,"USA","USA",0,NA
+2019,"March","China Communications Construction",1950,NA,NA,"Transport","Autos","Cambodia","East Asia",1,"G"
+2008,"September","Sinopec",1990,"1","Tanganyika Oil","Energy","Oil","Syria","Arab Middle East and North Africa",NA,NA
+2006,"November","Ex-Im Bank",2000,NA,NA,"Metals",NA,"Democratic Republic of the Congo","Sub-Saharan Africa",NA,NA
+2011,"January","Shangdi Guanqun Investment",2000,NA,"Pyongyang Investment and Development","Transport","Rail","North Korea","East Asia",NA,"G"
+2013,"September","CNOOC",2000,"0.85","Kingfisher","Energy","Oil","Uganda","Sub-Saharan Africa",NA,"G"
+2014,"November","Dreal",2000,"1",NA,"Real estate","Property","Guinea","Sub-Saharan Africa",1,"G"
+2015,"October","ICBC",2000,NA,"Petrobras","Energy","Oil","Brazil","South America",0,NA
+2018,"March","Alibaba",2000,NA,NA,"Other","Consumer","Singapore","East Asia",1,NA
+2007,"December","Sinopec",2010,"0.51","National Iranian Oil","Energy","Oil","Iran","West Asia",NA,"G"
+2008,"April","SAFE",2010,"0.01","BP","Energy",NA,"Britain","Europe",NA,NA
+2011,"January","ChemChina",2010,"1","Elkem","Chemicals",NA,"Norway","Europe",NA,NA
+2016,"April","HNA, Jin Jiang Hotels",2010,"1","Carlson Hotels","Tourism",NA,"USA","USA",0,NA
+2011,"April","Datang, China South Industries",2030,"0.64","CBD Energy","Energy","Alternative","Australia","Australia",NA,"G"
+2014,"January","Fosun",2030,"0.8","Caixa Geral","Finance",NA,"Portugal","Europe",1,NA
+2016,"April","Power Construction Corp",2030,"0.85",NA,"Energy","Hydro","Laos","East Asia",1,"G"
+2011,"July","CNOOC",2040,"1","Opti Canada","Energy","Oil","Canada","North America",NA,NA
+2013,"September","CIC",2040,"0.13","Uralkali","Agriculture",NA,"Russian Federation","West Asia",NA,NA
+2014,"February","COFCO",2040,"0.51","Nidera","Agriculture",NA,"Netherlands","Europe",0,NA
+2014,"June","China Railway Construction, China Nonferrous",2040,NA,"Mirador","Metals","Copper","Ecuador","South America",1,"G"
+2018,"December","Shandong Ruyi",2040,NA,NA,"Other","Textiles","USA","USA",0,NA
+2011,"October","Sinopec",2100,"1","Daylight Energy","Energy",NA,"Canada","North America",NA,NA
+2016,"April","Zhuhai Zhenrong",2100,"0.7",NA,"Energy","Oil","Myanmar","East Asia",1,NA
+2016,"June","Shandong Heavy",2100,NA,"DH Services","Logistics",NA,"Luxembourg","Europe",1,NA
+2018,"August","Kunming Iron",2130,NA,NA,"Metals","Steel","Bangladesh","West Asia",1,"G"
+2014,"January","Lenovo",2140,NA,"IBM","Technology",NA,"USA","USA",0,NA
+2008,"May","Chinalco",2160,"1",NA,"Metals","Copper","Peru","South America",NA,"G"
+2012,"December","CNPC",2180,"0.49","Encana","Energy","Gas","Canada","North America",NA,"G"
+2012,"January","Sinopec",2200,"0.33","Devon Energy","Energy","Gas","USA","USA",NA,NA
+2015,"December","State Power Investment",2200,"1","IFM Investors","Energy","Hydro","Australia","Australia",0,NA
+2018,"January","China Railway Engineering",2200,"0.4",NA,"Transport","Rail","Indonesia","East Asia",1,"G"
+2011,"December","Yankuang",2210,"0.77","Gloucester","Energy","Coal","Australia","Australia",NA,NA
+2019,"August","Jiangsu Shagang",2210,"0.24","Global Switch","Technology","Telecom","Britain","Europe",0,NA
+2019,"October","State Grid",2230,NA,"Sempra","Energy",NA,"Chile","South America",1,NA
+2017,"November","Tencent",2240,"0.12","Snapchat","Entertainment",NA,"USA","USA",0,NA
+2017,"September","State Power Investment",2260,NA,NA,"Energy","Hydro","Brazil","South America",0,NA
+2006,"January","CNOOC",2270,"0.45","South African Petroleum","Energy",NA,"Nigeria","Sub-Saharan Africa",NA,NA
+2011,"June","Three Gorges",2290,"0.5","EuroSibEnergo","Energy",NA,"Russian Federation","West Asia",NA,"G"
+2018,"November","Ping An",2300,"0.02","HSBC","Finance","Banking","Britain","Europe",0,NA
+2017,"February","Anbang",2310,NA,"Blackstone","Real estate","Property","Japan","East Asia",0,NA
+2018,"November","Zhongrong Xinda",2360,NA,"Pampa de Pongo","Metals","Steel","Peru","South America",1,NA
+2010,"October","CNOOC",2370,"0.33","Chesapeake Energy","Energy","Gas","USA","USA",NA,NA
+2012,"March","Guangdong Nuclear Power, China Development Bank",2380,"1","Extract Resources","Metals",NA,"Australia","Australia",NA,NA
+2018,"July","AVIC",2440,"0.25","Global Switch","Technology","Telecom","Britain","Europe",0,NA
+2010,"December","Sinopec",2470,NA,"Occidental Petroleum","Energy",NA,"Argentina","South America",NA,NA
+2008,"July","CNOOC",2490,"1","Awilco Offshore","Energy","Oil","Norway","Europe",NA,NA
+2010,"October","Minmetals",2500,"1",NA,"Metals","Copper","Peru","South America",NA,"G"
+2012,"November","Sinopec",2500,"0.2","Total","Energy","Oil","Nigeria","Sub-Saharan Africa",NA,NA
+2008,"June","SAFE",2510,"0.2","TPG fund","Finance","Investment","USA","USA",NA,NA
+2018,"July","Tsinghua Holdings",2570,"1","Linxens","Technology",NA,"France","Europe",0,NA
+2014,"December","Shanghai Greenland",2580,"0.56000000000000005","Forest City Ratner","Real estate","Property","USA","USA",0,"G"
+2015,"July","China Minsheng Investment",2590,"1","Sirius International Insurance","Finance",NA,"Sweden","Europe",0,NA
+2009,"April","CNPC",2600,NA,"MangistauMunaiGas","Energy","Gas","Kazakhstan","West Asia",NA,NA
+2012,"May","Dalian Wanda",2600,"1","AMC Entertainment","Entertainment",NA,"USA","USA",NA,NA
+2016,"May","China Molybdenum",2650,"0.56000000000000005","Freeport-McMoran","Metals","Copper","Democratic Republic of the Congo","Sub-Saharan Africa",0,NA
+2007,"November","Ping An",2700,"0.04","Fortis","Finance",NA,"Belgium","Europe",NA,NA
+2010,"March","Geely Auto",2700,NA,"Volvo","Transport","Autos","Sweden","Europe",NA,NA
+2015,"May","Sichuan Hanlong",2700,NA,NA,"Metals",NA,"Tanzania","Sub-Saharan Africa",1,"G"
+2016,"June","CIC, Wise Road Capital",2750,NA,"NXP Semi","Technology",NA,"Netherlands","Europe",0,NA
+2019,"July","Beijing Auto",2750,"0.05","Daimler","Transport","Autos","Germany","Europe",0,NA
+2014,"March","SAFE",2760,"2%, 3%","Eni, Enel","Energy",NA,"Italy","Europe",1,NA
+2014,"November","State Grid",2760,"0.35","CDP Reti","Energy",NA,"Italy","Europe",1,NA
+2008,"April","SAFE",2800,"1.6E-2","Total","Energy",NA,"France","Europe",NA,NA
+2015,"July","HNA",2810,"1","Swissport International","Logistics",NA,"Switzerland","Europe",0,NA
+2018,"October","CNPC",2830,"0.15","Shell","Energy","Gas","Canada","North America",0,"G"
+2007,"November","MCC, Jiangxi Copper",2870,NA,NA,"Metals","Copper","Afghanistan","West Asia",NA,"G"
+2013,"November","CNPC",2890,NA,"Petrobras","Energy",NA,"Peru","South America",1,NA
+2014,"January","Lenovo",2910,"1","Motorola Mobility","Technology","Telecom","USA","USA",0,NA
+2006,"March","CITIC",2920,"1","Mineralogy","Metals","Steel","Australia","Australia",NA,"G"
+2009,"August","Yankuang",2950,"1","Felix Resources","Energy","Coal","Australia","Australia",NA,NA
+2014,"November","Yankuang",2960,NA,NA,"Energy","Coal","Australia","Australia",0,NA
+2016,"December","Jiangsu Shagang-led consortium",2960,"0.49","Global Switch","Technology","Telecom","Britain","Europe",0,NA
+2009,"March","CNPC",2990,NA,NA,"Energy","Oil","Iraq","Arab Middle East and North Africa",NA,NA
+2007,"May","CIC",3030,"0.09","Blackstone","Finance","Investment","USA","USA",NA,NA
+2020,"November","State Grid",3030,"0.96","Naturgy","Energy",NA,"Chile","South America",1,NA
+2007,"July","China Development Bank",3040,"3.1E-2","Barclays","Finance","Banking","Britain","Europe",NA,NA
+2008,"March","Huaneng Power",3040,"1","Tuas Power","Energy",NA,"Singapore","East Asia",NA,NA
+2010,"May","Sinochem",3070,"0.4","Statoil","Energy","Oil","Brazil","South America",NA,NA
+2010,"March","CNOOC",3100,"0.5","Bridas","Energy",NA,"Argentina","South America",NA,NA
+2013,"August","Sinopec",3100,"0.33","Apache","Energy",NA,"Egypt","Arab Middle East and North Africa",NA,NA
+2019,"December","Tencent",3130,NA,"Universal Music","Entertainment",NA,"France","Europe",0,NA
+2015,"January","Shanghai Greenland",3220,NA,NA,"Real estate","Property","South Korea","East Asia",1,"G"
+2011,"August","CIC",3240,"0.3","GDF Suez","Energy",NA,"France","Europe",NA,NA
+2018,"January","Geely Auto",3270,"0.08","Volvo Trucks","Transport","Autos","Sweden","Europe",0,NA
+2016,"April","Zhuhai Seine Technology, Legend",3400,NA,"Lexmark","Technology",NA,"USA","USA",0,NA
+2020,"December","Tencent",3420,NA,"Vivendi","Entertainment",NA,"France","Europe",0,NA
+2014,"December","Zhejiang Hengyi",3440,"0.7",NA,"Energy","Oil","Brunei","East Asia",1,"G"
+2017,"November","State Grid",3440,"0.4","CPFL","Energy",NA,"Brazil","South America",0,NA
+2006,"June","Sinopec",3490,"0.49","Rosneft","Energy",NA,"Russian Federation","West Asia",NA,NA
+2016,"January","Dalian Wanda",3500,"1","Legendary Entertainment","Entertainment",NA,"USA","USA",0,NA
+2011,"December","Three Gorges",3510,"0.21","Energias de Portugal","Energy",NA,"Portugal","Europe",NA,NA
+2019,"September","Three Gorges",3590,"0.84","Luz del Sur","Energy",NA,"Peru","South America",1,NA
+2016,"January","Three Gorges",3660,NA,NA,"Energy","Hydro","Brazil","South America",0,NA
+2011,"December","Sinopec",3710,"0.38","SABIC refinery","Energy","Oil","Saudi Arabia","Arab Middle East and North Africa",NA,"G"
+2013,"May","State Grid",3810,"0.6","Singapore Power","Energy",NA,"Australia","Australia",NA,NA
+2019,"April","CNPC, CNOOC",4040,"0.2",NA,"Energy","Gas","Russian Federation","West Asia",1,NA
+2018,"May","Chengdu Tianqi",4070,"0.24","Sociedad Quimica y Minera","Metals",NA,"Chile","South America",1,NA
+2018,"October","China Railway Corp, China Railway Engineering",4170,"0.7",NA,"Transport","Rail","Laos","East Asia",1,"G"
+2005,"August","CNPC",4200,"0.67","PetroKazakhstan","Energy","Oil","Kazakhstan","West Asia",NA,NA
+2013,"March","CNPC",4210,"0.28999999999999998",NA,"Energy","Gas","Mozambique","Sub-Saharan Africa",NA,NA
+2016,"July","Alpha Frontier",4400,NA,"Playtika","Entertainment",NA,"Israel","Europe",1,NA
+2010,"April","Sinopec",4650,"0.09","ConocoPhillip","Energy","Oil","Canada","North America",NA,NA
+2016,"August","Guangdong Midea",4680,"0.82","Kuka","Technology",NA,"Germany","Europe",0,NA
+2011,"November","Sinopec",4800,"0.3","Galp Energia","Energy",NA,"Brazil","South America",NA,NA
+2016,"December","State Grid",4910,"0.55000000000000004","CPFL","Energy",NA,"Brazil","South America",0,NA
+2008,"June","CNPC",4990,"1",NA,"Energy","Oil","Niger","Sub-Saharan Africa",NA,"G"
+2007,"December","CIC",5000,"9.9000000000000005E-2","Morgan Stanley","Finance","Investment","USA","USA",NA,NA
+2019,"March","Anta Sports-led consortium",5050,"0.79","Amer Sports","Entertainment",NA,"Finland","Europe",0,NA
+2015,"September","HNA",5170,"1","Avolon","Transport","Aviation","Ireland","Europe",0,NA
+2013,"July","CNPC",5300,"0.08","KazMunaiGas National","Energy","Oil","Kazakhstan","West Asia",NA,NA
+2016,"January","Haier",5400,NA,"General Electric","Other","Consumer","USA","USA",0,NA
+2009,"October","CNPC",5590,"0.37","BP and Iraq South Oil","Energy","Oil","Iraq","Arab Middle East and North Africa",NA,"G"
+2007,"October","ICBC",5600,"0.2","Standard Bank","Finance","Banking","South Africa","Sub-Saharan Africa",NA,NA
+2016,"March","Anbang",5720,NA,"Blackstone","Tourism",NA,"USA","USA",0,NA
+2008,"November","China Ocean Shipping",5790,NA,NA,"Transport","Shipping","Greece","Europe",NA,NA
+2018,"December","China Energy Engineering, Power Construction Corp, Sinopec",5790,"45%, 35%, 20%","Mambilla","Energy","Hydro","Nigeria","Sub-Saharan Africa",1,"G"
+2015,"November","China General Nuclear",5960,"1","Edra","Energy",NA,"Malaysia","East Asia",1,NA
+2016,"February","HNA",6000,"1","Ingram Micro","Technology",NA,"USA","USA",0,NA
+2016,"October","HNA",6500,"0.25","Blackstone","Tourism",NA,"USA","USA",0,NA
+2014,"April","Minmetals, Suzhou Guoxin, CITIC",6990,"63, 22, 15%","Glencore","Metals","Copper","Peru","South America",1,"G"
+2010,"October","Sinopec",7100,"0.4","Repsol","Energy","Oil","Brazil","South America",NA,NA
+2013,"May","Shuanghui",7100,"1","Smithfield Foods","Agriculture",NA,"USA","USA",NA,NA
+2009,"June","Sinopec",7200,"1","Addax Petroleum","Energy",NA,"Switzerland","Europe",NA,NA
+2015,"June","ChemChina, SAFE",7860,"1","Pirelli","Transport","Autos","Italy","Europe",1,NA
+2016,"June","Tencent",8600,"0.84","Supercell","Entertainment",NA,"Finland","Europe",0,NA
+2019,"June","China General Nuclear",8860,"0.34","Hinkley Point C","Energy",NA,"Britain","Europe",0,"G"
+2018,"February","Geely Auto",9030,"0.1","Daimler","Transport","Autos","Germany","Europe",0,NA
+2017,"November","Vanke, Hopu, Hillhouse, Bank of China",9060,"0.79","Global Logistics Property","Logistics",NA,"Singapore","East Asia",1,NA
+2017,"December","Ping An",9660,"0.05","HSBC","Finance","Banking","Britain","Europe",0,NA
+2017,"April","HNA",10380,NA,"CIT Group","Transport","Aviation","USA","USA",0,NA
+2008,"February","Chinalco",12800,"0.05","Rio Tinto","Metals","Aluminum","Australia","Australia",NA,NA
+2017,"July","CIC",13790,"1","Logicor","Logistics",NA,"Britain","Europe",0,NA
+2012,"December","CNOOC",15100,NA,"Nexen","Energy",NA,"Canada","North America",NA,NA
+2017,"June","China Reform Holdings, ChemChina",43060,"0.98","Syngenta","Agriculture",NA,"Switzerland","Europe",0,NA
